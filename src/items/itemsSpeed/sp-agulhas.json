@@ -1,0 +1,326 @@
+[
+  {
+    "id": 0,
+    "title": "Agulha Gengival",
+    "brand": "ALLPRIME",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 32,90",
+    "href": "https://www.dentalspeed.com/familia/agulha-gengival-allprime",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-gengival-allprime.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Agulha Gengival Unoject",
+    "brand": "DFL",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 69,00",
+    "href": "https://www.dentalspeed.com/familia/unoject-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/unoject-nova-dfl-01.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Agulha Descartável Hipodérmica",
+    "brand": "INJEX",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 10,89",
+    "href": "https://www.dentalspeed.com/familia/agulha-descartavel-hipodermica-injex",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-agulha-descartavel-hipodermica-25-x-08-injex.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Agulha Descartável Hipodérmica ",
+    "brand": "BD",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 24,44",
+    "href": "https://www.dentalspeed.com/familia/agulha-descartavel-hipodermica-bd",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-descartavel-hipodermica-25-x-08mm-5716.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Agulha Descartável p/ Irrigação",
+    "brand": "INJEX",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 90,00",
+    "href": "https://www.dentalspeed.com/familia/agulha-descartavel-p-irrigacao-injex",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-agulha-descartavel-p-irrigacao-25-x-04-injex.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Agulha Endo Eze Irrigator - 20 Un.",
+    "brand": "ULTRADENT",
+    "details": "Embalagem c/ 20 unidades.",
+    "price": "R$ 65,00",
+    "href": "https://www.dentalspeed.com/familia/agulha-endo-eze-irrigator-20-un-ultradent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-endo-eze-irrigator-20-un-ultradent-5831.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Agulha Endo Eze Irrigator - 5 Un.",
+    "brand": "ULTRADENT",
+    "details": "Embalagem c/ 5 unidades.",
+    "price": "R$ 34,98",
+    "href": "https://www.dentalspeed.com/familia/agulha-endo-eze-irrigator-5-un-ultradent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-endo-eze-irrigator-5-un-ultradent.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Agulha Gengival",
+    "brand": "INJEX",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 39,69",
+    "href": "https://www.dentalspeed.com/familia/agulha-gengival-injex",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-gengival-injex-01.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Agulha Gengival",
+    "brand": "TERUMO",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 105,90",
+    "href": "https://www.dentalspeed.com/familia/agulha-gengival-terumo",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-gengival-terumo.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Agulha Gengival Septoject",
+    "brand": "SEPTODONT",
+    "details": "Embalagem com 100 unidades.",
+    "price": "R$ 58,96",
+    "href": "https://www.dentalspeed.com/familia/agulha-septoject-septodont",
+    "img": "https://cdn.dentalspeed.com/produtos/150/septoject-septodont-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Agulha Descartável",
+    "brand": "DESCARPACK",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 10,89",
+    "href": "https://www.dentalspeed.com/familia/agulha-descartavel-descarpack",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-descartavel-descarpack.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Agulha Gengival",
+    "brand": "PROCARE",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 37,90",
+    "href": "https://www.dentalspeed.com/familia/agulha-gengival-procare",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-gengival-30g-curta-procare-11813.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Agulha p/ Irrigação - Ponta Cega",
+    "brand": "MK LIFE",
+    "details": "Embalagem c/ 10 unidades.",
+    "price": "R$ 22,69",
+    "href": "https://www.dentalspeed.com/familia/agulha-p-irrigacao-ponta-cega-mk-life",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-p-irrigacao-ponta-cega-mk-life-15441.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Agulha p/ Irrigação - Saída Lateral",
+    "brand": "MK LIFE",
+    "details": "Embalagem c/ 10 unidades.",
+    "price": "R$ 15,00",
+    "href": "https://www.dentalspeed.com/familia/agulha-p-irrigacao-saida-lateral-mk-life",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-p-irrigacao-saida-lateral-mk-life-15440.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Agulha p/ Irrigação Média",
+    "brand": "ICE",
+    "details": "Embalagem c/ 1 unidade.",
+    "price": "R$ 9,95",
+    "href": "https://www.dentalspeed.com/familia/agulha-media-ice",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-media-ice-14368.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Agulha Gengival Jets",
+    "brand": "INJECTA",
+    "details": "Embalagem c/ 100 unidades.",
+    "price": "R$ 47,04",
+    "href": "https://www.dentalspeed.com/familia/agulha-gengival-jets-injecta",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-gengival-jets-30g-curta-7721.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Agulha Descartável Hipodérmica 40 x 1,2mm - Canhão Rosa",
+    "brand": "DESCARPACK",
+    "details": "Embalagem c/ 1 unidade.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/agulha-descartavel-hipodermica-40-x-12mm-canhao-rosa-descarpack",
+    "img": "https://cdn.dentalspeed.com/produtos/150/agulha-descartavel-hipodermica-40-x-12mm-8190.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 17,
+    "title": "Agulha Intracanal NaviTip c/ 5 unid.",
+    "brand": "ULTRADENT",
+    "details": "Embalagem c/ 5 unidades.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/agulha-intracanal-navitip-c-5-unid-ultradent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-navitip-17mm-29ga-branca-ultradent.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:24.044Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

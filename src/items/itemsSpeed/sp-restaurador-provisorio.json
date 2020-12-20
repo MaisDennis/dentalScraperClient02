@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "title": "Kit Restaurador Provisório Bioplic",
+    "brand": "BIODINÂMICA",
+    "details": "Kit c/ 2 seringas de Bioplic de 2g cada e Attaque gel c/ 3 seringas de 3g cada + bico aplicador.",
+    "price": "R$ 67,77",
+    "href": "https://www.dentalspeed.com/familia/kit-restaurador-provisorio-bioplic-biodinamica",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-promo-bioplic-attaque-gel-3616-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:28.915Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Resina Provisória Provi Master F",
+    "brand": "WILCOS",
+    "details": "Embalagem c/ 1 seringa de 3g.",
+    "price": "R$ 43,23",
+    "href": "https://www.dentalspeed.com/familia/provi-master-wilcos",
+    "img": "https://cdn.dentalspeed.com/produtos/150/provi-master-f-5529.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:28.915Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Restaurador Provisório Cimpat",
+    "brand": "SEPTODONT",
+    "details": "Embalagem c/ 1 unidade c/ 25g de pasta.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/restaurador-provisorio-cimpat-septodont",
+    "img": "https://cdn.dentalspeed.com/produtos/150/restaurador-provisorio-cimpat-rosa-srp12473b.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:28.915Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

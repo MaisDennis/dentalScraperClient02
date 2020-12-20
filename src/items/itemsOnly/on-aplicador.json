@@ -1,0 +1,104 @@
+[
+  {
+    "id": 0,
+    "title": "Aplicador Dycal Angulado Infantil",
+    "brand": "GOLGRAN",
+    "price": "R$10,34",
+    "href": "https://www.onlydental.com.br/aplicador-dycal-angulado-infantil-gap3737d.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/aplicador-dycal-angulado-infantil-golgran-3737.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:52.450Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Aplicador de Hidróxido de Cálcio",
+    "brand": "DUFLEX",
+    "price": "R$25,56",
+    "href": "https://www.onlydental.com.br/aplicador-de-hidroxido-de-calcio-4899.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/aplicador-de-hidroxido-de-calcio-duflex.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:52.450Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Aplicador de Hidróxido de Cálcio",
+    "brand": "DUFLEX",
+    "price": "R$17,68",
+    "href": "https://www.onlydental.com.br/catalog/product/view/id/13958/s/aplicador-de-hidroxido-de-calcio/category/1567/",
+    "img": "https://cdn.onlydental.com.br/produtos/210/aplicador-de-hidroxido-de-calcio-duflex.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:52.450Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Aplicador de Hidróxido de Cálcio Dycal Duplo Angulado",
+    "brand": "FAVA",
+    "price": "R$9,24",
+    "href": "https://www.onlydental.com.br/aplicador-de-hidroxido-de-calcio-dycal-duplo-angulado-fav12723a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/aplicador-de-hidroxido-de-calcio-dycal-duplo-angulado-fava-12723.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:52.450Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Aplicador Dycal Angulado Oitavado",
+    "brand": "GOLGRAN",
+    "price": "R$10,34",
+    "href": "https://www.onlydental.com.br/aplicador-dycal-angulado-oitavado-gap3737c.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-aplicador-dycal-angulado-oitavado-golgran.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:52.450Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Aplicador Dycal Reto Oitavado",
+    "brand": "GOLGRAN",
+    "price": "R$10,34",
+    "href": "https://www.onlydental.com.br/aplicador-dycal-reto-oitavado.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-aplicador-dycal-reto-millenium-oitavado-golgran.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:52.450Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

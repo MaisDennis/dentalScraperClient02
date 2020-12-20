@@ -1,0 +1,138 @@
+[
+ {
+  "id": 0,
+  "title": "Rolo Dental - Soft Plus",
+  "details": "Embalagem com 100 unidades.",
+  "price": "R$2,40",
+  "href": "https://www.dentalcremer.com.br/rolo-dental-soft-plus-102907.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/102907.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:58.814Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 1,
+  "title": "Rolo Dental - Cremer",
+  "details": "Embalagem com 100 unidades. Tamanho nº 1 ou 2.",
+  "price": "R$1,99",
+  "href": "https://www.dentalcremer.com.br/rolo-dental-cremer-dc12922.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/514056.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:58.814Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 2,
+  "title": "Rolo Dental - SSPlus",
+  "details": "Embalagem com 100 unidades.",
+  "price": "R$3,19",
+  "href": "https://www.dentalcremer.com.br/rolo-dental-ssplus-388701.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/388701.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:58.814Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 3,
+  "title": "Rolo Dental Soft WA Colorido - Sugbem ",
+  "details": "Embalagem com 100 unidades.",
+  "price": "R$2,19",
+  "href": "https://www.dentalcremer.com.br/rolo-dental-soft-wa-colorido-sugbem-103739.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/10373-9.png",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:58.814Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 4,
+  "title": "Rolo Dental 2 Luna - Roeko",
+  "details": "Embalagem com 500 unidades.",
+  "price": "R$3,79",
+  "href": "https://www.dentalcremer.com.br/rolo-dental-2-luna-roeko-706123.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/706123_635901172894861557.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:58.814Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 5,
+  "title": "Rolo Dental 2 Luna - Roeko",
+  "details": "Embalagem com 200 unidades.",
+  "price": "R$70,93",
+  "href": "https://www.dentalcremer.com.br/rolo-dental-2-luna-roeko-706116.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/706116_635901172714836403.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:58.814Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 6,
+  "title": "Rolo Dental 1 Luna - Roeko",
+  "details": "Embalagem com 500 unidades.",
+  "price": "R$43,45",
+  "href": "https://www.dentalcremer.com.br/rolo-dental-1-luna-roeko-706109.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/706109_635901172260561491.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:58.814Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 7,
+  "title": "Absorvente Salivar Neodrys - Microcopy",
+  "details": "Embalagem com 50 unidades. (Grande)",
+  "price": "R$59,05",
+  "href": "https://www.dentalcremer.com.br/absorvente-salivar-neodrys-microcopy-793611.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/793611.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:58.814Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ }
+]

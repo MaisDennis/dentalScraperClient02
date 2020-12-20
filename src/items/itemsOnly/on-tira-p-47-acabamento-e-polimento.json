@@ -1,0 +1,663 @@
+[
+  {
+    "id": 0,
+    "title": "Tira de Lixa Abrasiva em Aço - 4mm",
+    "brand": "INJECTA",
+    "price": "R$8,90",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-abrasiva-em-aco-4mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-lixa-abrasiva-em-aco-4mm-injecta-12465.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Tira de Poliéster 4 mm",
+    "brand": "ALLPRIME",
+    "price": "R$9,12",
+    "href": "https://www.onlydental.com.br/tira-de-poliester-4-mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-poliester-4-mm-allprime-11953.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Tira de Lixa Poliéster Grano Fino e Médio - 2,5 mm c/ 100 Un.",
+    "brand": "MICRODONT",
+    "price": "R$10,88",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-poliester-grano-fino-e-medio-2-5-mm-c-100-un.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-lixa-poliester-grano-fino-e-medio-25-mm-c-100-un-microdont.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Tira de Lixa Abrasiva em Aço - 6mm",
+    "brand": "INJECTA",
+    "price": "R$8,90",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-abrasiva-em-aco-6mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-lixa-abrasiva-em-aco-6mm-injecta-12465.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Tira de Lixa Poliéster Grano Fino e Médio - 4mm c/ 150 Unidades - Brinde + 50 Unid.",
+    "brand": "MICRODONT",
+    "price": "R$14,20",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-poliester-grano-fino-e-medio-4-mm-c-150-unidades.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-lixa-poliester-grano-fino-e-medio-microdont.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Tira de Aço Colméia c/ Oxido de Alumínio",
+    "brand": "ORALTECH PREMIUM",
+    "price": "R$37,00",
+    "href": "https://www.onlydental.com.br/tira-de-aco-colmeia-c-oxido-de-aluminio-orp9148a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-aco-colmeia-c-oxido-de-aluminio-9148-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Lixa Inox Refil - 6mm",
+    "brand": "CORALDENT",
+    "price": "R$43,68",
+    "href": "https://www.onlydental.com.br/lixa-inox-refil-6mm-cor7248b.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-lixa-inox-refil-6mm-coraldent.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Tira de Aço 2,5 mm",
+    "brand": "ALLPRIME",
+    "price": "R$8,60",
+    "href": "https://www.onlydental.com.br/tira-de-aco-2-5-mm-alp11954a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-aco-25-mm-allprime-11954.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Tira de Poliéster 4 mm c/ 150 Un.",
+    "brand": "ALLPRIME",
+    "price": "R$13,86",
+    "href": "https://www.onlydental.com.br/tira-de-poliester-4-mm-c-150-un.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-aco-4-mm-c-150-allprime-11953.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Tira de Aço 6 mm",
+    "brand": "ALLPRIME",
+    "price": "R$13,42",
+    "href": "https://www.onlydental.com.br/tira-de-aco-6-mm-alp11954c.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-aco-6-mm-allprime-11954.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Tira de Lixa Dental Sof-Lex 4 mm X 170 mm - Caixa c/ 50 un.",
+    "brand": "3M",
+    "price": "R$53,65",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-dental-sof-lex-4-mm-x-170-mm-caixa-c-50-un.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-lixa-dental-4-mm-x-170-mm-caixa-c-50-un-3m-espe.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Tira de Lixa Dental Sof-Lex",
+    "brand": "3M",
+    "price": "R$117,82",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-dental-sof-lex-3ml3355a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-lixa-dental-3m-espe.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Tira de Lixa de Aço Serrilhada",
+    "brand": "KOMET",
+    "price": "R$188,40",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-de-aco-serrilhada-kom15704a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-lixa-de-aco-serrilhada-komet-15704.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Tira de Lixa Poliéster 4mm c/ 150 Unid.",
+    "brand": "AAF",
+    "price": "R$9,68",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-poliester-4mm-c-150-unid-afb16108a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-lixa-poliester-4mm-150-und-afb16108a-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Tira de Lixa de Aço Airon",
+    "brand": "MAQUIRA",
+    "price": "R$14,99",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-de-aco-airon-6mm-7730.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-aco-airon-4mm-7730-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Tira de Lixa Abrasiva em Poliéster - 4mm",
+    "brand": "INJECTA",
+    "price": "R$13,37",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-abrasiva-em-poliester-4mm-inj12464a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-lixa-abrasiva-em-poliester-4mm-injecta-12464.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Tira Abrasiva de Aço 2 mm Monoface",
+    "brand": "FAVA",
+    "price": "R$11,18",
+    "href": "https://www.onlydental.com.br/tira-abrasiva-de-aco-2-mm-monoface.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-abrasiva-de-aco-2-mm-monoface-fava-11352.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 17,
+    "title": "Tira de Aço Dentada 6mm c/ 5 Un",
+    "brand": "HORICO",
+    "price": "R$47,43",
+    "href": "https://www.onlydental.com.br/tira-de-aco-dentada-6mm-c-5-un.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-aco-dentada-6mm-c-5-un-horico-11363.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 18,
+    "title": "Tira de Aço Dentada - 6mm",
+    "brand": "HORICO",
+    "price": "R$14,83",
+    "href": "https://www.onlydental.com.br/tira-de-aco-dentada-6mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-aco-dentada-6mm-horico-11363.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 19,
+    "title": "Tira Abrasiva de Aço 6 mm Monoface",
+    "brand": "FAVA",
+    "price": "R$10,61",
+    "href": "https://www.onlydental.com.br/tira-abrasiva-de-aco-6-mm-monoface.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-abrasiva-de-aco-6-mm-monoface-fava-11352.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 20,
+    "title": "Tira Abrasiva de Aço 4 mm Monoface",
+    "brand": "FAVA",
+    "price": "R$9,64",
+    "href": "https://www.onlydental.com.br/tira-abrasiva-de-aco-4-mm-monoface.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-abrasiva-de-aco-4-mm-monoface-fava-11352-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 21,
+    "title": "Tira de Lixa Poliéster Grano Fino e Médio - 4 mm c/ 50 Un.",
+    "brand": "MICRODONT",
+    "price": "R$8,40",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-poliester-grano-fino-e-medio-4-mm-c-50-un.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-lixa-poliester-grano-fino-e-medio-4-mm-c-50-un-microdont.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 22,
+    "title": "Tira de Lixa em Poliester",
+    "brand": "MAQUIRA",
+    "price": "R$19,90",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-em-poliester-maq6009a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-lixa-em-poliester-maquira-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 23,
+    "title": "Tira de Aço 6mm",
+    "brand": "HORICO",
+    "price": "R$39,17",
+    "href": "https://www.onlydental.com.br/tira-de-aco-6mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-aco-6mm-horico-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:20.556Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 0,
+    "title": "Tira de Aço 4mm",
+    "brand": "HORICO",
+    "price": "R$33,14",
+    "href": "https://www.onlydental.com.br/tira-de-aco-4mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-aco-4mm-horico-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Tira Diamantada Serrilhada",
+    "brand": "TDV",
+    "price": "R$58,12",
+    "href": "https://www.onlydental.com.br/tira-diamantada-serrilhada-tdv5203a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-diamantada-serrilhada-5203.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Tira de Lixa Poliéster Grano Fino e Médio - 4 mm c/ 150 Un.",
+    "brand": "MICRODONT",
+    "price": "R$14,20",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-poliester-grano-fino-e-medio-4-mm-c-150-un.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-lixa-poliester-grano-fino-e-medio-4-mm-microdont.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Tira de Aço 6 mm",
+    "brand": "MICRODONT",
+    "price": "R$14,98",
+    "href": "https://www.onlydental.com.br/tira-de-aco-6-mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-aco-6-mm-microdont.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Tira de Aço 4 mm",
+    "brand": "MICRODONT",
+    "price": "R$10,96",
+    "href": "https://www.onlydental.com.br/tira-de-aco-4-mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-aco-4-mm-microdont.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Tira de Aço 2,5 mm",
+    "brand": "MICRODONT",
+    "price": "R$11,26",
+    "href": "https://www.onlydental.com.br/tira-de-aco-2-5-mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-aco-25-mm-microdont.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Tira de Lixa Acabamento Proximal 4 mm x 170 mm - 150 Unidades",
+    "brand": "TDV",
+    "price": "R$43,86",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-acabamento-proximal-4-mm-x-170-mm-150-unidades.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-lixa-acabamento-proximal-tdv.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Tira de Lixa Acabamento Proximal 2,5 mm x 170 mm",
+    "brand": "TDV",
+    "price": "R$40,74",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-acabamento-proximal-2-5-mm-x-170-mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-de-lixa-acabamento-proximal-tdv.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Tira Abrasiva Aço 4 mm x 130 mm",
+    "brand": "TDV",
+    "price": "R$22,70",
+    "href": "https://www.onlydental.com.br/tira-abrasiva-aco-4-mm-x-130-mm.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-tira-abrasiva-aco-4-mm-x-130-mm-tdv.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Microcut Lixa - Refil",
+    "brand": "TDV",
+    "price": "R$61,59",
+    "href": "https://www.onlydental.com.br/microcut-lixa-refil-tdv3663a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-microcut-lixa-refil-tdv.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Microcut Serra - Refil",
+    "brand": "TDV",
+    "price": "R$61,59",
+    "href": "https://www.onlydental.com.br/microcut-serra-refil-tdv3662a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-microcut-serra-refil-tdv.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Microcut - Kit Arco e reposição",
+    "brand": "TDV",
+    "price": "R$197,25",
+    "href": "https://www.onlydental.com.br/microcut-kit-arco-e-reposic-o-tdv3661a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-microcut-kit-tdv.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Tira Epitex",
+    "brand": "GC",
+    "price": "R$12,10",
+    "href": "https://www.onlydental.com.br/tira-epitex-9299.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-acabamento-epitex-refil-9299.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Tira de Lixa de Aço Serrilhada c/ Óxido de Alumínio - 2,5mm",
+    "brand": "ORALTECH PREMIUM",
+    "href": "https://www.onlydental.com.br/tira-de-lixa-de-aco-serrilhada-c-oxido-de-aluminio-2-5mm-9150.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-aco-serrilhada-com-oxido-de-aluminio-9150-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Tira de Aço 4 mm",
+    "brand": "ALLPRIME",
+    "href": "https://www.onlydental.com.br/tira-de-aco-4-mm-alp11954b.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/tira-de-aco-4-mm-allprime-11954.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:57:23.851Z\"",
+      "mins": 57,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

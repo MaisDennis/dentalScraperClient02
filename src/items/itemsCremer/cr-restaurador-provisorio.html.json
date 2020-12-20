@@ -1,0 +1,410 @@
+[
+ {
+  "id": 0,
+  "title": "Restaurador Provisório Interim Líquido - Biodinâmica",
+  "details": "Embalagem com 15ml.",
+  "price": "R$38,35",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-interim-liquido-biodinamica-215588.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/215588.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 1,
+  "title": "Restaurador Provisório Applic - Maquira",
+  "details": "Embalagem com 2 unidades de 2g cada.",
+  "price": "R$32,59",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-applic-maquira-dc13297.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/532777.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 2,
+  "title": "Restaurador Provisório Obtur Refil - Maquira",
+  "details": "Embalagem com 25g.",
+  "price": "R$32,84",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-obtur-refil-maquira-dc11003.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/384727_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 3,
+  "title": "Restaurador Provisório Coltosol - Coltene",
+  "details": "Embalagem com 20g.",
+  "price": "R$11,49",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-coltosol-coltene-297898.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/297898.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 4,
+  "title": "Restaurador Provisório Fill Magic Tempo - Coltene",
+  "details": "Embalagem com 3g.",
+  "price": "R$29,88",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-fill-magic-tempo-coltene-199833.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/199833.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 5,
+  "title": "Restaurador Provisório Provimaster F - Wilcos",
+  "details": "Embalagem com 3g.",
+  "price": "R$39,75",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-provimaster-f-wilcos-706093.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/706093_635889055754023537.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 6,
+  "title": "Eugenol - Maquira",
+  "details": "Embalagem com 20ml.",
+  "price": "R$41,05",
+  "href": "https://www.dentalcremer.com.br/eugenol-maquira-427912.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/427912_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 7,
+  "title": "Óxido de Zinco - Maquira",
+  "details": "Embalagem com 50g.",
+  "price": "R$16,90",
+  "href": "https://www.dentalcremer.com.br/oxido-de-zinco-maquira-398281.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/398281_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 8,
+  "title": "Restaurador Provisório Clip Flow - Voco",
+  "details": "Embalagem com 2 seringas de 1,8g cada.",
+  "price": "R$5,50",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-clip-flow-voco-701615.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/701615_635889938340193395.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 9,
+  "title": "Restaurador Provisório Clip F - Voco",
+  "details": "Kit com 2 unidades, 4g cada.",
+  "price": "R$129,86",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-clip-f-voco-384628.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/384628.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 10,
+  "title": "Restaurador Provisório - Lysanda",
+  "details": "Embalagem com 25g.",
+  "price": "R$149,07",
+  "href": "https://www.dentalcremer.com.br/obturador-provisorio-lysanda-115918.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/115918.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 11,
+  "title": "Óxido de Zinco - Lysanda",
+  "details": "Embalagem com 50g.",
+  "price": "R$15,00",
+  "href": "https://www.dentalcremer.com.br/oxido-de-zinco-lysanda-336450.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/336450.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 12,
+  "title": "Eugenol - Lysanda",
+  "details": "Embalagem com 20ml.",
+  "price": "R$7,00",
+  "href": "https://www.dentalcremer.com.br/eugenol-lysanda-336467.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/336467.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 13,
+  "title": "Restaurador Provisório - Villevie",
+  "details": "Edição Especial: Pote com 35g Amarelo (sem Flúor).",
+  "price": "R$17,20",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-villevie-537994.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/537994_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 14,
+  "title": "Restaurador Provisório - Villevie",
+  "details": "Embalagem com 25g. (Com Flúor)",
+  "price": "R$20,16",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-villevie-357783.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/357783.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 15,
+  "title": "Restaurador Provisório - Villevie",
+  "details": "Embalagem com 25g. Amarelo. Sem Flúor.",
+  "price": "R$19,12",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-villevie-355468.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/355468.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 16,
+  "title": "Eugenol - Villevie",
+  "details": "Embalagem com 20ml.",
+  "price": "R$19,12",
+  "href": "https://www.dentalcremer.com.br/eugenol-villevie-689150.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/689150_635830039851117187.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 17,
+  "title": "Óxido de Zinco - Biodinâmica",
+  "details": "Embalagem com 50g.",
+  "price": "R$22,20",
+  "href": "https://www.dentalcremer.com.br/oxido-de-zinco-biodinamica-214741.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/214741.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 18,
+  "title": "Eugenol - Biodinâmica",
+  "details": "Embalagem com 20ml.",
+  "price": "R$6,37",
+  "href": "https://www.dentalcremer.com.br/eugenol-biodinamica-214734.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/214734.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 19,
+  "title": "Restaurador Provisório Interim Pó - Biodinâmica",
+  "details": "Embalagem com 38g.",
+  "price": "R$18,38",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-interim-po-biodinamica-215595.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/215595.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 20,
+  "title": "Kit Restaurador Provisório Interim - Biodinâmica",
+  "details": "Kit com 15ml de líquido + 38g de pó.",
+  "price": "R$61,59",
+  "href": "https://www.dentalcremer.com.br/kit-restaurador-provisorio-interim-biodinamica-546453.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/546453.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 21,
+  "title": "Restaurador Provisório Fill Temp - Biodinâmica",
+  "details": "Embalagem com 25g.",
+  "price": "R$76,23",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-fill-temp-biodinamica-383003.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/383003_636026436086702961.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 22,
+  "title": "Restaurador Provisório Bioplic - Biodinâmica",
+  "details": "Kit com 2 seringas, 2g cada + 3 seringas de Attaque Gel à 37% com 3g cada.",
+  "price": "R$13,99",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-bioplic-biodinamica-499056.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/499056.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 23,
+  "title": "Restaurador Provisório IRM - Dentsply Sirona",
+  "details": "Embalagem com 38g de Pó + 15ml de Líquido.",
+  "price": "R$67,77",
+  "href": "https://www.dentalcremer.com.br/restaurador-provisorio-irm-dentsply-sirona-277500.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/277500.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:47.204Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ }
+]

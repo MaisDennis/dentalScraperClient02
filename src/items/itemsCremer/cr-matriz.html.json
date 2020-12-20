@@ -1,0 +1,410 @@
+[
+ {
+  "id": 0,
+  "title": "Fita Banda Matriz Metálica - Fava",
+  "details": "Embalagem com 1 Rolo.",
+  "price": "R$5,05",
+  "href": "https://www.dentalcremer.com.br/fita-banda-matriz-metalica-fava-1.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/213799_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 1,
+  "title": "Matriz Unimatrix R Kit – TDV ",
+  "details": "Embalagem com 50 unidades sortidas + 2 grampos + 8 protetores.",
+  "price": "R$2,90",
+  "href": "https://www.dentalcremer.com.br/matriz-unimatrix-r-kit-tdv-178838.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/178838.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 2,
+  "title": "Matriz Universal Refil - Maquira",
+  "details": "Embalagem com 50 unidades. Escolha o tamanho.",
+  "price": "R$409,00",
+  "href": "https://www.dentalcremer.com.br/matriz-universal-refil-maquira-dc24879.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/952858_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 3,
+  "title": "Matriz Seccional Pré-Contornada Palodent V3 - Dentsply Sirona",
+  "details": "Embalagem com 50 unidades.",
+  "price": "R$349,90",
+  "href": "https://www.dentalcremer.com.br/matriz-seccional-pre-contornada-palodent-v3-dentsply-sirona-dc18815.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/701594.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 4,
+  "title": "Fita Banda Matriz Metálica - Microdont",
+  "details": "Embalagem com 1 rolo. Escolha o tamanho.",
+  "price": "R$150,00",
+  "href": "https://www.dentalcremer.com.br/fita-banda-matriz-metalica-microdont-dc10577.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/409178.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 5,
+  "title": "Fita Banda Matriz Metálica - Maquira",
+  "details": "Embalagem com 1 rolo. Escolha o tamanho.",
+  "price": "R$275,89",
+  "href": "https://www.dentalcremer.com.br/fita-banda-matriz-metalica-maquira-dc10576.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/385076_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 6,
+  "title": "Matriz Unimatrix Refil - TDV",
+  "details": "Embalagem com 50 unidades. Escolha o tamanho.",
+  "price": "R$2,80",
+  "href": "https://www.dentalcremer.com.br/matriz-unimatrix-refil-tdv-dc10666.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/341720_635489668115381122.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 7,
+  "title": "Banda de Aço Matriz Tofflemire - TDV",
+  "details": "Embalagem com 12 unidades.",
+  "price": "R$2,50",
+  "href": "https://www.dentalcremer.com.br/banda-de-aco-matriz-tofflemire-tdv-dc10657.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/215380_b_635587239774684726.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 8,
+  "title": "Matriz de Aço - TDV",
+  "details": "Embalagem com 20 unidades, com anel de fixação.",
+  "price": "R$204,88",
+  "href": "https://www.dentalcremer.com.br/matriz-de-aco-tdv-dc10655.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/212303.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 9,
+  "title": "Matriz de Poliéster - TDV",
+  "details": "Embalagem com 20 unidades. Com sistema de fixação. Escolha o modelo.",
+  "price": "R$13,89",
+  "href": "https://www.dentalcremer.com.br/matriz-de-poliester-tdv-dc10656.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/212266.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 10,
+  "title": "Grampo Unimatrix R - TDV",
+  "details": "Embalagem com 1 grampo + 4 protetores de silicone triangulares.",
+  "price": "R$125,47",
+  "href": "https://www.dentalcremer.com.br/grampo-unimatrix-r-tdv-dc27131.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/27131.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 11,
+  "title": "Matriz Omni Matrix  - Ultradent",
+  "details": "Embalagem com 48 unidades. Verde 0,015mm.",
+  "price": "R$125,47",
+  "href": "https://www.dentalcremer.com.br/matriz-omni-matrix-ultradent-dc25911.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/106983.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 12,
+  "title": "Kit de Matriz Composi-Tight 3D - Garrison",
+  "details": "Embalagem com 1 anel 3D + 40 cunhas sortidas + 40 matrizes.",
+  "price": "R$131,04",
+  "href": "https://www.dentalcremer.com.br/kit-de-matriz-composi-tight-3d-garrison-962673.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/962673.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 13,
+  "title": "Kit Introdutório Palodent V3 - Dentsply Sirona",
+  "details": "Kit com 100 Matrizes Seccionais Pré-contornadas + 75 Cunhas Anatômicas + 30 Cunhas Protetoras Inteligentes + 1 Anel Universal + 1 Anel Pequeno + 1 Alicate V3 (fórceps) + 1 Pinça Porta Grampo.",
+  "price": "R$385,00",
+  "href": "https://www.dentalcremer.com.br/kit-introdutorio-palodent-v3-dentsply-sirona-701593.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/701593.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 14,
+  "title": "Fita Banda Matriz Metálica - Preven",
+  "details": "Embalagem com 1 rolo. 0,05x7x500mm.",
+  "price": "R$2.158,20",
+  "href": "https://www.dentalcremer.com.br/fita-banda-matriz-metalica-preven-629057.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/629057.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 15,
+  "title": "Fita Banda Matriz Metálica - Preven",
+  "details": "Embalagem com 1 rolo. 0,05X5X500mm.",
+  "price": "R$1.610,00",
+  "href": "https://www.dentalcremer.com.br/fita-banda-matriz-metalica-preven-629040.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/629040.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 16,
+  "title": "Matriz de Poliéster Epitex - GC",
+  "details": "Embalagem com rolo de 10m.",
+  "price": "R$2,12",
+  "href": "https://www.dentalcremer.com.br/matriz-de-poliester-epitex-gc-565225.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/565225_636003717151813930.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 17,
+  "title": "Anel de Retenção Ni-Ti Palodent V3 - Dentsply Sirona",
+  "details": "Embalagem com 2 unidades. (Universal - Molares)",
+  "price": "R$1,80",
+  "href": "https://www.dentalcremer.com.br/anel-de-retenc-o-ni-ti-palodent-v3-dentsply-701599.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/701599.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 18,
+  "title": "Fita de Aço Cinta Profilática - Horico",
+  "details": "Embalagem com 6 unidades. 4mm.",
+  "price": "R$220,00",
+  "href": "https://www.dentalcremer.com.br/fita-de-aco-cinta-profilatica-horico-609899.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/609899_635927055346691914.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 19,
+  "title": "Fita Banda Matriz de Poliéster Airon - Maquira",
+  "details": "Embalagem com 50 unidades. 10X120x0,5mm.",
+  "price": "R$701,39",
+  "href": "https://www.dentalcremer.com.br/fita-banda-matriz-de-poliester-airon-maquira-384864.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/384864.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 20,
+  "title": "Fita Banda Matriz de Poliéster - Preven",
+  "details": "Embalagem com 50 unidades. 10x12x0,5mm.",
+  "price": "R$48,93",
+  "href": "https://www.dentalcremer.com.br/fita-banda-matriz-de-poliester-preven-629200.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/629200_635749087479710013.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 21,
+  "title": "Protetor de Silicone Matriz Universal - Maquira",
+  "details": "Embalagem com 20 unidades.",
+  "price": "R$3,99",
+  "href": "https://www.dentalcremer.com.br/protetor-de-silicone-matriz-universal-maquira.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/952902_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 22,
+  "title": "Grampo Matriz Universal - Maquira",
+  "details": "Embalagem com 2 unidades + 8 protetores.",
+  "price": "R$2,72",
+  "href": "https://www.dentalcremer.com.br/grampo-matriz-universal-maquira.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/952896_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 23,
+  "title": "Matriz Universal Mini Kit - Maquira",
+  "details": "Embalagem com 25 matrizes + 1 grampo + 4 protetores.",
+  "price": "R$25,00",
+  "href": "https://www.dentalcremer.com.br/matriz-universal-mini-kit-maquira.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/952841_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:13.580Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ }
+]

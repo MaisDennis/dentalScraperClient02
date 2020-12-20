@@ -1,0 +1,308 @@
+[
+  {
+    "id": 0,
+    "title": "Sugador Descartável Transparente",
+    "brand": "ALLPRIME",
+    "details": "Embalagem c/ 40 unidades.",
+    "price": "R$ 5,20",
+    "href": "https://www.dentalspeed.com/familia/sugador-descartavel-transparente-allprime",
+    "img": "https://cdn.dentalspeed.com/produtos/150/sugador-odontologico-allprime-11081-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Sugador Descartável Colorido",
+    "brand": "ALLPRIME",
+    "details": "Embalagem c/ 40 unidades.",
+    "price": "R$ 5,60",
+    "href": "https://www.dentalspeed.com/familia/sugador-descartavel-colorido-allprime",
+    "img": "https://cdn.dentalspeed.com/produtos/150/sugador-odontologico-colorido-allprime-11081.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Sugador Cirúrgico Descartável Estéril - 20 Unid.",
+    "brand": "MAQUIRA",
+    "details": "Embalagem c/ 20 unidades.",
+    "price": "R$ 24,90",
+    "href": "https://www.dentalspeed.com/familia/sugador-cirurgico-descartavel-esteril-20-unid-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-sugador-descartavel-esterilizado-20u-maquira.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Sugador Cirúrgico de Metal",
+    "brand": "GOLGRAN",
+    "details": "Embalagem c/ 1 unidade.",
+    "price": "R$ 25,53",
+    "href": "https://www.dentalspeed.com/familia/sugador-cirurgico-de-metal-golgran",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-sugador-de-sangue-metal-reto-golgran.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Sugador Cirúrgico Descartável Estéril - 40 Unid.",
+    "brand": "MAQUIRA",
+    "details": "Embalagem c/ 40 unidades.",
+    "price": "R$ 47,90",
+    "href": "https://www.dentalspeed.com/familia/sugador-cirurgico-descartavel-esteril-40-unid-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-sugador-descartavel-esterilizado-40-unidades-maquira-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Sugador Cirúrgico Descartável Estéril c/ Coletor de Osso",
+    "brand": "INDUSBELLO",
+    "details": "Embalagem c/ 10 unidades.",
+    "price": "R$ 100,98",
+    "href": "https://www.dentalspeed.com/familia/sugador-cirurgico-descartavel-esteril-c-coletor-de-osso-indusbello",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-sugador-cirurgico-c-coletor-de-osso-descartavel-c-10-un-indusbello-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Sugador Cirúrgico Descartável Estéril c/ Coletor de Osso",
+    "brand": "MAQUIRA",
+    "details": "Embalagem c/ 10 sugadores e 20 cestas coletoras.",
+    "price": "R$ 89,90",
+    "href": "https://www.dentalspeed.com/familia/sugador-cirurgico-descartavel-esteril-c-coletor-de-osso-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-sugador-cirurgico-c-coletor-de-osso-descartavel-c-10-unidades-maquira-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Sugador de Saliva Descartável Monoart",
+    "brand": "EURONDA",
+    "details": "Embalagem c/ 40 unidades.",
+    "price": "R$ 9,00",
+    "href": "https://www.dentalspeed.com/familia/sugador-descartavel-monoart-euronda",
+    "img": "https://cdn.dentalspeed.com/produtos/150/sugador-descartavel-monoart-laranja-mon11863e-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Sugador Descartável",
+    "brand": "SSPLUS",
+    "details": "Embalagem c/ 40 unidades.",
+    "price": "R$ 7,59",
+    "href": "https://www.dentalspeed.com/familia/sugador-descartavel-ssplus",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-sugador-odontologico-ssplus.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Sugador Descartável Endodôntico",
+    "brand": "SSPLUS",
+    "details": "Embalagem c/ 20 unidades.",
+    "price": "R$ 14,99",
+    "href": "https://www.dentalspeed.com/familia/sugador-descartavel-endodontico-ssplus",
+    "img": "https://cdn.dentalspeed.com/produtos/150/sugador-endodontico-9366.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Sugador Descartável Esterilizado",
+    "brand": "INDUSBELLO",
+    "details": "Embalagem c/ 20 unidades.",
+    "price": "R$ 47,28",
+    "href": "https://www.dentalspeed.com/familia/sugador-descartavel-esterilizado-indusbello",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-sugador-descartavel-esterilizado-c-20-un-indusbello-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Sugador Flex Suctor - Kids",
+    "brand": "ANGIE",
+    "details": "Embalagem c/ 30 unidades.",
+    "price": "R$ 22,48",
+    "href": "https://www.dentalspeed.com/familia/sugador-flex-suctor-kids-angie",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-flex-suctor-de-saliva-kids-angelus.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Sugador Flex Suctor de Saliva",
+    "brand": "ANGELUS",
+    "details": "Embalagem c/ 30 unidades.",
+    "price": "R$ 17,40",
+    "href": "https://www.dentalspeed.com/familia/sugador-flex-suctor-de-saliva-angelus",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-flex-suctor-de-saliva-angelus-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Sugador Odontológico",
+    "brand": "SUGPRIME",
+    "details": "Embalagem c/ 40 unidades.",
+    "price": "R$ 5,69",
+    "href": "https://www.dentalspeed.com/familia/sugador-odontologico-sugprime",
+    "img": "https://cdn.dentalspeed.com/produtos/150/sugador-odontologico-sugprime-10383.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Sugador Flex Suctor Endodôntico",
+    "brand": "ANGELUS",
+    "details": "Embalagem c/ 10 suctores esterilizados, 10 pontas de aspiração inicial (Endo Tips 0.06) e 10 pontas de aspiração final (Endo Tips 0.014).",
+    "price": "R$ 58,85",
+    "href": "https://www.dentalspeed.com/familia/flex-suctor-endodontico-angelus",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-flex-suctor-endodontico-angelus-6149.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Sugador Cirúrgico Descartável Estéril",
+    "brand": "INDUSBELLO",
+    "details": "Embalagem c/ 40 unidades e 80 ponteiras. (40 unidades de 2,5mm e 40 unidades de 3,0mm).",
+    "price": "R$ 90,03",
+    "href": "https://www.dentalspeed.com/familia/sugador-cirurgico-descartavel-esteril-indusbello",
+    "img": "https://cdn.dentalspeed.com/produtos/150/sugador-cirurgico-descartavel-esteril-indusbello-15700.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Sugador de Sangue Metálico Curvo",
+    "brand": "ICE",
+    "details": "Embalagem c/ 1 unidade.",
+    "price": "R$ 26,50",
+    "href": "https://www.dentalspeed.com/familia/sugador-de-sangue-metalico-curvo-ice",
+    "img": "https://cdn.dentalspeed.com/produtos/150/sugador-de-sangue-metalico-curvo-ice-14397-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:18.330Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

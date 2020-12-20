@@ -1,0 +1,326 @@
+[
+  {
+    "id": 0,
+    "title": "Anestésico Alphacaine",
+    "brand": "DFL",
+    "details": "Embalagem c/ 50 tubetes c/ 1,8ml cada.",
+    "price": "R$ 96,90",
+    "href": "https://www.dentalspeed.com/familia/alphacaine-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Anestésico Citanest c/ Vasoconstritor",
+    "brand": "DLA PHARMA",
+    "details": "Embalagem com 50 tubetes de plástico com 1,8ml cada.",
+    "price": "R$ 89,90",
+    "href": "https://www.dentalspeed.com/familia/anestesico-citanest-c-vasoconstritor-dla-pharma",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Anestésico Citocaína 3% c/ Vasoconstritor",
+    "brand": "CRISTÁLIA",
+    "details": "Embalagem com 50 tubetes de plástico com 1,8ml cada.",
+    "price": "R$ 117,84",
+    "href": "https://www.dentalspeed.com/familia/anestesico-citocaina-3-cristalia-c-vasoconstritor",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Anestésico Mepicain 3% SV",
+    "brand": "CRISTÁLIA",
+    "details": "Embalagem com 50 tubetes de plástico com 1,8ml cada.",
+    "price": "R$ 161,20",
+    "href": "https://www.dentalspeed.com/familia/anestesico-mepicain-3-sv-cristalia",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Anestésico SS White 100",
+    "brand": "SS WHITE",
+    "details": "Embalagem c/ 50 tubetes c/ 1,8ml cada.",
+    "price": "R$ 86,90",
+    "href": "https://www.dentalspeed.com/familia/anestesico-ss-white-100-ss-white",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Anestésico Xylestesin 10% Spray",
+    "brand": "CRISTÁLIA",
+    "details": "Embalagem c/ 1 frasco de 50ml.",
+    "price": "R$ 142,24",
+    "href": "https://www.dentalspeed.com/familia/anestesico-xylestesin-10-spray-cristalia",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Anestésico Xylestesin 2% c/ Vaso Constritor",
+    "brand": "CRISTÁLIA",
+    "details": "Embalagem com 50 tubetes de plástico com 1,8 ml cada.",
+    "price": "R$ 114,80",
+    "href": "https://www.dentalspeed.com/familia/anestesico-xylestesin-2-c-vaso-constritor-cristalia",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Anestésico Lidostesim  c/ Vasoconstritor",
+    "brand": "DLA PHARMA",
+    "details": "Embalagem com 50 tubetes de plástico com 1,8ml cada.",
+    "price": "R$ 79,90",
+    "href": "https://www.dentalspeed.com/familia/anestesico-lidostesim-c-vasoconstritor-dla-pharma",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Anestésico Mepivacaína",
+    "brand": "DLA PHARMA",
+    "details": "Embalagem com 50 tubetes de plástico com 1,8ml cada.",
+    "price": "R$ 119,90",
+    "href": "https://www.dentalspeed.com/familia/anestesico-mepivacaina-dla-pharma",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Anestésico Articaine 1:100",
+    "brand": "DFL",
+    "details": "Embalagem c/ 50 tubetes c/ 1,8ml cada.",
+    "price": "R$ 159,89",
+    "href": "https://www.dentalspeed.com/familia/anestesico-articaine-1100-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Anestésico Mepiadre",
+    "brand": "DFL",
+    "details": "Embalagem c/ 50 tubetes c/ 1,8ml cada.",
+    "price": "R$ 149,00",
+    "href": "https://www.dentalspeed.com/familia/anestesico-mepiadre-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Anestésico Mepisv",
+    "brand": "DFL",
+    "details": "Embalagem c/ 50 tubetes c/ 1,8ml cada.",
+    "price": "R$ 149,00",
+    "href": "https://www.dentalspeed.com/familia/anestesico-mepisv-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Anestésico Prilonest",
+    "brand": "DFL",
+    "details": "Embalagem c/ 50 tubetes c/ 1,8ml cada.",
+    "price": "R$ 129,90",
+    "href": "https://www.dentalspeed.com/familia/anestesico-prilonest-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Anestésico Benzotop",
+    "brand": "DFL",
+    "details": "Embalagem c/ 12g.",
+    "price": "R$ 6,25",
+    "href": "https://www.dentalspeed.com/familia/anestesico-benzotop-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Anestésico Spray Pharmaethyl",
+    "brand": "SEPTODONT",
+    "details": "Embalagem com 1 frasco vaporizador de 180g + 1 cânula.",
+    "price": "R$ 340,06",
+    "href": "https://www.dentalspeed.com/familia/anestesico-spray-pharmaethyl-septodont",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico-spray-pharmaethyl-18820.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Venc. 30/03/2021 - Anestésico Mepicain 3% Sv*",
+    "brand": "CRISTÁLIA",
+    "details": "Embalagem c/ 50 tubetes de 1,8ml cada.",
+    "price": "R$ 143,92",
+    "href": "https://www.dentalspeed.com/familia/venc-30032021-anestesico-mepicain-3-sv-cristalia",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Anestésico Neocaina 0,5%",
+    "brand": "CRISTÁLIA",
+    "details": "Embalagem com 25 tubetes de plástico com 1,8ml cada.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/anestesico-neocaina-05-cristalia",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 17,
+    "title": "Anestésico Xylestesin 2% s/ Vaso Constritor",
+    "brand": "CRISTÁLIA",
+    "details": "Embalagem com 50 tubetes de plástico com 1,8ml cada.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/anestesico-xylestesin-2-s-vaso-constritor-cristalia",
+    "img": "https://cdn.dentalspeed.com/produtos/150/anestesico_semg.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:25.639Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

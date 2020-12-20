@@ -1,0 +1,87 @@
+[
+ {
+  "id": 0,
+  "title": "Luva Cirúrgica Estéril - DPK",
+  "details": "Embalagem com 1 par. Escolha o Tamanho.",
+  "price": "R$2,19",
+  "href": "https://www.dentalcremer.com.br/luva-cirurgica-esteril-dpk-dc25697.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/dc25697.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:49.885Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 1,
+  "title": "Luva Cirúrgica Estéril - Madeitex",
+  "details": "Embalagem com 1 par. Escolha o tamanho.",
+  "price": "R$3,19",
+  "href": "https://www.dentalcremer.com.br/luva-cirurgica-esteril-madeitex-dc11152.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/dc11152.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:49.885Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 2,
+  "title": "Luva Cirúrgica Estéril - Supermax",
+  "details": "Embalagem com 1 par. Escolha o tamanho.",
+  "price": "R$3,59",
+  "href": "https://www.dentalcremer.com.br/luva-cirurgica-esteril-supermax-dc11154.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/385205.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:49.885Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 3,
+  "title": "Luva Cirúrgica Estéril Pouch Plast - Descarpack",
+  "details": "Embalagem com 1 par. Escolha o tamanho.",
+  "price": "R$2,19",
+  "href": "https://www.dentalcremer.com.br/luva-cirurgica-esteril-pouch-plast-descarpack-dc25627.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/103216.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:49.885Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 4,
+  "title": "Luva Cirúrgica Estéril - Maxitex",
+  "details": "Embalagem com 1 par. Escolha o tamanho.",
+  "price": "R$2,25",
+  "href": "https://www.dentalcremer.com.br/luva-cirurgica-esteril-maxitex-dc16393.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/546835_635786010520658404.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:19:49.885Z\"",
+   "mins": 19,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ }
+]

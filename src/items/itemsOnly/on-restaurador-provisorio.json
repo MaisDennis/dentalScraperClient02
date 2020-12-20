@@ -1,0 +1,53 @@
+[
+  {
+    "id": 0,
+    "title": "Kit Promo Cimento Bioplic",
+    "brand": "BIODINÂMICA",
+    "price": "R$67,77",
+    "href": "https://www.onlydental.com.br/kit-promo-cimento-bioplic-bio3616b.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/kit-promo-bioplic-attaque-gel-3616-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:53:23.175Z\"",
+      "mins": 53,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Cimento Provi Master F",
+    "brand": "WILCOS",
+    "price": "R$38,80",
+    "href": "https://www.onlydental.com.br/cimento-provi-master-f-wil5529a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/provi-master-f-5529.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:53:23.175Z\"",
+      "mins": 53,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Restaurador Provisório Cimpat - Rosa",
+    "brand": "SEPTODONT",
+    "price": "R$45,00",
+    "href": "https://www.onlydental.com.br/restaurador-provisorio-cimpat-rosa-srp12473b.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/restaurador-provisorio-cimpat-rosa-srp12473b.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:53:23.175Z\"",
+      "mins": 53,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

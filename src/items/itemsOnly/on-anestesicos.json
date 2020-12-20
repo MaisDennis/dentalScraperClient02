@@ -1,0 +1,308 @@
+[
+  {
+    "id": 0,
+    "title": "Anestésico Mepicain 3% SV - CRISTÁLIA",
+    "brand": "CRISTÁLIA",
+    "price": "R$136,36",
+    "href": "https://www.onlydental.com.br/anestesico-mepicain-3-sv-cristalia-crm10399a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/anestesico-mepicain-3-sv-cristalia-10399.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Anestésico Xylestesin 2% com Vaso Constritor - CRISTÁLIA",
+    "brand": "CRISTÁLIA",
+    "price": "R$86,90",
+    "href": "https://www.onlydental.com.br/anestesico-xylestesin-2-com-vaso-constritor-cristalia-crx5612b.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/xylestesin-2-c-vaso-constritor-5612.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Anestésico Xylestesin 10% Spray - CRISTÁLIA",
+    "brand": "CRISTÁLIA",
+    "price": "R$109,09",
+    "href": "https://www.onlydental.com.br/anestesico-xylestesin-10-spray-cristalia-crx5612a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-xylestesin-10-spray-cristalia.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Anestésico SS White 100 - SS WHITE",
+    "brand": "SS WHITE",
+    "price": "R$86,90",
+    "href": "https://www.onlydental.com.br/anestesico-ss-white-100-ss-white-swo4608a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-ss-white-100-ss-white.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Anestésico Mepivalem 3% SV - DLA PHARMA",
+    "brand": "DLA PHARMA",
+    "price": "R$113,37",
+    "href": "https://www.onlydental.com.br/anestesico-mepivalem-3-sv-dla-pharma-dya4276b.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-mepivalem-3-sv-dentsply-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Anestésico Mepivalem AD - DLA PHARMA",
+    "brand": "DLA PHARMA",
+    "price": "R$113,37",
+    "href": "https://www.onlydental.com.br/anestesico-mepivalem-ad-dla-pharma-dya4276a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-mepivalem-ad-dentsply-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Anestésico Lidostesim 2% - DLA PHARMA",
+    "brand": "DLA PHARMA",
+    "price": "R$74,12",
+    "href": "https://www.onlydental.com.br/anestesico-lidostesim-2-dla-pharma-day4274b.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-lidostesim-2-dentsply.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Anestésico Benzotop - Tutti-Frutti - NOVA DFL",
+    "brand": "NOVA DFL",
+    "price": "R$7,70",
+    "href": "https://www.onlydental.com.br/anestesico-benzotop-tutti-frutti-nova-dfl-dae4273c.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-benzotop-tutti-frutti-nova-dfl.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Anestésico Prilonest - NOVA DFL",
+    "brand": "NOVA DFL",
+    "price": "R$154,90",
+    "href": "https://www.onlydental.com.br/anestesico-prilonest-nova-dfl-dap4272a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-prilonest-nova-dfl.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Anestésico Mepisv - NOVA DFL",
+    "brand": "NOVA DFL",
+    "price": "R$149,00",
+    "href": "https://www.onlydental.com.br/anestesico-mepisv-nova-dfl-dam4271d.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-mepisv-nova-dfl.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Anestésico Mepiadre - NOVA DFL",
+    "brand": "NOVA DFL",
+    "price": "R$149,00",
+    "href": "https://www.onlydental.com.br/anestesico-mepiadre-nova-dfl-dam4271b.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-mepiadre-nova-dfl.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Anestésico Articaine 1:100 - NOVA DFL",
+    "brand": "NOVA DFL",
+    "price": "R$169,00",
+    "href": "https://www.onlydental.com.br/anestesico-articaine-1-100-nova-dfl-daa4270a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-articaine-1100-nova-dfl.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Anestésico Alphacaine 1:100 - NOVA DFL",
+    "brand": "NOVA DFL",
+    "price": "R$96,90",
+    "href": "https://www.onlydental.com.br/anestesico-alphacaine-1-100-nova-dfl-daa4269a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-alphacaine-1100-nova-dfl.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Anestésico Citanest 3% com Octapressin - DLA PHARMA",
+    "brand": "DLA PHARMA",
+    "price": "R$82,38",
+    "href": "https://www.onlydental.com.br/anestesico-citanest-3-com-octapressin-dla-pharma-dac4275a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-citanest-3-com-octapressin-dentsply-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Anestésico Lidostesim 3% - DLA PHARMA",
+    "brand": "DLA PHARMA",
+    "price": "R$74,12",
+    "href": "https://www.onlydental.com.br/anestesico-lidostesim-3-dla-pharma-day4274a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-lidostesim-3-dentsply-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Anestésico Citocaína 3% - CRISTÁLIA",
+    "brand": "CRISTÁLIA",
+    "price": "R$87,27",
+    "href": "https://www.onlydental.com.br/anestesico-citocaina-3-cristalia-crc4834a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-citocaina-3-cristalia.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Anestésico Xylestesin 2% sem Vaso Constritor - CRISTÁLIA",
+    "brand": "CRISTÁLIA",
+    "price": "R$86,90",
+    "href": "https://www.onlydental.com.br/anestesico-xylestesin-2-sem-vaso-constritor-cristalia-crx11798a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/anestesico-xylestesin-2-s-vaso-constritor-cristalia-11798.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 17,
+    "title": "Anestésico Neocaina 0,5% - CRISTÁLIA",
+    "brand": "CRISTÁLIA",
+    "price": "R$122,73",
+    "href": "https://www.onlydental.com.br/anestesico-neocaina-0-5-cristalia-crn5992a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-neocaina-05-cristalia.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:52:49.175Z\"",
+      "mins": 52,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

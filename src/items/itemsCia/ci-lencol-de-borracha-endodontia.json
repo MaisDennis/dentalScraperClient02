@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title": "\n                            Lençol de Borracha - Madeitex\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 25,55\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/lencol-de-borracha-madeitex/926923",
+    "img": "https://static.dentalecia.com.br/produto/20190515002743_5909994091_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:42:38.270Z\"",
+      "mins": 42,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "\n                            Lençol de Borracha para Isolamento Azul - Mk Life\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 25,10\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/lencol-de-borracha-para-isolamento-azul-mk-life/3395148",
+    "img": "https://static.dentalecia.com.br/produto/20200828164535_9417990583_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:42:38.270Z\"",
+      "mins": 42,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "\n                            Lençol de Borracha Sanctuary - K-Dent\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 22,90\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/lencol-de-borracha-sanctuary-k-dent/694324-927184",
+    "img": "https://static.dentalecia.com.br/produto/20190521015500_6523993477_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T19:42:38.270Z\"",
+      "mins": 42,
+      "hours": 16,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

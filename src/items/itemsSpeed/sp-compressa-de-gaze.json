@@ -1,0 +1,326 @@
+[
+  {
+    "id": 0,
+    "title": "Compressa de Gaze 11 Fios",
+    "brand": "MELHORMED",
+    "details": "Embalagem c/ 500 unidades - Dimensão 7,5 x 7,5 cm.",
+    "price": "R$ 29,95",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-11-fios-melhormed",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gaze-cristal-11-fios-melhormed-10533.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Compressa de Gaze 13 Fios",
+    "brand": "MELHORMED",
+    "details": "Embalagem c/ 500 unidades - Dimensão 7,5 x 7,5 cm.",
+    "price": "R$ 36,11",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-13-fios-melhormed",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gaze-cristal-13-fios-melhormed-10533.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Compressa de Gaze 9 Fios",
+    "brand": "MELHORMED",
+    "details": "Embalagem c/ 500 unidades - Dimensão 7,5 x 7,5 cm.",
+    "price": "R$ 24,95",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-9-fios-melhormed",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gaze-cristal-09-fios-melhormed-10533-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Compressa de Gaze Estéril 11 Fios",
+    "brand": "MELHORMED",
+    "details": "Embalagem c/ 5 unidades - Dimensão 7,5 x 7,5cm.",
+    "price": "R$ 0,65",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-esteril-11-fios-melhormed",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gaze-esteril-11-fios-melhormed-10571.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Compressa de Gaze Estéril 13 Fios",
+    "brand": "MELHORMED",
+    "details": "Embalagem c/ 5 unidades - Dimensão 7,5 x 7,5cm.",
+    "price": "R$ 0,72",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-esteril-13-fios-melhormed",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gaze-esteril-13-fios-melhormed-10571.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Compressa de Gaze Íris 9 Fios Estéril",
+    "brand": "CREMER",
+    "details": "Embalagem c/ 10 unidades. Dimensão 7,5x7,5cm.",
+    "price": "R$ 1,20",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-iris-9-fios-esteril-cremer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gaze-iris-9-fios-esteril-cremer-11610.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Compressa de Gaze Íris 9 Fios Não Estéril",
+    "brand": "CREMER",
+    "details": "Embalagem c/ 500 unidades - Dimensão 7,5 x 7,5 cm.",
+    "price": "R$ 33,96",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-iris-9-fios-nao-esteril-cremer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gaze-iris-9-fios-nao-esteril-cremer-11612.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Compressa de Gaze Nídia 11 Fios Estéril",
+    "brand": "CREMER",
+    "details": "Embalagem c/ 10 unidades. Dimensão 7,5x7,5cm.",
+    "price": "R$ 1,29",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-nidia-11-fios-esteril-cremer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gaze-nidia-11-fios-esteril-cremer-11609.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Compressa de Gaze Nídia 11 Fios Não Estéril",
+    "brand": "CREMER",
+    "details": "Embalagem c/ 500 unidades - Dimensão 7,5 x 7,5 cm.",
+    "price": "R$ 38,90",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-nidia-11-fios-nao-esteril-cremer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gaze-nidia-11-fios-nao-esteril-cremer-11613.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Compressa de Gaze - 11 Fios",
+    "brand": "ULTRACOTTON",
+    "details": "Embalagem c/500 unidades.",
+    "price": "R$ 21,10",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-11-fios-ultracotton",
+    "img": "https://cdn.dentalspeed.com/produtos/150/compressa-de-gaze-11-fios-ulc13277b.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Compressa de Gaze - 13 Fios",
+    "brand": "ULTRACOTTON",
+    "details": "Embalagem c/500 unidades.",
+    "price": "R$ 24,96",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-13-fios-ultracotton",
+    "img": "https://cdn.dentalspeed.com/produtos/150/compressa-de-gaze-13-fios-ulc13277c.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Compressa de Gaze 9 Fios",
+    "brand": "ULTRACOTTON",
+    "details": "Embalagem c/ 500 unidades - Dimensão 7,5 x 7,5 cm.",
+    "price": "R$ 15,99",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-9-fios-ultracotton",
+    "img": "https://cdn.dentalspeed.com/produtos/150/compressa-de-gaze-9-fios-ultracotton-13277-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Compressa de Gaze Estéril 11 Fios",
+    "brand": "ULTRACOTTON",
+    "details": "Embalagem c/ 10 unidades - Dimensão 7,5 x 7,5cm.",
+    "price": "R$ 0,83",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-esteril-11-fios-ultracotton",
+    "img": "https://cdn.dentalspeed.com/produtos/150/compressa-de-gaze-esteril-11-fios-melhormed-mel14802a-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Compressa de Gaze Estéril 13 Fios",
+    "brand": "ULTRACOTTON",
+    "details": "Embalagem c/ 10 unidades - Dimensão 7,5 x 7,5cm.",
+    "price": "R$ 0,95",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-esteril-13-fios-ultracotton",
+    "img": "https://cdn.dentalspeed.com/produtos/150/compressa-de-gaze-esteril-13-fios-ultracotton-mel14803a-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Compressa de Gaze Estéril 13 Fios 10 x 10cm",
+    "brand": "MELHORMED",
+    "details": "Embalagem c/ 10 unidades - Dimensão 10 x 10 cm.\r\n\r\n",
+    "price": "R$ 2,16",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-esteril-13-fios-10-x-10cm-melhormed",
+    "img": "https://cdn.dentalspeed.com/produtos/150/compressa-de-gaze-esteril-13-fios-10-x-10cm-mel-14794-a.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Compressa de Gaze Estéril 9 Fios",
+    "brand": "ULTRACOTTON",
+    "details": "Embalagem c/ 10 unidades - Dimensão 7,5 x 7,5cm.",
+    "price": "R$ 0,73",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-esteril-9-fios-ultracotton",
+    "img": "https://cdn.dentalspeed.com/produtos/150/compressa-de-gaze-esteril-9-fios-75-x-75cm-ultracotton-14801-1694-3.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Compressa de Gaze Estéril 9 Fios",
+    "brand": "MELHORMED",
+    "details": "Embalagem c/ 10 unidades - Dimensão 7,5 x 7,5cm.\r\n",
+    "price": "R$ 0,81",
+    "href": "https://www.dentalspeed.com/familia/compressa-de-gaze-esteril-9-fios-melhormed",
+    "img": "https://cdn.dentalspeed.com/produtos/150/compressa-de-gaze-esteril-9-fios-mel-14793-a.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 17,
+    "title": "Gaze",
+    "brand": "APOLO",
+    "details": "Embalagem c/ 5 unidades - Dimensão 7,5 x 7,5cm.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/gaze-apolo",
+    "img": "https://cdn.dentalspeed.com/produtos/150/compressa-de-gaze-nao-esteril-11-fios-apolo-12658.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:22.545Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

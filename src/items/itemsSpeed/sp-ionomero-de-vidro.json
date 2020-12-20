@@ -1,0 +1,974 @@
+[
+  {
+    "id": 0,
+    "title": "Kit Ionômero de Vidro Maxxion R",
+    "brand": "FGM",
+    "details": "Kit c/ 10g de pó + 8g de líquido + 1 dosador de pó + 1 bloco de espatulação.",
+    "price": "R$ 39,73",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-maxxion-r-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/maxxion-r-kit-3329-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Kit Ionômero de Vidro Maxxion C",
+    "brand": "FGM",
+    "details": "Kit c/ 15g de pó + 10g de líquido + 1 dosador de pó + 1 bloco de espatulação.",
+    "price": "R$ 40,48",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-maxxion-c-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-maxxion-c-3486.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Ionômero de Vidro Maxxion R Powder",
+    "brand": "FGM",
+    "details": "Embalagem c/ 10g + 1 dosador.",
+    "price": "R$ 13,92",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-maxxion-r-powder-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/maxxion-r-powder-3331.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Ionômero de Vidro Maxxion R Liquid",
+    "brand": "FGM",
+    "details": "Embalagem c/ 8g de líquido.",
+    "price": "R$ 20,34",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-maxxion-r-liquid-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/maxxion-r-liquid-3330.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Ionômero de Vidro Ionofil Plus Líquido",
+    "brand": "VOCO",
+    "details": "Embalagem c/10 ml.",
+    "price": "R$ 50,48",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-ionofil-plus-liquido-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-ionofil-plus-liquido-10-ml-voco.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Ionômero de Vidro Ionofil Plus Pó",
+    "brand": "VOCO",
+    "details": "Embalagem c/ 15g. Cor A3.",
+    "price": "R$ 118,01",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-ionofil-plus-po-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-ionofil-plus-a3-15g-voco.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Ionômero De Vidro Ionoseal 2 Seringas",
+    "brand": "VOCO",
+    "details": "Embalagem c/ 2 seringas de 2,5g cada.",
+    "price": "R$ 275,71",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-ionoseal-2-seringas-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-ionoseal-voco.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Ionômero de Vidro Riva Light Cure Capsula",
+    "brand": "SDI",
+    "details": "Embalagem c/ 50 cápsulas.",
+    "price": "R$ 370,90",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-riva-light-cure-capsula-sdi",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-riva-light-cure-a3-sdi.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Ionômero de Vidro Vitrebond Líquido",
+    "brand": "3M",
+    "details": "Embalagem c/ 5ml.",
+    "price": "R$ 273,00",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vitrebond-liquido-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vitrebond-liquido-7512l-3m-espe.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Ionômero de Vidro Vitremer Líquido",
+    "brand": "3M",
+    "details": "Embalagem c/ 8ml.",
+    "price": "R$ 413,00",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vitremer-liquido-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vitremer-liquido-3303-i-3m-espe-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Ionômero de Vidro Vitremer Pó",
+    "brand": "3M",
+    "details": "Embalagem c/ 9g.",
+    "price": "R$ 445,01",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vitremer-po-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vitremer-po-a3-3m-espe.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Ionômero de Vidro Vitremer Primer",
+    "brand": "3M",
+    "details": "Embalagem c/ 6,5ml.",
+    "price": "R$ 343,01",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vitremer-primer-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vitremer-primer-3303-p-3m-espe-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Kit Ionômero de Vidro Bioglass C ",
+    "brand": "BIODINÂMICA",
+    "details": "Embalagem c/ 15g de pó + 10ml de líquido. Cor A3",
+    "price": "R$ 71,79",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-bioglass-c-biodinamica",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-bioglass-c-a3-bio8887a.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Kit Ionômero de Vidro Bioglass F ",
+    "brand": "BIODINÂMICA",
+    "details": "Embalagem c/ 10g de pó + 13ml de líquido. Cor A3",
+    "price": "R$ 61,01",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-bioglass-f-biodinamica",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-bioglass-f-a3-bio8888a.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Kit Ionômero de Vidro Bioglass R ",
+    "brand": "BIODINÂMICA",
+    "details": "Embalagem c/ 10g de pó + 8ml de líquido. Cor A3",
+    "price": "R$ 61,01",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-bioglass-r-biodinamica",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-bioglass-r-a3-bio8889a.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Kit Ionômero de Vidro Gold Label 2 LC ",
+    "brand": "GC",
+    "details": "Embalagem c/ 5g de pó + 2,6ml de líquido + acessórios.",
+    "price": "R$ 114,00",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-gold-label-2-lc-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-gc-gold-label-2-lc-a2-gc.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Kit Ionômero de Vidro Ionglass C",
+    "brand": "MAQUIRA",
+    "details": "Kit c/ 15g de pó + 10g de líquido.",
+    "price": "R$ 39,90",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-ionglass-c-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-ionomero-de-vidro-ionglass-c-maquira-10151-3.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 17,
+    "title": "Kit Ionômero de Vidro Ionglass R ",
+    "brand": "MAQUIRA",
+    "details": "Kit c/ 10g de pó + 8g de líquido.",
+    "price": "R$ 39,40",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-ionglass-r-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-ionomero-de-vidro-ionglass-r-a3-maquira-10148-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 18,
+    "title": "Kit Ionômero de Vidro Ketac Cem Easy Mix ",
+    "brand": "3M",
+    "details": "Kit c/ 15g de pó + 5ml de líquido + 1 colher.",
+    "price": "R$ 450,00",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-ketac-cem-easy-mix-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ketac-cem-easy-mix-56908-3368-4.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 19,
+    "title": "Kit Ionômero de Vidro Meron Combipack",
+    "brand": "VOCO",
+    "details": "Kit c/ 35g de pó + 15ml de líquido.",
+    "price": "R$ 222,93",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-meron-combipack-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-meron-c-jumbo-pack-35g-voco-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 20,
+    "title": "Kit Ionômero de Vidro Meron Mini Pack",
+    "brand": "VOCO",
+    "details": "Kit c/ 15g de pó + 7ml de líquido.",
+    "price": "R$ 134,63",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-meron-mini-pack-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-meron-c-15g-voco.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 21,
+    "title": "Kit Ionômero de Vidro Resiglass F ",
+    "brand": "BIODINÂMICA",
+    "details": "Embalagem c/ 10g de pó + 8ml de líquido. Cor A3",
+    "price": "R$ 171,99",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-resiglass-f-biodinamica",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-resiglass-f-cor-a3-bio6145a.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 22,
+    "title": "Kit Ionômero de Vidro Resiglass R ",
+    "brand": "BIODINÂMICA",
+    "details": "Embalagem c/ 10g de pó + 8ml de líquido. Cor A3",
+    "price": "R$ 171,99",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-resiglass-r-biodinamica",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-resiglass-r-cor-a3-bio6146a.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 23,
+    "title": "Kit Ionômero de Vidro Riva Light Cure ",
+    "brand": "SDI",
+    "details": "Kit c/ 15g de pó + 7,2ml de líquido + acessórios.",
+    "price": "R$ 193,00",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-riva-light-cure-sdi",
+    "img": "https://cdn.dentalspeed.com/produtos/150/riva-light-cure.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 24,
+    "title": "Kit Ionômero de Vidro Riva SC Reg",
+    "brand": "SDI",
+    "details": "Kit c/ 10g de pó + 6ml de líquido + acessórios.",
+    "price": "R$ 113,90",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-riva-sc-reg-sdi",
+    "img": "https://cdn.dentalspeed.com/produtos/150/riva-sc-kit-poliq-reg-a2-5364.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 25,
+    "title": "Kit Ionômero de Vidro Vitremer",
+    "brand": "3M",
+    "details": "Kit c/ 5g de pó + 2,5ml de líquido + 1 primer de 2ml + 1 Glazer de 2ml + 1 colher dosadora + 1 bloco de espatulação.",
+    "price": "R$ 848,00",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-vitremer-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vitremer-kit-a3-3303-na-3m-espe-3.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 26,
+    "title": "Kit Ionômero de Vidro Vitro Fil LC",
+    "brand": "DFL",
+    "details": "Kit c/ 5g de pó + 2,5ml de líquido + primer de 2,5ml + 1 Alpha Bond de 5ml.",
+    "price": "R$ 180,00",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-vitro-fil-lc-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vitro-fil-lc-conjunto-a3-nova-dfl.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 27,
+    "title": "Kit Ionômero de Vidro Vitro Fil",
+    "brand": "DFL",
+    "details": "Embalagem c/ 1 frasco de pó de 10g, 1 frasco de líquido de 8 ml. Bloco de mistura e colher medidora. Cor: A3 (Universal)",
+    "price": "R$ 67,50",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-vitro-fil-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-vitro-fil-a3-ndf16851a.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 28,
+    "title": "Kit Ionômero de Vidro Vitro Cem",
+    "brand": "DFL",
+    "details": "Kit c/ 10g de pó + 8ml de líquido.",
+    "price": "R$ 70,25",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-vitro-cem-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vitro-cem-10g-x-8ml-nova-dfl.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 29,
+    "title": "Kit Ionômero de Vidro Vitro Molar",
+    "brand": "DFL",
+    "details": "Kit c/ 10g de pó + 8ml de líquido.",
+    "price": "R$ 108,00",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-vitro-molar-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/vitro-molar-a3-conjunto-7998-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 30,
+    "title": "Ionômero de Vidro Ionoseal",
+    "brand": "VOCO",
+    "details": "Embalagem c/ 1 seringa de 2,5g.",
+    "price": "R$ 161,07",
+    "href": "https://www.dentalspeed.com/familia/ionoseal-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionoseal-voco.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 31,
+    "title": "Kit Ionômero de Vidro Ketac Molar Easy Mix",
+    "brand": "3M",
+    "details": "Kit c/ 12,5g de pó + 8,3ml de líquido + 1 colher dosadora + 1 bloco de espatulação.",
+    "price": "R$ 531,00",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-ketac-molar-easy-mix-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-ketac-molar-easy-mix-a3-56633-kit-125g-3m-espe-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 32,
+    "title": "Ionômero de Vidro RelyX Luting 2",
+    "brand": "3M",
+    "details": "Embalagem c/ 11g.",
+    "price": "R$ 999,00",
+    "href": "https://www.dentalspeed.com/familia/relyx-luting-2-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-relyx-luting-2-3525tka-11g-3m-espe-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 33,
+    "title": "Ionofast - Cimento Compósito de Ionômero de Vidro",
+    "brand": "BIODINÂMICA",
+    "details": "Embalagem c/ 1 seringa de 5g.",
+    "price": "R$ 149,69",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-ionofast-biodinamica",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-ionofast-biodinamica-12463.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 34,
+    "title": "Ionômero de Vidro Ionofast",
+    "brand": "BIODINÂMICA",
+    "details": "Embalagem c/ 1 Seringa 2,5g.",
+    "price": "R$ 87,32",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-ionofast-biodinamica-2",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-ionofast-biodinamica-17222.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 35,
+    "title": "Ionômero de Vidro Microglass F",
+    "brand": "MICRODONT",
+    "details": "Embalagem c/ 1 Frasco de Líquido 10ml + 1 Frasco de Pó 8g + 1 Dosador Pó + 1 Bloco de Espatulação.",
+    "price": "R$ 50,76",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-microglass-f-microdont",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-microglass-f-microdont-16383.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 36,
+    "title": "Ionômero de Vidro Microglass R",
+    "brand": "MICRODONT",
+    "details": "Embalagem c/ 1 Frasco de Líquido 10ml + 1 Frasco de Pó 8g + 1 Dosador Pó + 1 Bloco de Espatulação.",
+    "price": "R$ 50,76",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-microglass-r-microdont",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-microglass-r-a3-microdont-16385-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 37,
+    "title": "Ionômero de Vidro Vidrion C Plus",
+    "brand": "SS WHITE",
+    "details": "Embalagem com 1 frasco pó 15g, 1 frasco líquido de 10ml, 1 dosador de pó e manual de instruções.",
+    "price": "R$ 57,08",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vidrion-plus-c-ss-white",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-ionomero-de-vidro-vidrion-plus-c-18959.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 38,
+    "title": "Ionômero de Vidro Vidrion F Plus",
+    "brand": "SS WHITE",
+    "details": "Embalagem com 1 frasco pó 10g, 1 frasco líquido de 8ml, 1 dosador de pó e manual de instruções.",
+    "price": "R$ 57,08",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vidrion-plus-f-ss-white",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-ionomero-de-vidro-vidrion-plus-f-18960-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 39,
+    "title": "Ionômero de Vidro Vidrion R Plus",
+    "brand": "SS WHITE",
+    "details": "Embalagem com 1 frasco em pó 10g cor A2, 1 frasco líquido de 8ml, 1 colher dosadora e instruções para o profissional.",
+    "price": "R$ 64,00",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vidrion-plus-r-ss-white",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-ionomero-de-vidro-vidrion-plus-r-18961.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 40,
+    "title": "Venc. 01/04/2021 - Ketac Molar Easy Mix A3 56633 Kit 12,5g*",
+    "brand": "3M",
+    "details": "Kit c/1 pó de 12,5g, 1 líquido de 8,5ml, 1 colher dosadora, 1 bloco de espatulação, instruções de uso. Cor A3.",
+    "price": "R$ 360,18",
+    "href": "https://www.dentalspeed.com/familia/venc-01042021-ketac-molar-easy-mix-a3-56633-kit-125g-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-ketac-molar-easy-mix-a3-56633-kit-125g-3m-espe-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 41,
+    "title": "Kit Ionômero de Vidro Ion-Z",
+    "brand": "FGM",
+    "details": "Kit c/ 10g de pó + ácido policarboxílico de 8g + 1 dosador de pó e 1 bloco de espatulação.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-ion-z-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-ionomero-de-vidro-ion-z-a1-fgm-10915-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 42,
+    "title": "Ionômero de Vidro Gold Label 2 LC Líquido",
+    "brand": "GC",
+    "details": "Embalagem c/ frasco c/ 6,8ml de líquido.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-gold-label-2-lc-liquido-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-gc-gold-label-2-lc-refil-liquido-gc-11411.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 43,
+    "title": "Ionômero De Vidro Vidrion C Pó",
+    "brand": "SS WHITE",
+    "details": "Embalagem c/ 15g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vidrion-c-po-ss-white",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vidrion-c-po-ss-white.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 44,
+    "title": "Ionômero de Vidro Vidrion F Pó",
+    "brand": "SS WHITE",
+    "details": "Embalagem c/ 10g, tonalidade L.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vidrion-f-po-ss-white",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vidrion-f-po-ss-white.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 45,
+    "title": "Ionômero de Vidro Vidrion R Líquido",
+    "brand": "SS WHITE",
+    "details": "Embalagem c/ 8ml.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-vidrion-r-liquido-ss-white",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vidrion-r-liquido-ss-white.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 46,
+    "title": "Kit Ionômero de Vidro Fuji Lining LC",
+    "brand": "GC",
+    "details": "Embalagem c/ frasco de pó 5g, líquido c/ 3,4ml e acessórios.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-fuji-lining-lc-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-gc-fuji-lining-lc-gc-11406.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 47,
+    "title": "Kit Ionômero de Vidro Gold Label 1",
+    "brand": "GC",
+    "details": "Embalagem c/ 15g de pó + 8ml de líquido + acessórios.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-gold-label-1-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gc-gold-label-1-6452.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 48,
+    "title": "Kit Ionômero de Vidro Gold Label 9",
+    "brand": "GC",
+    "details": "Embalagem c/ 5g de pó + 2,4ml de líquido + acessórios.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-gold-label-9-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-gc-gold-label-9-a2-9082.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 49,
+    "title": "Kit Ionômero de Vidro Riva Luting ",
+    "brand": "SDI",
+    "details": "Kit c/ 15g de pó + 10,7ml de líquido + acessórios.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-riva-luting-sdi",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-riva-luting-kit-poliq-sdi-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 50,
+    "title": "Kit Ionômero de Vidro Vidrion C",
+    "brand": "SS WHITE",
+    "details": "Kit c/ 15g de pó + 10ml de líquido + 1 medidor de pó + 1 conjunto dosador de líquido.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-vidrion-c-ss-white",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-kit-vidrion-c-ss-white.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 51,
+    "title": "Kit Ionômero de Vidro Vitro Liner",
+    "brand": "DFL",
+    "details": "Kit c/ 10g de pó + 8ml de líquido + bloco de mistura + colher medidora.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-ionomero-de-vidro-vitro-liner-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vitro-liner-nova-dfl.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 52,
+    "title": "Cimento Ionômero de Vidro Riva Cem",
+    "brand": "SDI",
+    "details": "Embalagem c/ 1 seringa 8,5g, Bloco de Mistura e 1 Espátula.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/cimento-ionomero-de-vidro-riva-cem-sdi",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cimento-ionomero-de-vidro-riva-cem-sdi-13991.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 53,
+    "title": "Ionômero de Vidro Equia Forte Fil",
+    "brand": "GC",
+    "details": "Embalagem c/ 10 cápsulas.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/ionomero-de-vidro-equia-forte-fil-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/ionomero-de-vidro-equia-forte-fil-a1-gc-13699-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-20T20:00:27.534Z\"",
+      "mins": 0,
+      "hours": 17,
+      "theDate": 20,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  }
+]

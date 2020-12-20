@@ -1,0 +1,36 @@
+[
+ {
+  "id": 0,
+  "title": "Água Destilada para Autoclave - Water Clean",
+  "details": "Embalagem com 5 litros.",
+  "price": "R$19,90",
+  "href": "https://www.dentalcremer.com.br/agua-destilada-para-autoclave-water-clean-672312.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/672312.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:35.111Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ },
+ {
+  "id": 1,
+  "title": "Água para Autoclave Deionizada 5L - SSPlus",
+  "details": "Frasco com 5 litros.",
+  "price": "R$17,90",
+  "href": "https://www.dentalcremer.com.br/agua-para-autoclave-deionizada-5l-ssplus-388718.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/388718.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2020-12-20T21:20:35.111Z\"",
+   "mins": 20,
+   "hours": 18,
+   "theDate": 20,
+   "theMonth": 12,
+   "theYear": 2020,
+   "theDay": 0
+  }
+ }
+]
