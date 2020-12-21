@@ -50,7 +50,7 @@ import sptira from '../../items/itemsSpeed/sp-tiras+de+lixa.json'
 import onacido from '../../items/itemsOnly/on-condicionadores-acidos.json' // filtrar fosforico
 import onagua from '../../items/itemsOnly/on-agua-p-47-autoclave.json'
 import onagulha from '../../items/itemsOnly/on-agulhas.json'
-import onalgodao from '../../items/itemsOnly/on-agulhas.json' // separar rolete
+import onalgodao from '../../items/itemsOnly/on-algodoes.json' // separar rolete
 import onaplicador from '../../items/itemsOnly/on-aplicador.json'
 import onanestesico from '../../items/itemsOnly/on-anestesicos.json'
 import oncompressa from '../../items/itemsOnly/on-gazes.json'
@@ -69,7 +69,7 @@ import ontira from '../../items/itemsOnly/on-tira-p-47-acabamento-e-polimento.js
 import ciacido from '../../items/itemsCia/ci-acido.json' // tem que filtrar acido fosforico
 import ciagua from '../../items/itemsCia/_empty.json' //não tem
 import ciagulha from '../../items/itemsCia/ci-agulhas.json'
-import cialgodao from '../../items/itemsCia/ci-undefined.json' // OK
+import cialgodao from '../../items/itemsCia/ci-algodao.json' // OK
 import ciaplicador from '../../items/itemsCia/ci-aplicador-descartavel.json'
 import cianestesico from '../../items/itemsCia/ci-anestesicos.json' // OK
 import cicompressa from '../../items/itemsCia/ci-compressa-descartavel.json'

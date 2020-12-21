@@ -7,11 +7,12 @@ function SubDivision({ arrayName, convertedDate, title, titlePageLink }) {
    
   return (
     <div className="videos-sub-div">
-
+      
       <h2 className="video-section-title">
         <a href={titlePageLink} className="video-link" style={{textDecoration: 'none', color: '#999'}}>{title}</a>
             <button className="video-section-title-close">&times;</button>
       </h2>
+      <div className="video-sub-y-scroll-div">
       <section className="video-section">
         {
           arrayName.map((i) => 
@@ -33,6 +34,7 @@ function SubDivision({ arrayName, convertedDate, title, titlePageLink }) {
           )
         }
       </section>
+      </div>
     </div>
   )
 }
