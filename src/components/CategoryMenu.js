@@ -7,25 +7,25 @@ function CategoryMenu(props) {
   const [showDropdownFirst, setShowDropDownFirst] = useState(false);
   const [showDropdownSecond, setShowDropDownSecond] = useState(false);
   const itemsArray = [
-    '/acido+fosforico',
-    '/agua-destilada',
-    '/agulha',        
-    '/algodao-rolete',
-    '/anestesico',
-    '/cunha',
-    '/embalagem-para-autoclave',
-    '/fio-de-sutura',
-    '/gaze',
-    '/ionomero-de-vidro',
-    '/lencol-de-borracha',
-    '/luva-cirurgica',
-    '/luva-de-procedimento',
-    '/matriz',
-    '/microbrush',
-    '/resina-dental',
-    '/restaurador-provisorio',
-    '/sugador',
-    '/tira'
+    {ext: '/acido+fosforico', name: 'Ácido Fosfórico'},
+    {ext:'/agua-destilada', name: 'Água Destilada'},
+    {ext:'/agulha', name: 'Agulha Gengival'},
+    {ext:'/algodao-rolete', name: 'Rolete de algodão'},
+    {ext:'/anestesico', name: 'Anestésico'},
+    {ext:'/cunha', name: 'Cunha'},
+    {ext:'/embalagem-para-autoclave', name: 'Embalagem para autoclave'},
+    {ext:'/fio-de-sutura', name: 'Fio de Sutura'},
+    {ext:'/gaze', name: 'Gaze'},
+    {ext:'/ionomero-de-vidro', name: 'Ionômero de vidro'},
+    {ext:'/lencol-de-borracha', name: 'Lençol de borracha'},
+    {ext:'/luva-cirurgica', name: 'Luva cirúrgica'},
+    {ext:'/luva-de-procedimento', name: 'Luva de procedimento'},
+    {ext:'/matriz', name: 'Matriz'},
+    {ext:'/microbrush', name: 'Microbrush'},
+    {ext:'/resina-dental', name: 'Resina Composta'},
+    {ext:'/restaurador-provisorio', name: 'Restaurador provisório'},
+    {ext:'/sugador', name: 'Sugaddor'},
+    {ext:'/tira', name: 'Tira de lixa'}
   ]      
   
   const dropDownItemArray = [
@@ -95,10 +95,10 @@ function CategoryMenu(props) {
         </div>
         {
           itemsArray.map((i, index) => (
-            <Link key={index} className='category-link' to={i}>
-              { (props.activeProp === i)  
-                ? <button className="category active" autoFocus>{i.slice(1, )}</button>
-                : <button className="category">{i.slice(1, )}</button>
+            <Link key={index} className='category-link' to={i.ext}>
+              { (props.activeProp === i.ext)  
+                ? <button className="category active" autoFocus>{i.name}</button>
+                : <button className="category">{i.name}</button>
               }
             </Link>
           ))

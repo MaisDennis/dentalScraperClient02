@@ -1,410 +1,784 @@
 [
- {
-  "id": 0,
-  "title": "Tira de Lixa de Aço - Fava",
-  "details": "Embalagem com 12 unidades de 4mm.",
-  "price": "R$15,76",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-fava-1.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/213751.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
+  {
+    "id": 0,
+    "title": "Tira de Lixa de Aço - Fava",
+    "details": "Embalagem com 12 unidades de 4mm.",
+    "price": "R$10,19",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-fava-1.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/213751.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Tira de Lixa de Poliéster - AllPrime",
+    "details": "Embalagem com 150 unidades de 4mm.",
+    "price": "R$12,60",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-allprime-184693.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/184693.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Tira de Lixa de Poliéster - Allprime",
+    "details": "Embalagem com 50 unidades de 2,5MM.",
+    "price": "R$7,99",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-allprime-194432.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/194432.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Tira de Lixa de Aço - AllPrime",
+    "details": "Embalagem com 12 unidades de 6mm.",
+    "price": "R$11,55",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-allprime-184600.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/184600.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Tira de Lixa de Aço - AllPrime",
+    "details": "Embalagem com 12 unidades de 4mm.",
+    "price": "R$9,90",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-allprime-184594.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/184594.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Tira de Lixa de Aço - AllPrime",
+    "details": "Embalagem com 12 unidades de 2,5mm.",
+    "price": "R$7,99",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-allprime-184587.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/184587.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Tira de Lixa de Poliéster Sof-Lex - 3M",
+    "details": "Embalagem com 50 unidades de 4mm x 170mm.",
+    "price": "R$62,00",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-sof-lex-3m-355413.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/355413.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Tira de Lixa de Poliéster Sof-Lex- 3M ",
+    "details": "Embalagem com 150 unidades de  4mm x 170mm.",
+    "price": "R$135,00",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-sof-lex-3m-267006.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/267006.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Tira de Lixa de Aço - Injecta",
+    "details": "Embalagem com 12 unidades.",
+    "price": "R$7,66",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-injecta-dc11111.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/393217.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Arco Mir Colmeia Tira de Lixa Dupla Face - Microdont",
+    "details": "Embalagem com 1 unidade. 4mm. Escolha a granulação.",
+    "price": "R$24,00",
+    "href": "https://www.dentalcremer.com.br/arco-mir-colmeia-tira-de-lixa-dupla-face-microdont-dc26627.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/109113.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Tira de Lixa de Aço - Nova DFL",
+    "details": "Cartucho com 12 unidades. Escolha o tamanho.",
+    "price": "R$14,99",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-nova-dfl-dc25874.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/107233.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Tira de Lixa de Aço Serrilhada - Komet",
+    "details": "Embalagem com 5 unidades. Serra interproximal.",
+    "price": "R$222,00",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-serrilhada-komet-629279.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/629279_635817260613028887.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Tira de Lixa e Matriz de Poliéster Epitex - GC",
+    "details": "Kit com 5 rolos de 10m cada + dispenser.",
+    "price": "R$1.180,00",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-e-matriz-de-poliester-epitex-gc-565218.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/565218.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Tira de Lixa de Aço Dentada - Horico",
+    "details": "Embalagem com 1 unidade. 6mm.",
+    "price": "R$17,07",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-dentada-horico-739992.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/739992.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Tira de Lixa de Aço Dentada - Horico",
+    "details": "Embalagem com 5 unidades. 6mm.",
+    "price": "R$53,12",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-dentada-horico-740011.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/740011.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Tira de Lixa de Aço - Horico",
+    "details": "Embalagem com 12 unidades de 4mm.",
+    "price": "R$42,28",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-horico-389104.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/590845_635666064344583854.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Tira de lixa de Poliéster - Preven",
+    "details": "Embalagem com 150 unidades. 4mm x 170mm.",
+    "price": "R$8,96",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-preven-629194.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/629194.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 17,
+    "title": "Tira de Lixa de Aço - Preven",
+    "details": "Embalagem com 12 unidades 6mm.",
+    "price": "R$7,84",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-preven-629187.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/629187.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 18,
+    "title": "Tira de Lixa de Aço Airon - Maquira",
+    "details": "Embalagem com 12 unidades de 6mm.",
+    "price": "R$14,99",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-airon-maquira-1.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/540208_2.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 19,
+    "title": "Tira de Lixa de Aço Airon - Maquira",
+    "details": "Embalagem com 12 unidades de 4mm.",
+    "price": "R$14,99",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-airon-maquira.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/540192_2.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 20,
+    "title": "Tira de Lixa de Poliéster - Maquira",
+    "details": "Embalagem com 150 unidades de 4mm x 170mm.",
+    "price": "R$19,90",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-maquira.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/427936.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 21,
+    "title": "Tira de Lixa de Aço - Fava",
+    "details": "Embalagem com 12 unidades de 6mm.",
+    "price": "R$17,33",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-fava-2.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/213768.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 22,
+    "title": "Tira de Lixa de Aço - Fava",
+    "details": "Embalagem com 12 unidades de 2mm.",
+    "price": "R$18,28",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-fava.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/213744.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 23,
+    "title": "Tira de Lixa de Poliéster - Fava",
+    "details": "Embalagem com 150 unidades de 4mm.",
+    "price": "R$44,91",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-fava.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/213805.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:37.704Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 0,
+    "title": "Cabo para Suporte do Arco de Lixa Mir - Microdont",
+    "details": "Embalagem com 1 unidade.",
+    "price": "R$14,00",
+    "href": "https://www.dentalcremer.com.br/cabo-para-suporte-do-arco-de-lixa-mir-microdont-109118.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/109118.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 1,
+    "title": "Arco Colmeia Tira de Lixa Kit Mir - Microdont",
+    "details": "Kit com 6 arcos + 1 cabo.",
+    "price": "R$139,90",
+    "href": "https://www.dentalcremer.com.br/arco-colmeia-tira-de-lixa-kit-mir-microdont-109117.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/109117.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 2,
+    "title": "Arco Mir Colmeia Tira de Lixa Dupla Face - Microdont",
+    "details": "Embalagem com 1 unidade. Sem Diamante.",
+    "price": "R$24,00",
+    "href": "https://www.dentalcremer.com.br/arco-mir-colmeia-tira-de-lixa-dupla-face-microdont-109116.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/109116.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 3,
+    "title": "Tira de Lixa de Poliéster - Microdont",
+    "details": "Embalagem com 50 unidades de 4mm.",
+    "price": "R$8,40",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-microdont-513202.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/513202.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 4,
+    "title": "Tira de Lixa de Poliéster - Microdont",
+    "details": "Embalagem com 150 unidades de 2,5mm.",
+    "price": "R$14,20",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-microdont-965148.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/965148.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 5,
+    "title": "Tira de Lixa de Poliéster - Microdont",
+    "details": "Embalagem com 150 unidades de 4mm.",
+    "price": "R$14,20",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-microdont-475166.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/475166.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 6,
+    "title": "Tira de Lixa de Poliéster Para Acabamento Proximal - TDV",
+    "details": "Embalagem com 150 unidades de 4mm.",
+    "price": "R$43,86",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-para-acabamento-proximal-tdv-261578.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/261578.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 7,
+    "title": "Tira de Lixa de Poliéster Para Acabamento Proximal - TDV",
+    "details": "Embalagem com 150 unidades de 2,5mm.",
+    "price": "R$40,74",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-para-acabamento-proximal-tdv-212242.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/212242.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 8,
+    "title": "Tira de Lixa Abrasiva em Aço - TDV",
+    "details": "Embalagem com 12 unidades de 4mm x 130mm.",
+    "price": "R$22,70",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-abrasiva-em-aco-tdv-212211.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/212211.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 9,
+    "title": "Tira de Lixa Diamantada Microcut - TDV",
+    "details": "Embalagem com 5 unidades.",
+    "price": "R$61,59",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-diamantada-microcut-tdv-544947.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/544947.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 10,
+    "title": "Tira de lixa Diamantada Serrilhada - TDV",
+    "details": "Embalagem com 5 unidades.",
+    "price": "R$58,12",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-diamantada-serrilhada-tdv-567687.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/567687.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 11,
+    "title": "Tira de Lixa Poliéster - K-Dent   ",
+    "details": "Embalagem com 150 unidades.",
+    "price": "R$12,99",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-poliester-k-dent-107947.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/107947.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 12,
+    "title": "Fita Banda Matriz de Poliéster - K-Dent       ",
+    "details": "Embalagem com 50 unidades.",
+    "price": "R$1,50",
+    "href": "https://www.dentalcremer.com.br/fita-banda-matriz-de-poliester-k-dent-107948.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/107948.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 13,
+    "title": "Tira de Lixa N 80 Giroform - AmannGirrbach",
+    "details": "Embalagem com 50 unidades.",
+    "price": "R$267,95",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-n-80-giroform-amanngirrbach-924671.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/924671.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 14,
+    "title": "Tira de Lixa N 240 Giroform - AmannGirrbach",
+    "details": "Embalagem com 50 unidades.",
+    "price": "R$733,36",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-n-240-giroform-amanngirrbach-924664.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/924664.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 15,
+    "title": "Tira de Lixa de Aço - Microdont",
+    "details": "Embalagem com 12 unidades de 2,5mm.",
+    "price": "R$11,26",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-microdont-475173.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/475173.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 16,
+    "title": "Tira de Lixa de Poliéster - Microdont",
+    "details": "Embalagem com 100 unidades de 4mm.",
+    "price": "R$12,42",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-microdont-409130.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/409130.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 17,
+    "title": "Tira de Lixa de Aço - Microdont",
+    "details": "Embalagem com 12 unidades de 6mm.",
+    "price": "R$14,98",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-microdont-409123.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/409123.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 18,
+    "title": "Tira de Lixa de Aço - Microdont",
+    "details": "Embalagem com 12 unidades de 4mm.",
+    "price": "R$10,96",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-microdont-409116.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/409116.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 19,
+    "title": "Tira de Lixa de Poliéster Epitex - GC",
+    "details": "Embalagem com rolo de 10m.",
+    "price": "R$220,00",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-epitex-gc-dc18064.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/565232.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 20,
+    "title": "Tira de Lixa PolyStrips Super-Snap - Shofu",
+    "details": "Embalagem com 100 unidades. (Modelo Média e Grossa L525)",
+    "price": "R$214,00",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-polystrips-super-snap-shofu-794953.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/794953.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
+  },
+  {
+    "id": 21,
+    "title": "Tira de Lixa Diamantada Centro Neutro - Edenta",
+    "details": "Embalagem com 10 unidades. Modelo Média",
+    "price": "R$422,60",
+    "href": "https://www.dentalcremer.com.br/tira-de-lixa-diamantada-centro-neutro-edenta-776843.html",
+    "img": "https://cdn.dentalcremer.com.br/produtos/210/776843.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-27T04:45:40.485Z\"",
+      "mins": 45,
+      "hours": 1,
+      "theDate": 27,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 0
+    }
   }
- },
- {
-  "id": 1,
-  "title": "Tira de Lixa de Poliéster - AllPrime",
-  "details": "Embalagem com 150 unidades de 4mm.",
-  "price": "R$10,19",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-allprime-184693.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/184693.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 2,
-  "title": "Tira de Lixa de Poliéster - Allprime",
-  "details": "Embalagem com 50 unidades de 2,5MM.",
-  "price": "R$15,99",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-allprime-194432.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/194432.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 3,
-  "title": "Tira de Lixa de Aço - AllPrime",
-  "details": "Embalagem com 12 unidades de 6mm.",
-  "price": "R$12,60",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-allprime-184600.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/184600.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 4,
-  "title": "Tira de Lixa de Aço - AllPrime",
-  "details": "Embalagem com 12 unidades de 4mm.",
-  "price": "R$10,50",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-allprime-184594.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/184594.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 5,
-  "title": "Tira de Lixa de Aço - AllPrime",
-  "details": "Embalagem com 12 unidades de 2,5mm.",
-  "price": "R$7,99",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-allprime-184587.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/184587.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 6,
-  "title": "Tira de Lixa de Aço - Injecta",
-  "details": "Embalagem com 12 unidades.",
-  "price": "R$13,90",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-injecta-dc11111.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/393217.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 7,
-  "title": "Arco Mir Colmeia Tira de Lixa Dupla Face - Microdont",
-  "details": "Embalagem com 1 unidade. 4mm. Escolha a granulação.",
-  "price": "R$11,55",
-  "href": "https://www.dentalcremer.com.br/arco-mir-colmeia-tira-de-lixa-dupla-face-microdont-dc26627.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/109113.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 8,
-  "title": "Tira de Lixa de Aço - Nova DFL",
-  "details": "Cartucho com 12 unidades. Escolha o tamanho.",
-  "price": "R$11,90",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-nova-dfl-dc25874.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/107233.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 9,
-  "title": "Tira de Lixa de Aço Serrilhada - Komet",
-  "details": "Embalagem com 5 unidades. Serra interproximal.",
-  "price": "R$9,90",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-serrilhada-komet-629279.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/629279_635817260613028887.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 10,
-  "title": "Tira de Lixa e Matriz de Poliéster Epitex - GC",
-  "details": "Kit com 5 rolos de 10m cada + dispenser.",
-  "price": "R$8,90",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-e-matriz-de-poliester-epitex-gc-565218.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/565218.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 11,
-  "title": "Tira de Lixa de Aço Dentada - Horico",
-  "details": "Embalagem com 1 unidade. 6mm.",
-  "price": "R$7,99",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-dentada-horico-739992.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/739992.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 12,
-  "title": "Tira de Lixa de Aço Dentada - Horico",
-  "details": "Embalagem com 5 unidades. 6mm.",
-  "price": "R$7,66",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-dentada-horico-740011.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/740011.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 13,
-  "title": "Tira de Lixa de Aço - Horico",
-  "details": "Embalagem com 12 unidades de 4mm.",
-  "price": "R$24,00",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-horico-389104.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/590845_635666064344583854.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 14,
-  "title": "Tira de lixa de Poliéster - Preven",
-  "details": "Embalagem com 150 unidades. 4mm x 170mm.",
-  "price": "R$14,99",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-preven-629194.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/629194.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 15,
-  "title": "Tira de Lixa de Aço - Preven",
-  "details": "Embalagem com 12 unidades 6mm.",
-  "price": "R$222,00",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-preven-629187.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/629187.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 16,
-  "title": "Tira de Lixa de Aço Airon - Maquira",
-  "details": "Embalagem com 12 unidades de 6mm.",
-  "price": "R$1.180,00",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-airon-maquira-1.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/540208_2.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 17,
-  "title": "Tira de Lixa de Aço Airon - Maquira",
-  "details": "Embalagem com 12 unidades de 4mm.",
-  "price": "R$17,07",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-airon-maquira.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/540192_2.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 18,
-  "title": "Tira de Lixa de Poliéster - Maquira",
-  "details": "Embalagem com 150 unidades de 4mm x 170mm.",
-  "price": "R$53,12",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-maquira.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/427936.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 19,
-  "title": "Tira de Lixa de Aço - Fava",
-  "details": "Embalagem com 12 unidades de 6mm.",
-  "price": "R$42,28",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-fava-2.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/213768.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 20,
-  "title": "Tira de Lixa de Aço - Fava",
-  "details": "Embalagem com 12 unidades de 2mm.",
-  "price": "R$8,96",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-aco-fava.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/213744.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 21,
-  "title": "Tira de Lixa de Poliéster - Fava",
-  "details": "Embalagem com 150 unidades de 4mm.",
-  "price": "R$7,84",
-  "href": "https://www.dentalcremer.com.br/tira-de-lixa-de-poliester-fava.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/213805.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 22,
-  "title": "Cabo para Suporte do Arco de Lixa Mir - Microdont",
-  "details": "Embalagem com 1 unidade.",
-  "price": "R$14,99",
-  "href": "https://www.dentalcremer.com.br/cabo-para-suporte-do-arco-de-lixa-mir-microdont-109118.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/109118.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- },
- {
-  "id": 23,
-  "title": "Arco Colmeia Tira de Lixa Kit Mir - Microdont",
-  "details": "Kit com 6 arcos + 1 cabo.",
-  "price": "R$14,99",
-  "href": "https://www.dentalcremer.com.br/arco-colmeia-tira-de-lixa-kit-mir-microdont-109117.html",
-  "img": "https://cdn.dentalcremer.com.br/produtos/210/109117.jpg",
-  "time": {
-   "stringifiedTimeData": "\"2020-12-20T21:20:20.963Z\"",
-   "mins": 20,
-   "hours": 18,
-   "theDate": 20,
-   "theMonth": 12,
-   "theYear": 2020,
-   "theDay": 0
-  }
- }
 ]

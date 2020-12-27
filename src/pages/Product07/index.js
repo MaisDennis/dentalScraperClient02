@@ -3,7 +3,9 @@ import { format, utcToZonedTime } from 'date-fns-tz';
 import { FaEye } from 'react-icons/fa';
 // -----------------------------------------------------------------------------
 import CategoryMenu from '../../components/CategoryMenu';
-import sort from '../../utils/sort'
+import sort from '../../utils/sort';
+import filters from '../../utils/filters';
+import nonFilters from '../../utils/nonFilters';
 import SubDivision from '../../components/SubDivision';
 
 import SearchBar from '../../components/Searchbar'
@@ -40,7 +42,6 @@ import spfio from '../../items/itemsSpeed/sp-fio+sutura.json'
 import spionomero from '../../items/itemsSpeed/sp-ionomero-de-vidro.json'
 import splencol from '../../items/itemsSpeed/sp-lencois.json'
 import spluvas from '../../items/itemsSpeed/sp-luvas.json'
-import spluvadeprocedimento from '../../items/itemsSpeed/sp-luvas.json'
 import spmatriz from '../../items/itemsSpeed/sp-matriz.json'
 import spresina from '../../items/itemsSpeed/sp-resina-dental.json'
 import sprestaurador from '../../items/itemsSpeed/sp-restaurador-provisorio.json'
@@ -90,42 +91,31 @@ export default function Dashboard(props) {
   let crKey = []; let spKey = []; let onKey = []; let ciKey = [];
 
   // Filters
-  const filteredOnAcido = onacido.filter(s => {
-    let titleDetail = s.title + s.details
-    return titleDetail.toLowerCase().includes('fosfórico')
-  })
+  const filteredOnAcido = filters(onacido, 'fosfórico')
+  const filteredCiAcido = filters(ciacido, 'fosfórico')
+  
+  const filteredOnLuvaDeProcedimento = filters(onluvas, 'procedimento')
+  const filteredSpLuvadeProcedimento = filters(spluvas, 'procedimento')
+  const nonFilteredCrLuvadeProcedimento = nonFilters(crluvadeprocedimento, 'sobre')
+  
+  const filteredOnLuvaCirurgica = filters(onluvas, 'cirúrgica')
+  const filteredSpLuvaCirurgica = filters(spluvas, 'cirúrgica')
 
-  const filteredOnLuvaDeProcedimento = onluvas.filter(s => {
-    let titleDetail = s.title + s.details
-    return titleDetail.toLowerCase().includes('procedimento')
-  })
+  const filteredSpAplicador = filters(spaplicador, 'micro')
+  const nonFilteredCrAplicador = nonFilters(craplicador, 'pincel')
+  const nonNonFilteredCrAplicador = nonFilters(nonFilteredCrAplicador, 'cálcio')
+  const nonFilteredOnAplicador = nonFilters(onaplicador, 'hidróxido')
 
-  const filteredOnLuvaCirurgica = onluvas.filter(s => {
-    let titleDetail = s.title + s.details
-    return titleDetail.toLowerCase().includes('cirúrgica')
-  })
+  const nonFilteredCrMatriz = nonFilters(crmatriz, 'anel')
 
-  const filteredCiAcido = ciacido.filter(s => {
-    let titleDetail = s.title + s.details
-    return titleDetail.toLowerCase().includes('fosfórico')
-  })
-
-  const filteredSpLuvadeProcedimento = spluvas.filter(s => {
-    let titleDetail = s.title + s.details
-    return titleDetail.toLowerCase().includes('procedimento')
-  })
-
-  const filteredSpLuvaCirurgica = spluvas.filter(s => {
-    let titleDetail = s.title + s.details
-    return titleDetail.toLowerCase().includes('cirúrgica')
-  })
+  const nonFilteredSpAgulha = nonFilters(spagulha, 'irrigação')
 
   const query = () => {
     const matchURL = props.match.url || '/lencol';
     switch (matchURL) {
       case ('/acido+fosforico'): crKey = cracido; spKey = spacido; onKey = filteredOnAcido; ciKey = filteredCiAcido; break;
       case ('/agua-destilada'): crKey = cragua; spKey = spagua;  onKey = onagua; ciKey = ciagua; break;
-      case ('/agulha'): crKey = cragulha; spKey = spagulha;  onKey = onagulha; ciKey = ciagulha; break;
+      case ('/agulha'): crKey = cragulha; spKey = nonFilteredSpAgulha;  onKey = onagulha; ciKey = ciagulha; break;
       case ('/algodao-rolete'): crKey = cralgodao; spKey = spalgodao;  onKey = onalgodao; ciKey = cialgodao; break;
       case ('/anestesico'): crKey = cranestesico; spKey = spanestesico;  onKey = onanestesico; ciKey = cianestesico; break;
       case ('/cunha'): crKey = crcunha; spKey = spcunha;  onKey = oncunha; ciKey = cicunha; break;
@@ -135,9 +125,9 @@ export default function Dashboard(props) {
       case ('/ionomero-de-vidro'): crKey = crionomero; spKey = spionomero;  onKey = onionomero; ciKey = ciionomero; break;
       case ('/lencol-de-borracha'): crKey = crlencol; spKey = splencol;  onKey = onlencol; ciKey = cilencol; break;
       case ('/luva-cirurgica'): crKey = crluvacirurgica; spKey = filteredSpLuvaCirurgica;  onKey = filteredOnLuvaCirurgica; ciKey = ciluvacirurgica; break;
-      case ('/luva-de-procedimento'): crKey = crluvadeprocedimento; spKey = filteredSpLuvadeProcedimento;  onKey = filteredOnLuvaDeProcedimento; ciKey = ciluvadeprocedimento; break;
-      case ('/matriz'): crKey = crmatriz; spKey = spmatriz;  onKey = onmatriz; ciKey = cimatriz; break;
-      case ('/microbrush'): crKey = craplicador; spKey = spaplicador;  onKey = onaplicador; ciKey = ciaplicador; break;
+      case ('/luva-de-procedimento'): crKey = nonFilteredCrLuvadeProcedimento; spKey = filteredSpLuvadeProcedimento;  onKey = filteredOnLuvaDeProcedimento; ciKey = ciluvadeprocedimento; break;
+      case ('/matriz'): crKey = nonFilteredCrMatriz; spKey = spmatriz;  onKey = onmatriz; ciKey = cimatriz; break;
+      case ('/microbrush'): crKey = nonNonFilteredCrAplicador; spKey = filteredSpAplicador;  onKey = nonFilteredOnAplicador; ciKey = ciaplicador; break;
       case ('/resina-dental'): crKey = crresina; spKey = spresina;  onKey = onresina; ciKey = ciresina; break;
       case ('/restaurador-provisorio'): crKey = crrestaurador; spKey = sprestaurador;  onKey = onrestaurador; ciKey = cirestaurador; break;
       case ('/sugador'): crKey = crsugador; spKey = spsugador;  onKey = onsugador; ciKey = cisugador; break;

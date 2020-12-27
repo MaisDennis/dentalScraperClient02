@@ -1,308 +1,308 @@
 [
   {
     "id": 0,
-    "title": "Luva Látex para Procedimento - SUPERMAX",
-    "brand": "SUPERMAX",
-    "price": "R$99,90",
-    "href": "https://www.onlydental.com.br/luva-latex-para-procedimento-supermax-3402.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/produto-luva-de-latex-procedimento-supermax-12.png",
+    "title": "Enxerto Ósseo Bovino Lumina-Bone - Fina",
+    "brand": "CRITÉRIA",
+    "price": "R$119,00",
+    "href": "https://www.onlydental.com.br/enxerto-osseo-bovino-lumina-bone-fina-cri15760a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/enxerto-osseo-bovino-lumina-bone-medio-criteria-11800.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
     "id": 1,
-    "title": "Luva Plástica - NOBRE",
-    "brand": "NOBRE",
-    "price": "R$6,75",
-    "href": "https://www.onlydental.com.br/luva-plastica-nobre-nob10638a.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/luva-plastica-descartavel-nobre-10638.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 2,
-    "title": "Luva Orange Látex p/ Procedimento s/ Pó Conforto Premium Quality - UNIGLOVES",
-    "brand": "UNIGLOVES",
-    "price": "R$13,64",
-    "href": "https://www.onlydental.com.br/luva-orange-latex-p-procedimento-s-po-conforto-premium-quality-unigloves-16652.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/luva-orange-latex-p-procedimento-s-po-conforto-premium-quality-16652-2.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 3,
-    "title": "Luva Plástica Descartável Estéril",
-    "brand": "DESCARPACK",
-    "price": "R$3,59",
-    "href": "https://www.onlydental.com.br/luva-plastica-descartavel-esteril-des16080a.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/luva-plastica-descartavel-esteril-des16080a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 4,
-    "title": "Luva Cirúrgica Estéril - SUPERMAX",
-    "brand": "SUPERMAX",
-    "price": "R$2,95",
-    "href": "https://www.onlydental.com.br/luva-cirurgica-esteril-supermax-5760.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/produto-luva-cirurgica-esteril-65-pp-supermax.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 5,
-    "title": "Luva Cirúrgica Estéril Pouch Plástico - DESCARPACK",
-    "brand": "DESCARPACK",
-    "price": "R$119,00",
-    "href": "https://www.onlydental.com.br/luva-cirurgica-esteril-pouch-plastico-descarpack-17156.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/luva-cirurgica-esteril-pouch-plastico-descarpack-17156-2.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 6,
-    "title": "Enxerto Ósseo Bovino Lumina-Bone - Fina",
-    "brand": "CRITÉRIA",
-    "price": "R$103,90",
-    "href": "https://www.onlydental.com.br/enxerto-osseo-bovino-lumina-bone-fina-cri15760a.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/enxerto-osseo-bovino-lumina-bone-medio-criteria-11800.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 7,
     "title": "Luva Nitrílica p/ Procedimento sem Pó Preta - DESCARPACK",
     "brand": "DESCARPACK",
     "price": "R$103,90",
     "href": "https://www.onlydental.com.br/luva-nitrilica-p-procedimento-sem-po-preta-descarpack-16079.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-nitrilica-para-procedimento-sem-po-preta-16079.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
-    "id": 8,
+    "id": 2,
     "title": "Luva Nitrílica p/ Procedimento sem Pó Azul - DESCARPACK",
     "brand": "DESCARPACK",
     "price": "R$103,90",
     "href": "https://www.onlydental.com.br/luva-nitrilica-p-procedimento-sem-po-azul-descarpack-16078.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-nitrilica-para-procedimento-sem-po-azul-16078.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
-    "id": 9,
+    "id": 3,
     "title": "Luva de Látex p/ Procedimento Powder Free - DESCARPACK",
     "brand": "DESCARPACK",
     "price": "R$103,90",
     "href": "https://www.onlydental.com.br/luva-de-latex-p-procedimento-powder-free-descarpack-16077.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-latex-para-procedimento-powder-free-16077.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
-    "id": 10,
+    "id": 4,
     "title": "Luva Nitrílica Pink - SUPERMAX",
     "brand": "SUPERMAX",
-    "price": "R$89,90",
+    "price": "R$103,90",
     "href": "https://www.onlydental.com.br/luva-nitrilica-pink-supermax-14333.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-p-procedimento-nitrilo-pink-supermax-7470-3-12.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
-    "id": 11,
-    "title": "Luva de Nitrilo Premium Quality Black - UNIGLOVES",
-    "brand": "UNIGLOVES",
-    "price": "R$103,90",
-    "href": "https://www.onlydental.com.br/luva-de-nitrilo-premium-quality-black-unigloves-13119.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/luva-nitrilica-premium-quality-black-unigloves-13119.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 0
-    }
-  },
-  {
-    "id": 12,
+    "id": 5,
     "title": "Luva de Látex Clássico Premium Quality Pink - UNIGLOVES",
     "brand": "UNIGLOVES",
     "price": "R$103,90",
     "href": "https://www.onlydental.com.br/luva-de-latex-classico-premium-quality-pink-unigloves-12278.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-nitrilica-premium-quality-pink-unigloves-12278.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
-    "id": 13,
+    "id": 6,
     "title": "Luva Nitrílica para Procedimento sem Pó Azul - SUPERMAX",
     "brand": "SUPERMAX",
     "price": "R$103,90",
     "href": "https://www.onlydental.com.br/luva-nitrilica-para-procedimento-sem-po-azul-supermax-7470.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-p-procedimento-de-nitrilo-azul-7470-1-12.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
-    "id": 14,
+    "id": 7,
     "title": "Luva Nitrílica Black para Procedimento - SUPERMAX",
     "brand": "SUPERMAX",
     "price": "R$103,90",
     "href": "https://www.onlydental.com.br/luva-nitrilica-black-para-procedimento-supermax-12364.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-p-procedimento-black-nitrilo-powder-free-p-supermax-12364-1-12.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
-    "id": 15,
+    "id": 8,
     "title": "Luva Látex p/ Procedimento sem Pó - UNIGLOVES",
     "brand": "UNIGLOVES",
-    "price": "R$94,90",
+    "price": "R$103,90",
     "href": "https://www.onlydental.com.br/luva-latex-p-procedimento-sem-po-unigloves-7955.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-latex-powder-free-unigloves-7955.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
-    "id": 16,
+    "id": 9,
+    "title": "Luva Látex para Procedimento - SUPERMAX",
+    "brand": "SUPERMAX",
+    "price": "R$99,90",
+    "href": "https://www.onlydental.com.br/luva-latex-para-procedimento-supermax-3402.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-luva-de-latex-procedimento-supermax-12.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 3
+    }
+  },
+  {
+    "id": 10,
     "title": "Luva de Vinil p/ Procedimento - DESCARPACK",
     "brand": "DESCARPACK",
     "price": "R$94,90",
     "href": "https://www.onlydental.com.br/luva-de-vinil-p-procedimento-descarpack-5702.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-de-vinil-p-procedimento-g-5702-2-12.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
+    }
+  },
+  {
+    "id": 11,
+    "title": "Luva p/ Procedimento Vinil s/ Pó - DESCARPACK",
+    "brand": "DESCARPACK",
+    "price": "R$94,90",
+    "href": "https://www.onlydental.com.br/luva-p-procedimento-vinil-s-po-descarpack-9358.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/luva-p-procedimento-vinil-s-po-m-9358-11.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 3
+    }
+  },
+  {
+    "id": 12,
+    "title": "Luva de Nitrilo Premium Quality Black - UNIGLOVES",
+    "brand": "UNIGLOVES",
+    "price": "R$89,90",
+    "href": "https://www.onlydental.com.br/luva-de-nitrilo-premium-quality-black-unigloves-13119.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/luva-nitrilica-premium-quality-black-unigloves-13119.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 3
+    }
+  },
+  {
+    "id": 13,
+    "title": "Luva Plástica Descartável Estéril",
+    "brand": "DESCARPACK",
+    "price": "R$13,64",
+    "href": "https://www.onlydental.com.br/luva-plastica-descartavel-esteril-des16080a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/luva-plastica-descartavel-esteril-des16080a.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 3
+    }
+  },
+  {
+    "id": 14,
+    "title": "Luva Plástica - NOBRE",
+    "brand": "NOBRE",
+    "price": "R$6,75",
+    "href": "https://www.onlydental.com.br/luva-plastica-nobre-nob10638a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/luva-plastica-descartavel-nobre-10638.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 3
+    }
+  },
+  {
+    "id": 15,
+    "title": "Luva Cirúrgica Estéril - SUPERMAX",
+    "brand": "SUPERMAX",
+    "price": "R$3,59",
+    "href": "https://www.onlydental.com.br/luva-cirurgica-esteril-supermax-5760.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/produto-luva-cirurgica-esteril-65-pp-supermax.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 3
+    }
+  },
+  {
+    "id": 16,
+    "title": "Luva Cirúrgica Estéril Pouch Plástico - DESCARPACK",
+    "brand": "DESCARPACK",
+    "price": "R$2,95",
+    "href": "https://www.onlydental.com.br/luva-cirurgica-esteril-pouch-plastico-descarpack-17156.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/luva-cirurgica-esteril-pouch-plastico-descarpack-17156-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
+      "theMonth": 12,
+      "theYear": 2020,
+      "theDay": 3
     }
   },
   {
     "id": 17,
-    "title": "Luva p/ Procedimento Vinil s/ Pó - DESCARPACK",
+    "title": "Luva Plástica Descartável - DESCARPACK",
     "brand": "DESCARPACK",
     "price": "R$2,49",
-    "href": "https://www.onlydental.com.br/luva-p-procedimento-vinil-s-po-descarpack-9358.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/luva-p-procedimento-vinil-s-po-m-9358-11.png",
+    "href": "https://www.onlydental.com.br/luva-plastica-descartavel-descarpack-des16081a.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/luva-plastica-descartavel-des16081a.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
@@ -312,29 +312,29 @@
     "href": "https://www.onlydental.com.br/luva-latex-para-procedimento-com-po-descarpack-16939.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/des16939c-luva-latex-para-procedimento-com-po-m.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
     "id": 19,
-    "title": "Luva Plástica Descartável - DESCARPACK",
-    "brand": "DESCARPACK",
-    "href": "https://www.onlydental.com.br/luva-plastica-descartavel-descarpack-des16081a.html",
-    "img": "https://cdn.onlydental.com.br/produtos/210/luva-plastica-descartavel-des16081a.png",
+    "title": "Luva Orange Látex p/ Procedimento s/ Pó Conforto Premium Quality - UNIGLOVES",
+    "brand": "UNIGLOVES",
+    "href": "https://www.onlydental.com.br/luva-orange-latex-p-procedimento-s-po-conforto-premium-quality-unigloves-16652.html",
+    "img": "https://cdn.onlydental.com.br/produtos/210/luva-orange-latex-p-procedimento-s-po-conforto-premium-quality-16652-2.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   },
   {
@@ -344,13 +344,13 @@
     "href": "https://www.onlydental.com.br/luva-para-procedimento-vinil-sem-po-volk-9310.html",
     "img": "https://cdn.onlydental.com.br/produtos/210/luva-p-procedimento-vinil-s-po-volk-9310-4.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-20T19:52:34.966Z\"",
-      "mins": 52,
-      "hours": 16,
-      "theDate": 20,
+      "stringifiedTimeData": "\"2020-12-23T04:06:26.885Z\"",
+      "mins": 6,
+      "hours": 1,
+      "theDate": 23,
       "theMonth": 12,
       "theYear": 2020,
-      "theDay": 0
+      "theDay": 3
     }
   }
 ]
