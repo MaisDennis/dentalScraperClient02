@@ -5,8 +5,9 @@
 # 1. Getting Started
 
 Clone this repository and run the following commands inside the project directory:
-## `yarn`
-## `yarn start`
+`yarn`
+
+`yarn start`
 
 # 2. Contributing
 
