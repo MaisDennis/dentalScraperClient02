@@ -1,0 +1,308 @@
+[
+  {
+    "id": 0,
+    "title": "Alginato Plus Fast",
+    "brand": "ALLPRIME",
+    "details": "Embalagem c/ 453g.",
+    "price": "R$ 45,00",
+    "href": "https://www.dentalspeed.com/familia/alginato-plus-fast-allprime",
+    "img": "https://cdn.dentalspeed.com/produtos/150/alginato-allprime-plus-fast-alp16344a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "Alginato Avagel",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 410g.",
+    "price": "R$ 23,30",
+    "href": "https://www.dentalspeed.com/familia/avagel-dentsply",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-alginato-ava-gel-410g-dentsply-01.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
+    "title": "Alginato Jeltrate Plus",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 454g.",
+    "price": "R$ 49,90",
+    "href": "https://www.dentalspeed.com/familia/alginato-jeltrate-plus-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-alginato-jeltrate-plus-454g-dentsply-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Alginato Jeltrate Chromatic",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 454g.",
+    "price": "R$ 51,45",
+    "href": "https://www.dentalspeed.com/familia/alginato-jeltrate-chromatic-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/alginato-jeltrate-chromatic-454g-dentsply-3430a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
+    "title": "Alginato Jeltrate Dustless",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 410g.",
+    "price": "R$ 47,25",
+    "href": "https://www.dentalspeed.com/familia/alginato-jeltrate-dustless-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-alginato-jeltrate-tipo-ii-dustless-410g-dentsply-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 5,
+    "title": "Alginato Jeltrate Orthodontic",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 454g.",
+    "price": "R$ 54,50",
+    "href": "https://www.dentalspeed.com/familia/alginato-jeltrate-orthodontic-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-jeltrate-orthodontic-dentsply-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 6,
+    "title": "Alginato Hydrogum 5",
+    "brand": "ZHERMACK",
+    "details": "Embalagem c/ 453g.",
+    "price": "R$ 92,60",
+    "href": "https://www.dentalspeed.com/familia/alginato-hydrogum-5-zhermack",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-hydrogum-5-zhermack-3.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 7,
+    "title": "Alginato Dencrigel 410g",
+    "brand": "DENCRIL",
+    "details": "Embalagem c/ 410g.",
+    "price": "R$ 15,86",
+    "href": "https://www.dentalspeed.com/familia/alginato-dencrigel-410g-dencril",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-dencrigel-410g-dencril.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 8,
+    "title": "Alginato Colorchange",
+    "brand": "CAVEX",
+    "details": "Embalagem c/ 500g.",
+    "price": "R$ 112,73",
+    "href": "https://www.dentalspeed.com/familia/colorchange-cavex",
+    "img": "https://cdn.dentalspeed.com/produtos/150/colorchange-cavex.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 9,
+    "title": "Alginato Ortodôntico Orthotrace",
+    "brand": "CAVEX",
+    "details": "Embalagem c/ 500g.",
+    "price": "R$ 112,73",
+    "href": "https://www.dentalspeed.com/familia/orthotrace-cavex",
+    "img": "https://cdn.dentalspeed.com/produtos/150/orthotrace-cavex-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 10,
+    "title": "Alginato Cromático",
+    "brand": "ALLPRIME",
+    "details": "Embalagem c/ 453g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/alginato-cromatico-allprime",
+    "img": "https://cdn.dentalspeed.com/produtos/150/alginato-allprime-cromatico-alp16346a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 11,
+    "title": "Alginato Algi-Gel 410g",
+    "brand": "MAQUIRA",
+    "details": "Embalagem c/ 410g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/alginato-algi-gel-410g-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/alginato-algi-gel-maquira-10730.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 12,
+    "title": "Alginato Ezact Kromm",
+    "brand": "COLTENE",
+    "details": "Embalagem c/ 410g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/ezact-kromm-coltene",
+    "img": "https://cdn.dentalspeed.com/produtos/150/alginato-ezact-kromm-coltene-4295.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 13,
+    "title": "Alginato Hydroprint Premium Regular Set",
+    "brand": "COLTENE",
+    "details": "Embalagem c/ 454g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/alginato-hydroprint-premium-regular-set-coltene",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-alginato-hydroprint-premium-fast-set-coltene-6065-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 14,
+    "title": "Alginato Plastalgin Maçã Verde",
+    "brand": "SEPTODONT",
+    "details": "Embalagem c/ 454g. Acompanha medidor.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/alginato-plastalgin-maca-verde-septodont",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-plastalgin-alginato-tipo-ii-presa-normal-septodont-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 15,
+    "title": "Alginato Plastalgin Ortho",
+    "brand": "SEPTODONT",
+    "details": "Embalagem c/ 454g pó, 1 medidor de pó e de água.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/alginato-plastalgin-ortho-septodont",
+    "img": "https://cdn.dentalspeed.com/produtos/150/plastalgin-ortho-presa-rapida-4993.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 16,
+    "title": "Alginato Pas/cion",
+    "brand": "GC",
+    "details": "Embalagem c/ 454g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/alginato-pascion-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/alginato-pascion-gc-14014.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:59.671Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  }
+]

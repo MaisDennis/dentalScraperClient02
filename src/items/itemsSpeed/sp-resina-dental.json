@@ -1,6 +1,78 @@
 [
   {
     "id": 0,
+    "title": "Resina Filtek MR One",
+    "brand": "3M",
+    "details": "Kit Promocional com 1 seringa de Resina Filtek One Bulk Fill de 4g na cor A1 e 30 Discos de Sof-Lex Pop-On 4931G.",
+    "price": "R$ 279,00",
+    "href": "https://www.dentalspeed.com/familia/resina-filtek-mr-one-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-mr-one-3m-20500.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "Resina Filtek MR Universal",
+    "brand": "3M",
+    "details": "Kit Promocional com 1 seringa de Filtek Universal de 4g na cor A1 e 30 Discos de Sof-Lex Pop-On 4931G.",
+    "price": "R$ 279,00",
+    "href": "https://www.dentalspeed.com/familia/resina-filtek-mr-universal-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-mr-universal-3m-20507.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
+    "title": "Resina Filtek MR Z350 XT",
+    "brand": "3M",
+    "details": "Kit Promocional com 3 seringas de Filtek Z350 XT de 4g (nas cores WD, WB, WE), 1 Single Bond Universal de 3ml e 1 seringa de Filtek Universal Restorative de 1g na cor XW.",
+    "price": "R$ 658,00",
+    "href": "https://www.dentalspeed.com/familia/resina-filtek-mr-z350-xt-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-mr-z350-xt-kit-bleach-3m-20504.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Resina Filtek MR Z250 XT Duopack",
+    "brand": "3M",
+    "details": "Kit Promocional com 2 seringas de Filtek Z250 XT de 4g na cor A1 e 50 Tiras de Lixa Sof-Lex.",
+    "price": "R$ 170,00",
+    "href": "https://www.dentalspeed.com/familia/resina-filtek-mr-z250-xt-duopack-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-mr-z250-xt-duopack-3m-20506.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
     "title": "Kit Master Resina Filtek Z350 XT",
     "brand": "3M",
     "details": "Embalagem c/ 7 seringas de Filtek Z350 XT de 4g nas cores (A1B, A2B, A3B A2E, WE, A2D, CT), 1 Single Bond Universal de 1ml, 1 disco Sof-Lex Espiral Bege e 1 disco Sof-Lex Espiral Rosa.",
@@ -8,17 +80,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-master-resina-filtek-z350-xt-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-master-resina-filtek-z350-xt-mmm18075a.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 1,
+    "id": 5,
     "title": "Kit Resina Vittra Unique + Kit Restauração",
     "brand": "FGM",
     "details": "Kit com Vittra Unique, Ambar APS 6ml, Diamond Master, Aplic Condac 37%.",
@@ -26,17 +98,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-vittra-unique-kit-restauracao-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-vittra-unique-kit-cimentacao-20090.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "Kit Resina Z100 + Adper Single Bond 2",
     "brand": "3M",
     "details": "Embalagem com 4 seringas de Z100 de 4 g (nas cores A1, A2, A3 e A3.5) e 1 Adper Single Bond 2 de 3 g.\r\n",
@@ -44,17 +116,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-z100-adper-single-bond-2-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-z100-adper-dingle-bond-2-19889.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 3,
+    "id": 7,
     "title": "Kit Resina Filtek Z250 XT Basic",
     "brand": "3M",
     "details": "Kit c/ 5 seringas de Filtek Z250 XT de 4 g nas cores A1 (1), A2 (2), A3 (1), OA2 (1), 1 Adper Single Bond 2 de 3g e 50 tiras de lixas Sof-Lex.",
@@ -62,17 +134,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-filtek-z250-xt-basic-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-filtek-z250-xt-basic-16322.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 4,
+    "id": 8,
     "title": "Kit Estética Simplificada Filtek Z350 XT",
     "brand": "3M",
     "details": "Embalagem com 5 seringas de Filtek Z350 XT de 4g (nas cores A1D, A2D, A3D, A3E, B2E), 1 Single Bond Universal de 5 ml. Grátis: 1 espátula LM Misura e 1 conj. de dente (1 hígido e 1 fraturado).\r\n",
@@ -80,17 +152,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-estetica-simplificada-filtek-z350-xt-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-estetica-simplificada-filtek-z350-xt-19888.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 5,
+    "id": 9,
     "title": "Kit Resina Filtek Intro",
     "brand": "3M",
     "details": "Embalagem c/ 3 seringas de Filtek™ Universal de 4g nas cores A1, A2 e A3. Grátis: 1 disco Sof-Lex™ Espiral Bege e 1 disco Sof-Lex Expiral Rosa.",
@@ -98,17 +170,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-filtek-intro-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-filtek-intro-mmm18091a-3.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 6,
+    "id": 10,
     "title": "Kit Resina Filtek Intro Cápsula",
     "brand": "3M",
     "details": "Embalagem c/ 3 frascos Filtek™ Universal com 20 cápsulas nas cores A1, A2 e A3. Grátis: 1 Dispensador Filtek™.",
@@ -116,17 +188,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-filtek-intro-capsula-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-filtek-intro-capsula-mmm18093a.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 7,
+    "id": 11,
     "title": "Kit Resina Filtek One Intro",
     "brand": "3M",
     "details": "Embalagem com 1 seringa da Filtek One de 4 g na cor A2, 20 cápsulas Filtek One na cor A2, 1 Single Bond Universal de 5 ml, 1 Dispensador Filtek.\r\n",
@@ -134,17 +206,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-filtek-one-intro-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-filtek-one-intro-19887.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 8,
+    "id": 12,
     "title": "Kit Resina Protemp 4 + Moldagem + Pasta de Afastamento Gengival",
     "brand": "3M",
     "details": "Kit c/ 1 pasta catalisadora 250ml, 1 Express XT Pasta Densa Soft, 1 Express XT Pasta Fluida Média Viscosidade, 10 pontas misturadoras, 3 cápsulas de 0,3g de Pasta Adstringente de Afastamento Gengival, 1 Protemp 4 de 67g na cor A2, 16 pontas misturadoras azuis. Grátis 1 Dispensador.",
@@ -152,17 +224,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-protemp-4-moldagem-pasta-de-afastamento-gengival-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-protemp-4-moldagem-afastamento-gengival-16323-1.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 9,
+    "id": 13,
     "title": "Resina Bisacrílica Protemp 4 + Pontas Misturadoras",
     "brand": "3M",
     "details": "Embalagem com 1 Protemp 4 (67 g) cor A3, 26 (16 + 10 grátis) pontas misturadoras azuis.",
@@ -170,17 +242,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-bisacrilica-protemp-4-pontas-misturadoras-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-bisacrilica-protemp-4-a3-pontas-misturadoras-19891.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 10,
+    "id": 14,
     "title": "Kit Tetric N-Line",
     "brand": "IVOCLAR VIVADENT",
     "details": "Kit com 6 seringas + 1 adesivo + 10 cânulas + 50 refis aplicadores.",
@@ -188,17 +260,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-tetric-n-line-ivoclar-vivadent",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-tetric-n-line-19932.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 11,
+    "id": 15,
     "title": "Kit Resina Z100 Duopack",
     "brand": "3M",
     "details": "Kit c/ 2 seringas Z100 de 4g na cor A1.",
@@ -206,17 +278,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-z100-duopack-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-z100-duopack-3m-16902.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 12,
+    "id": 16,
     "title": "Kit Resina Filtek Duopack Universal",
     "brand": "3M",
     "details": "Embalagem c/ 2 seringas de Filtek™ Universal de 4g nas cores XW e PO (Pink Opaquer).",
@@ -224,17 +296,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-filtek-duopack-universal-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-filtek-duopack-mmm18092a.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 13,
+    "id": 17,
     "title": "Kit Resina Opallis Básico",
     "brand": "FGM",
     "details": "Kit c/ 6 Opallis de 4g nas cores EA2, EA3, EA3.5, DA2 e DA3 e de 2g na cor T- Neutral.",
@@ -242,35 +314,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-opallis-basico-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-opallis-kit-basico-3349-1.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 14,
-    "title": "Kit Resina Opallis Clinical",
-    "brand": "FGM",
-    "details": "Embalagem c/ 8 seringas 4g (EA1, EA2, EA3, EB2, DA1, DA2, DA3, DB2) + 5 seringas 2g (D-Bleach, T-Blue, T-Neutral, E-Bleach H, Opaque Pearl) e 01 âmbar de 4 mL.",
-    "price": "R$ 569,87",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-opallis-clinical-fgm",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-opallis-kit-clinical-4081-1.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 15,
+    "id": 18,
     "title": "Kit Resina Opallis Intro",
     "brand": "FGM",
     "details": "Kit c/ 4 Opallis c/ 4g cada nas cores EA1, EA2, EA3 e DA2, 1 Condac 37% c/ 2,5ml e 1 Âmbar c/ 4ml.",
@@ -278,35 +332,35 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-opallis-intro-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-opallis-intro-03-perfect-16-3g-7620-01.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 16,
+    "id": 19,
     "title": "Resina Llis",
     "brand": "FGM",
     "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 20,70",
+    "price": "R$ 22,77",
     "href": "https://www.dentalspeed.com/familia/llis-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-llis-fgm-3344-03.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 17,
+    "id": 20,
     "title": "Resina Opallis 2g",
     "brand": "FGM",
     "details": "Embalagem c/ 1 seringa de 2g.",
@@ -314,17 +368,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-opallis-2g-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-opallis-2g-3345.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 18,
+    "id": 21,
     "title": "Resina Opallis 4g",
     "brand": "FGM",
     "details": "Embalagem c/ 1 seringa de 4g.",
@@ -332,35 +386,35 @@
     "href": "https://www.dentalspeed.com/familia/resina-opallis-4g-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-opallis-4g-3346.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 19,
+    "id": 22,
     "title": "Resina Opallis Flow",
     "brand": "FGM",
     "details": "Embalagem c/ 1 seringa de 2g e 1 ponteira de aplicação.",
-    "price": "R$ 20,60",
+    "price": "R$ 22,77",
     "href": "https://www.dentalspeed.com/familia/opallis-flow-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/produto-resina-opallis-flow-2.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 20,
+    "id": 23,
     "title": "Resina Opus Bulk Fill APS",
     "brand": "FGM",
     "details": "Embalagem c/ 1 seringa.",
@@ -368,17 +422,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-opus-bulk-fill-aps-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-opus-bulk-fill-aps-fgm-13448.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 21,
+    "id": 24,
     "title": "Resina Opus Bulk Fill Flow APS 2g",
     "brand": "FGM",
     "details": "Embalagem c/ 1 Seringa de 2g e 10 Pontas aplicadoras.",
@@ -386,161 +440,53 @@
     "href": "https://www.dentalspeed.com/familia/resina-opus-bulk-fill-flow-aps-2g-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-opus-bulk-fill-flow-aps-2g-a1-fgm-14501.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 22,
-    "title": "Resina Vittra APS 4g",
-    "brand": "FGM",
-    "details": "Embalagem c/ 1 Seringa de 4g.",
-    "price": "R$ 56,40",
-    "href": "https://www.dentalspeed.com/familia/resina-vittra-aps-4g-fgm",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vittra-aps-da1-refil-4g-fgm-12264.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 23,
-    "title": "Kit Resina Charisma Juntos Somos Melhores",
-    "brand": "KULZER",
-    "details": "Embalagem c/ 4 Charisma Classic (A1, A2, A3 e AO2), 1 Charisma Easy Shine, 1 Charisma Espátula, 1 GLUMA Bond5, 1 GLUMA Desensitizer e 1 GLUMA Etch 35 Gel.",
-    "price": "R$ 369,90",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-charisma-juntos-somos-melhores-kulzer",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-charisma-juntos-somos-melhores-kzr18057a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 24,
-    "title": "Kit Resina Shine",
-    "brand": "KULZER",
-    "details": "Embalagem c/ 2 Charisma Classic (A1 e A2) e 1 Durafill VS (I). Leve 1 lata colecionavél.",
-    "price": "R$ 129,90",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-shine-kulzer",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-shine-kzr18056a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
     "id": 25,
-    "title": "Resina Charisma Classic",
-    "brand": "KULZER",
-    "details": "Embalagem c/ 4g.",
-    "price": "R$ 59,90",
-    "href": "https://www.dentalspeed.com/familia/resina-charisma-classic-heraeus-kulzer",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-charisma-classic-a1-4g-heraeus-kulzer-10938-2.png",
+    "title": "Resina Vittra APS 4g",
+    "brand": "FGM",
+    "details": "Embalagem c/ 1 Seringa de 4g.",
+    "price": "R$ 62,04",
+    "href": "https://www.dentalspeed.com/familia/resina-vittra-aps-4g-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vittra-aps-da1-refil-4g-fgm-12264.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
     "id": 26,
-    "title": "Resina Charisma Diamond",
+    "title": "Kit Resina Charisma Juntos Somos Melhores",
     "brand": "KULZER",
-    "details": "Embalagem c/ 1 seringa de 4g",
-    "price": "R$ 115,00",
-    "href": "https://www.dentalspeed.com/familia/charisma-diamond-heraeus-kulzer",
-    "img": "https://cdn.dentalspeed.com/produtos/150/charisma-diamond-heraeus-kulzer.png",
+    "details": "Embalagem c/ 4 Charisma Classic (A1, A2, A3 e AO2), 1 Charisma Easy Shine, 1 Charisma Espátula, 1 GLUMA Bond5, 1 GLUMA Desensitizer e 1 GLUMA Etch 35 Gel.",
+    "price": "R$ 399,90",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-charisma-juntos-somos-melhores-kulzer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-charisma-juntos-somos-melhores-kzr18057a.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
     "id": 27,
-    "title": "Resina Durafill",
-    "brand": "KULZER",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 49,90",
-    "href": "https://www.dentalspeed.com/familia/durafill-heraeus-kulzer",
-    "img": "https://cdn.dentalspeed.com/produtos/150/durafill-esmalte-b2-4g-heraeus-kulzer.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 28,
-    "title": "Resina TPH Spectrum",
-    "brand": "DENTSPLY SIRONA",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 25,90",
-    "href": "https://www.dentalspeed.com/familia/tph-spectrum-dentsply",
-    "img": "https://cdn.dentalspeed.com/produtos/150/tph-spectrum-dentsply.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 29,
-    "title": "Resina Fill Magic",
-    "brand": "COLTENE",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 21,71",
-    "href": "https://www.dentalspeed.com/familia/fill-magic-coltene",
-    "img": "https://cdn.dentalspeed.com/produtos/150/fill-magic-coltene-18.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 30,
     "title": "Resina AllPrime",
     "brand": "ALLPRIME",
     "details": "Embalagem c/ 1 seringa de 4g.",
@@ -548,773 +494,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-allprime-allprime",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-allprime-da2-4g-allprime-10534.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 31,
-    "title": "Kit Resina 2 Yprov Bisacryl (A2 + B1) 2 Cartuchos + 6 Ponteiras",
-    "brand": "YLLER",
-    "details": "Kit c/ 2 cartuchos 50ml + 6 ponteiras automisturadoras azuis Scan Automix.",
-    "price": "R$ 399,90",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-2-yprov-bisacryl-a2-b1-2-cartuchos-6-ponteiras-yller",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-2-yprov-bisacryl-a2-b1-yle12254b-new.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 32,
-    "title": "Kit Resina Spectra Basic 7 Seringas + Display de Acrílico",
-    "brand": "DENTSPLY SIRONA",
-    "details": "Kit c/ 7 seringas de 4g. (Cores: A1, A2, A3, A3,5, A4, B1 e C2) + 1 Exclusivo Display de Acrílico grátis.",
-    "price": "R$ 203,36",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-spectra-basic-7-seringas-display-de-acrilico-dentsply-sirona",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-spectra-basic-dentsply-11529.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 33,
-    "title": "Kit Resina Spectra Smart",
-    "brand": "DENTSPLY SIRONA",
-    "details": "Kit c/ 5 seringas de 4g (A2,A3,A2O,A3O e YE) + 1 Exclusivo Porta Resina em acrílico grátis.",
-    "price": "R$ 257,04",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-spectra-smart-dentsply-sirona",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-spectra-smart-dentsply-11530.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 34,
-    "title": "Resina Bulk Fill SDR Plus Refil",
-    "brand": "DENTSPLY SIRONA",
-    "details": "Embalagem c/ 2 seringas de 1g cada e 15 pontas aplicadoras.",
-    "price": "R$ 156,31",
-    "href": "https://www.dentalspeed.com/familia/resina-bulk-fill-sdr-plus-refil-dentsply-sirona",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-bulk-fill-sdr-plus-refil-universal-den17926a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 35,
-    "title": "Resina NT Premium",
-    "brand": "COLTENE",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 34,77",
-    "href": "https://www.dentalspeed.com/familia/nt-premium-coltene",
-    "img": "https://cdn.dentalspeed.com/produtos/150/nt-premium-esmalte-6588-18-001.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 36,
-    "title": "Resina Opallis Odontopediatria",
-    "brand": "FGM",
-    "details": "Embalagem c/ 1 seringa de 2g.",
-    "price": "R$ 30,53",
-    "href": "https://www.dentalspeed.com/familia/opallis-odontopediatria-fgm",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-opallis-odontopediatria-a05-3350.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 37,
-    "title": "Resina Sigma Flow",
-    "brand": "DFL",
-    "details": "Embalagem com 1 seringa de 2,4g.",
-    "price": "R$ 34,00",
-    "href": "https://www.dentalspeed.com/familia/resina-sigma-flow-nova-dfl",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-sigma-flow-a1-ndf18285a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 38,
-    "title": "Resina Sirius Z",
-    "brand": "DFL",
-    "details": "Embalagem com 1 seringa de 4g.",
-    "price": "R$ 36,54",
-    "href": "https://www.dentalspeed.com/familia/resina-sirius-z-nova-dfl",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-sirius-z-ea1-ndf18286c.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 39,
-    "title": "Resina Spectra Basic",
-    "brand": "DENTSPLY SIRONA",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 32,29",
-    "href": "https://www.dentalspeed.com/familia/resina-spectra-basic-dentsply",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-spectra-basic-4g-dentsply-11560-01.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 40,
-    "title": "Resina Spectra Smart",
-    "brand": "DENTSPLY SIRONA",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 42,85",
-    "href": "https://www.dentalspeed.com/familia/resina-spectra-smart-dentsply",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-spectra-smart-a1-4g-dentsply-11559.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 41,
-    "title": "Resina Yflow",
-    "brand": "YLLER",
-    "details": "Embalagem c/ 1 seringa de 2,5g, 5 pontas aplicadoras + instruções de uso.",
-    "price": "R$ 21,90",
-    "href": "https://www.dentalspeed.com/familia/resina-yflow-yller",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-yflow-a3new.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 42,
-    "title": "Resina Yprov Bisacryl",
-    "brand": "YLLER",
-    "details": "Embalagem c/ 1 cartucho 50ml e 6 ponteiras automisturadoras amarelas Scan Automix.",
-    "price": "R$ 299,00",
-    "href": "https://www.dentalspeed.com/familia/resina-yprov-bisacryl-yller",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-yprov-bisacryl-yle12051a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 43,
-    "title": "Resina Z100",
-    "brand": "3M",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 45,00",
-    "href": "https://www.dentalspeed.com/familia/z100-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/produto-z100-4g-3m-espe-1.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 44,
-    "title": "Resina Filtek Z250 XT",
-    "brand": "3M",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 95,00",
-    "href": "https://www.dentalspeed.com/familia/filtek-z250-xt-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/produto-filtek-z250-xt-a1-3m-espe-2.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 45,
-    "title": "Resina Filtek Bulk Fill Flow",
-    "brand": "3M",
-    "details": "Embalagem c/ 1 seringa de 2g, e 10 pontas aplicadoras.",
-    "price": "R$ 180,00",
-    "href": "https://www.dentalspeed.com/familia/filtek-bulk-fill-flow-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-bulk-fill-flow-u-9305.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 46,
-    "title": "Resina Filtek Z350 XT",
-    "brand": "3M",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 230,00",
-    "href": "https://www.dentalspeed.com/familia/resina-filtek-z350-xt-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/filtek-z350-xt-4372-2.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 47,
-    "title": "Resina Filtek One Bulk Fill",
-    "brand": "3M",
-    "details": "Embalagem c/ 1 seringa 4g.",
-    "price": "R$ 230,00",
-    "href": "https://www.dentalspeed.com/familia/resina-filtek-one-bulk-fill-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-one-bulk-fill-a1-3m-13856a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 48,
-    "title": "Resina Bite",
-    "brand": "MAQUIRA",
-    "details": "Embalagem com 1 seringa de 4g.",
-    "price": "R$ 42,41",
-    "href": "https://www.dentalspeed.com/familia/resina-bite-maquira",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-bite-transparente-18880.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 49,
-    "title": "Resina Filtek Z350 XT Flow",
-    "brand": "3M",
-    "details": "Embalagem c/ 1 seringa de 2g.",
-    "price": "R$ 210,00",
-    "href": "https://www.dentalspeed.com/familia/filtek-z350-xt-flow-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/filtek-z350-xt-flow-3m-espe.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 50,
-    "title": "Resina Filtek One Bulk Fill - Cápsula",
-    "brand": "3M",
-    "details": "Embalagem c/ 20 Cápsulas de 0,2g.",
-    "price": "R$ 230,00",
-    "href": "https://www.dentalspeed.com/familia/resina-filtek-one-bulk-fill-capsula-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-one-bulk-fill-capsula-a2-3m-13857.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 51,
-    "title": "Resina Filtek Universal Cápsula",
-    "brand": "3M",
-    "details": "Embalagem c/ 10 cápsulas de Filtek™ Universal cor PO (Pink Opaquer).",
-    "price": "R$ 230,00",
-    "href": "https://www.dentalspeed.com/familia/resina-filtek-universal-capsula-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-universal-capsula-po-mmm18089j.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 52,
-    "title": "Resina Filtek Universal Seringa 4g",
-    "brand": "3M",
-    "details": "Embalagem c/ Filtek™ Universal 4g cor PO (Pink Opaquer).",
-    "price": "R$ 230,00",
-    "href": "https://www.dentalspeed.com/familia/resina-filtek-universal-seringa-4g-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-universal-seringa-po-mmm18090j-1.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 53,
-    "title": "Resina Yflow SA",
-    "brand": "YLLER",
-    "details": "Embalagem c/ 1 seringa de 2,5g, 5 pontas aplicadoras + instruções de uso.",
-    "price": "R$ 40,90",
-    "href": "https://www.dentalspeed.com/familia/resina-yflow-sa-yller",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-yflow-sa-yller-13772.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 54,
-    "title": "Kit Resina Forma 5 Seringas",
-    "brand": "ULTRADENT",
-    "details": "Kit c/ 5 seringas de 4g cada. A1B, 2 A2B, 1 A3B e 1 A3,5B.",
-    "price": "R$ 369,00",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-forma-5-seringas-ultradent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-forma-5-seringas-ultradent-13942-1.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 55,
-    "title": "Resina Applic",
-    "brand": "MAQUIRA",
-    "details": "Embalagem c/ 01 seringa de 4g.",
-    "price": "R$ 24,90",
-    "href": "https://www.dentalspeed.com/familia/resina-applic-maquira",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-applic-incisal-maquira-13985.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 56,
-    "title": "Resina Zirconfill",
-    "brand": "MAQUIRA",
-    "details": "Embalagem c/ Seringa de 4g.",
-    "price": "R$ 53,00",
-    "href": "https://www.dentalspeed.com/familia/resina-zirconfill-maquira",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-zirconfill-ea2-18170.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 57,
-    "title": "Kit Resina Luna + Adesivo Stae",
-    "brand": "SDI",
-    "details": "Embalagem c/ 3 seringas de luna c/ 4g e 1 adesivo stae c/ 5ml - A2, A3 e A3,5",
-    "price": "R$ 168,69",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-luna-adesivo-stae-sdi",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-lunaadesivo-stae-sdi18223a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 58,
-    "title": "Kit Resina Llis 5 Cores + Ambar 4ml",
-    "brand": "FGM",
-    "details": "Kit c/ 5 Llis de 4g cada e 1 Ambar 4ml. Resinas nas cores EA2/EA3/EA3,5/EB2 e DA3.",
-    "price": "R$ 173,52",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-llis-5-cores-ambar-4ml-fgm",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resinas-llis-5-cores-ambar-4ml-3343-3.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 59,
-    "title": "Resina Ortodôntica Ortho Bite",
-    "brand": "FGM",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 69,08",
-    "href": "https://www.dentalspeed.com/familia/resina-ortodontica-ortho-bite-fgm",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ortodontica-ortho-bite-uv-trace-fgm-10532.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 60,
-    "title": "Resina Primma Art 75g",
-    "brand": "FGM",
-    "details": "Embalagem c/ 1 cartucho de 75g de resina + 10 ponteiras de automistura.",
-    "price": "R$ 381,10",
-    "href": "https://www.dentalspeed.com/familia/resina-primma-art-75g-fgm",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-primma-art-75g-a1-fgm17779a-4.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 61,
-    "title": "Resina Primma Art 7g",
-    "brand": "FGM",
-    "details": "Embalagem c/ 1 seringa de corpo duplo com 7g (5ml) + 5 ponteiras de automistura.",
-    "price": "R$ 97,64",
-    "href": "https://www.dentalspeed.com/familia/resina-primma-art-7g-fgm",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-primma-art-75g-a1-fgm17779a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 62,
-    "title": "Resina Vittra APS 2g",
-    "brand": "FGM",
-    "details": "Embalagem c/ 1 Seringa de 2g.",
-    "price": "R$ 37,11",
-    "href": "https://www.dentalspeed.com/familia/resina-vittra-aps-2g-fgm",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vittra-aps-trans-op-refil-2g-fgm-12263-01.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 63,
-    "title": "Resina Palfique LX5",
-    "brand": "TOKUYAMA DENTAL",
-    "details": "Embalagem c/ 1 seringa 3,8g + Manual de Instruções.",
-    "price": "R$ 262,26",
-    "href": "https://www.dentalspeed.com/familia/resina-palfique-lx5-tokuyama-dental",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-palfique-lx5-tokuyama-dental-13748-01.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 64,
-    "title": "Resina Estelite Omega",
-    "brand": "TOKUYAMA DENTAL",
-    "details": "Embalagem c/ 1 seringa 4g + Manual de Instruções.",
-    "price": "R$ 399,00",
-    "href": "https://www.dentalspeed.com/familia/resina-estelite-omega-tokuyama-dental",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-estelite-omega-tokuyama-dental-13745.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 65,
-    "title": "Resina Estelite Posterior",
-    "brand": "TOKUYAMA DENTAL",
-    "details": "Embalagem c/ 1 seringa 4g + Manual de Instruções.",
-    "price": "R$ 328,90",
-    "href": "https://www.dentalspeed.com/familia/resina-estelite-posterior-tokuyama-dental",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-estelite-posterior-tokuyama-dental-13747.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 66,
-    "title": "Resina Natural Z",
-    "brand": "DFL",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 42,00",
-    "href": "https://www.dentalspeed.com/familia/resina-natural-z-nova-dfl",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-natural-z-esmalte-a2-nova-dfl-11607.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 67,
-    "title": "Resina Herculite Classic",
-    "brand": "KERR",
-    "details": "Embalagem c/ 1 seringa de 5g.",
-    "price": "R$ 55,00",
-    "href": "https://www.dentalspeed.com/familia/herculite-classic-kerr",
-    "img": "https://cdn.dentalspeed.com/produtos/150/produto-herculite-classic-dentina-a1-kerr-02.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 68,
-    "title": "Resina Point 4",
-    "brand": "KERR",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 41,00",
-    "href": "https://www.dentalspeed.com/familia/point-4-kerr",
-    "img": "https://cdn.dentalspeed.com/produtos/150/point-4-kerr.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 69,
-    "title": "Resina Herculite Précis",
-    "brand": "KERR",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 85,00",
-    "href": "https://www.dentalspeed.com/familia/resina-herculite-precis-kerr",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-herculite-precis-kerr-12193-1.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 70,
-    "title": "Resina EcuSphere Shape",
-    "brand": "DMG",
-    "details": "Embalagem c/ 1 seringa c/ 4,5g de resina p/ dentes anteriores e posteriores.",
-    "price": "R$ 48,90",
-    "href": "https://www.dentalspeed.com/familia/resina-ecusphere-shape-dmg",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ecusphere-shape-dmg-13907.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 71,
-    "title": "Resina Forma",
-    "brand": "ULTRADENT",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 87,00",
-    "href": "https://www.dentalspeed.com/familia/resina-forma-ultradent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-forma-refill-ultradent-12189.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 72,
-    "title": "Resina LuxaCrown",
-    "brand": "DMG",
-    "details": "Embalagem c/ 1 cartucho de 50ml c/ 15 pontas misturadoras.",
-    "price": "R$ 724,90",
-    "href": "https://www.dentalspeed.com/familia/resina-luxacrown-dmg",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-luxacrown-d2-dmg-13911.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 73,
+    "id": 28,
     "title": "Resina Applic Flow",
     "brand": "MAQUIRA",
     "details": "Embalagem c/ 1 seringa de 2g e 5 ponteiras.",
@@ -1322,701 +512,305 @@
     "href": "https://www.dentalspeed.com/familia/resina-applic-flow-maquira",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-applic-flow-maquira-10615.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 74,
-    "title": "Resina Empress Direct",
-    "brand": "IVOCLAR VIVADENT",
-    "details": "Embalagem c/ 1 seringa de 3g.",
-    "price": "R$ 279,90",
-    "href": "https://www.dentalspeed.com/familia/resina-empress-direct-ivoclar-vivadent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/produto-empress-direct-a2-3g-dentina-ivoclar-vivadent.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 75,
-    "title": "Resina Master Flow",
-    "brand": "BIODINÂMICA",
-    "details": "Embalagem c/ 1 seringa de 2g.",
-    "price": "R$ 20,54",
-    "href": "https://www.dentalspeed.com/familia/master-flow-biodinamica",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-master-flow-a35-bio3614c.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 76,
-    "title": "Resina IPS Empress Direct Effect",
-    "brand": "IVOCLAR VIVADENT",
-    "details": "Embalagem c/ 1 seringa de 1,8g.",
-    "price": "R$ 189,90",
-    "href": "https://www.dentalspeed.com/familia/resina-ips-empress-direct-effect-ivoclar-vivadent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ips-empress-direct-effect-opal.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 77,
-    "title": "Resina Ultrafill",
-    "brand": "BIODINÂMICA",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 14,66",
-    "href": "https://www.dentalspeed.com/familia/resina-ultrafill-biodinamica",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ultrafill-biodinamica-11829-2.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 78,
-    "title": "Kit Resina Alta GrandioSO Heavy Flow",
-    "brand": "VOCO",
-    "details": "Kit c/ 5 seringas de 2g nas (A2, A3, A3.5, GA5 e WO), escala de cores e acessórios.",
-    "price": "R$ 551,00",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-alta-grandioso-heavy-flow-voco",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-grandioso-heavy-flow-voco-10318.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 79,
-    "title": "Kit Resina Estelite Omega 11 Seringas",
-    "brand": "TOKUYAMA DENTAL",
-    "details": "Kit c/ 11 seringas de 4g nas cores: Dentina DA1; DA2; DA3; Esmalte EA1; EA2; EA3; EB1; Efeitos TRANS; MW; Bleach BL1; BL2. Incluso material de apoio, com um DVD e CD com casos e guias clínicos desenvolvidos pelo Dr. Newton Fahl Jr., Escala de Cores customizável e estratificável e pincel artístico.",
-    "price": "R$ 5.058,34",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-estelite-omega-11-seringas-tokuyama-dental",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-estelite-omega-deluxe-tokuyama-dental-13744.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 80,
-    "title": "Kit Resina Rebilda DC Intro Set",
-    "brand": "VOCO",
-    "details": "Kit c/ 1 cartucho de 50g de dentina, 1 dispensador tipo 3, 1 cj. Futurabond DC 2 x 4ml (Líquido 1 e 2), 10 pontas tipo 11, 10 pontas tipo 03, 2 paletes de mistura, 50 micro Tim, 1 cabo p/ pincel, 3 unidades de Endo Tim, 3 Pontas tipo 19, 3 unidades de Rebilda Form Small, 3 unidades de Rebilda Form Medium e 3 unidades de Rebilda Form Large.",
-    "price": "R$ 1.218,36",
-    "href": "https://www.dentalspeed.com/familia/kit-resina-rebilda-dc-intro-set-voco",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-rebilda-dc-intro-set-voco-10263.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 81,
-    "title": "Resina Endo Dam",
-    "brand": "ANGELUS",
-    "details": "Embalagem c/ 1 seringa de 2g.",
-    "price": "R$ 35,00",
-    "href": "https://www.dentalspeed.com/familia/resina-endo-dam-angelus",
-    "img": "https://cdn.dentalspeed.com/produtos/150/endo-dam-angelus-10710.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 82,
-    "title": "Resina Rebilda DC Cartucho 50g",
-    "brand": "VOCO",
-    "details": "Embalagem c/ 1 cartucho de 50g .",
-    "price": "R$ 745,46",
-    "href": "https://www.dentalspeed.com/familia/resina-rebilda-dc-cartucho-50g-voco",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-rebilda-dc-50g-voco-10264-01.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 83,
-    "title": "Resina Rebilda DC Seringa 10g",
-    "brand": "VOCO",
-    "details": "Embalagem c/ 1 seringa de 10g.",
-    "price": "R$ 339,50",
-    "href": "https://www.dentalspeed.com/familia/resina-rebilda-dc-seringa-10g-voco",
-    "img": "https://cdn.dentalspeed.com/produtos/150/produto-rebilda-dc-voco.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 84,
-    "title": "Resina Resilab Dentina",
-    "brand": "WILCOS",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 57,82",
-    "href": "https://www.dentalspeed.com/familia/resina-resilab-dentina-wilcos",
-    "img": "https://cdn.dentalspeed.com/produtos/150/produto-resilab-dentina-a1-4g-wilcos.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 85,
-    "title": "Resina X-Tra Fil Caps",
-    "brand": "VOCO",
-    "details": "Embalagem c/ 20 unidades de cápsulas de 0,25g cada (total de 5g).",
-    "price": "R$ 193,58",
-    "href": "https://www.dentalspeed.com/familia/resina-x-tra-fil-caps-voco",
-    "img": "https://cdn.dentalspeed.com/produtos/150/produto-x-tra-fil-caps-20x025g-voco.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 86,
-    "title": "Resina Constic",
-    "brand": "DMG",
-    "details": "Embalagem c/ 2 Seringas c/ 2g + 20 Escovas + 1 Porta-Escova + 20 Pontas.",
-    "price": "R$ 518,00",
-    "href": "https://www.dentalspeed.com/familia/resina-constic-dmg",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-constic-dmg-12013.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 87,
-    "title": "Resina Empress Direct Color",
-    "brand": "IVOCLAR VIVADENT",
-    "details": "Embalagem c/ 1 seringa de 1g.",
-    "price": "R$ 124,90",
-    "href": "https://www.dentalspeed.com/familia/resina-empress-direct-color-ivoclar-vivadent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-empress-direct-coloropaque-assortment-ivoclar-vivadent-12214.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 88,
-    "title": "Resina Tetric N-Ceram",
-    "brand": "IVOCLAR VIVADENT",
-    "details": "Embalagem c/ 1 seringa de 3,5g.",
-    "price": "R$ 114,90",
-    "href": "https://www.dentalspeed.com/familia/tetric-n-ceram-ivoclar-vivadent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/tetric-n-ceram-ivoclar-vivadent.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 89,
-    "title": "Resina Luna",
-    "brand": "SDI",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 51,50",
-    "href": "https://www.dentalspeed.com/familia/luna-sdi",
-    "img": "https://cdn.dentalspeed.com/produtos/150/luna-sdi.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 90,
-    "title": "Resina Tetric N-Flow",
-    "brand": "IVOCLAR VIVADENT",
-    "details": "Embalagem c/ 1 seringa de 2g.",
-    "price": "R$ 79,90",
-    "href": "https://www.dentalspeed.com/familia/tetric-n-flow-ivoclar-vivadent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/tetric-n-flow-ivoclar-vivadent.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 91,
-    "title": "Resina Opak",
-    "brand": "ANGELUS",
-    "details": "Embalagem c/ 1 seringa de 1,5g.",
-    "price": "R$ 115,00",
-    "href": "https://www.dentalspeed.com/familia/opak-angelus",
-    "img": "https://cdn.dentalspeed.com/produtos/150/opak-angelus.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 92,
-    "title": "Resina Wave",
-    "brand": "SDI",
-    "details": "Embalagem c/ 1 seringa de 1g e 5 pontas aplicadoras.",
-    "price": "R$ 41,70",
-    "href": "https://www.dentalspeed.com/familia/wave-sdi",
-    "img": "https://cdn.dentalspeed.com/produtos/150/wave-sdi.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 93,
-    "title": "Resina GrandioSO",
-    "brand": "VOCO",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 263,17",
-    "href": "https://www.dentalspeed.com/familia/grandioso-voco",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-grandioso-a325-7181.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 94,
-    "title": "Resina GrandioSO Heavy Flow",
-    "brand": "VOCO",
-    "details": "Embalagem c/ 2 seringas de 2g cada.",
-    "price": "R$ 263,17",
-    "href": "https://www.dentalspeed.com/familia/resina-grandioso-heavy-flow-voco",
-    "img": "https://cdn.dentalspeed.com/produtos/150/grandioso-heavy-flow-7181.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 95,
-    "title": "Resina X-Tra Base",
-    "brand": "VOCO",
-    "details": "Embalagem c/ 2 seringas de 2g cada.",
-    "price": "R$ 272,93",
-    "href": "https://www.dentalspeed.com/familia/resina-x-tra-base-voco",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-x-tra-base-bulk-fill-a2-voco-9983.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 96,
-    "title": "Resina Aura",
-    "brand": "SDI",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 120,40",
-    "href": "https://www.dentalspeed.com/familia/aura-sdi",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-aura-bulk-fill-9327.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 97,
-    "title": "Resina Empress Direct Opaque",
-    "brand": "IVOCLAR VIVADENT",
-    "details": "Embalagem c/ 1 seringa de 1,8g.",
-    "price": "R$ 199,90",
-    "href": "https://www.dentalspeed.com/familia/resina-empress-direct-opaque-ivoclar-vivadent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-empress-direct-opaque-ivoclar-vivadent-10395.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 98,
-    "title": "Resina Tetric N-Ceram Bulk Fill",
-    "brand": "IVOCLAR VIVADENT",
-    "details": "Embalagem c/ 1 seringa de 3,5g.",
-    "price": "R$ 114,90",
-    "href": "https://www.dentalspeed.com/familia/resina-tetric-n-ceram-bulk-fill-ivoclar-vivadent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-tetric-n-ceram-bulk-fill-ivw-ivoclar-vivadent-10477.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 99,
-    "title": "Resina Bisacrílica Tempsmart",
-    "brand": "GC",
-    "details": "Embalagem c/ 1 cartucho com 48ml + 16 pontas misturadoras.",
-    "price": "R$ 665,00",
-    "href": "https://www.dentalspeed.com/familia/resina-bisacrilica-tempsmart-gc",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-bisacrilica-tempsmart-a1-gc-12753.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 100,
-    "title": "Resina Bisacrílica Visalys Temp",
-    "brand": "ULTRADENT",
-    "details": "Embalagem c/ 1 Resina Visalys Temp A1 Normal Pack 1x50ml e 15 pontas misturadoras.",
-    "price": "R$ 495,00",
-    "href": "https://www.dentalspeed.com/familia/resina-bisacrilica-visalys-temp-ultradent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-bisacrilica-visalys-temp-ult-17282-a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 101,
-    "title": "Resina Ecosite Bulk Fill",
-    "brand": "DMG",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 219,00",
-    "href": "https://www.dentalspeed.com/familia/resina-ecosite-bulk-fill-dmg",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ecosite-bulk-fill-dmg-18329.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 102,
-    "title": "Resina EcuSphere Flow",
-    "brand": "DMG",
-    "details": "Embalagem c/ 2 seringas c/ 1,5g cada de resina fluída.",
-    "price": "R$ 82,90",
-    "href": "https://www.dentalspeed.com/familia/resina-ecusphere-dmg",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ecusphere-flow-a35-dmg13906d.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 103,
-    "title": "Resina em Pasta Resinlay Pattern Photo",
-    "brand": "TDV",
-    "details": "Embalagem com 1 Resinlay Pattern Photo - Seringa 3g de pasta + 3 ponteiras.",
-    "price": "R$ 77,44",
-    "href": "https://www.dentalspeed.com/familia/resina-em-pasta-resinlay-pattern-photo-tdv",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-em-pasta-resinlay-pattern-photo-3g-tdv18939a.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 104,
-    "title": "Resina Harmonize",
-    "brand": "KERR",
-    "details": "Embalagem c/ 1 seringa de 4g.",
-    "price": "R$ 165,00",
-    "href": "https://www.dentalspeed.com/familia/resina-harmonize-kerr",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-harmonize-esmalte-kerr-15125.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 105,
-    "title": "Resina Orion",
-    "brand": "DFL",
+    "id": 29,
+    "title": "Resina Bite",
+    "brand": "MAQUIRA",
     "details": "Embalagem com 1 seringa de 4g.",
-    "price": "R$ 20,00",
-    "href": "https://www.dentalspeed.com/familia/resina-orion-nova-dfl",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-orion-da3-ndf18284c.png",
+    "price": "R$ 42,41",
+    "href": "https://www.dentalspeed.com/familia/resina-bite-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-bite-transparente-18880.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 106,
-    "title": "Resina Palfique LX5 - Mini",
-    "brand": "TOKUYAMA DENTAL",
-    "details": "Embalagem c/ 1 seringa 1g + Manual de Instruções.",
-    "price": "R$ 63,81",
-    "href": "https://www.dentalspeed.com/familia/resina-palfique-mini-lx5-tokuyama-dental",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-palfique-mini-lx5-a2-tokuyama-dental.png",
+    "id": 30,
+    "title": "Resina Charisma Classic",
+    "brand": "KULZER",
+    "details": "Embalagem c/ 4g.",
+    "price": "R$ 59,90",
+    "href": "https://www.dentalspeed.com/familia/resina-charisma-classic-heraeus-kulzer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-charisma-classic-a1-4g-heraeus-kulzer-10938-2.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 107,
-    "title": "Resina Resinlay Pattern Photo",
-    "brand": "TDV",
-    "details": "Embalagem c/ 1 unidade de 3g de gel.",
-    "price": "R$ 72,77",
-    "href": "https://www.dentalspeed.com/familia/resina-resinlay-pattern-photo-tdv",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-resinlay-pattern-photo-tdv-13866.png",
+    "id": 31,
+    "title": "Resina Charisma Diamond",
+    "brand": "KULZER",
+    "details": "Embalagem c/ 1 seringa de 4g",
+    "price": "R$ 115,00",
+    "href": "https://www.dentalspeed.com/familia/charisma-diamond-heraeus-kulzer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/charisma-diamond-heraeus-kulzer.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 108,
-    "title": "Resina Tetric N-Flow Bulk Fill",
-    "brand": "IVOCLAR VIVADENT",
-    "details": "Embalagem c/ 1 seringa de 2g.",
-    "price": "R$ 79,90",
-    "href": "https://www.dentalspeed.com/familia/resina-tetric-n-flow-bulk-fill-ivoclar-vivadent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-tetric-n-flow-bulk-fill-iva-ivoclar-vivadent-13227.png",
+    "id": 32,
+    "title": "Resina Durafill",
+    "brand": "KULZER",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 49,90",
+    "href": "https://www.dentalspeed.com/familia/durafill-heraeus-kulzer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/durafill-esmalte-b2-4g-heraeus-kulzer.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 109,
-    "title": "Resina Vega Ortho UV",
-    "brand": "DFL",
-    "details": "Embalagem com 1 seringa com Vega Ortho UV de 4g, Alpha Etch 3g e pontas aplicadoras.",
-    "price": "R$ 59,40",
-    "href": "https://www.dentalspeed.com/familia/resina-vega-ortho-uv-nova-dfl",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vega-ortho-uv-18287.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 110,
-    "title": "Resina Vit-L-Escence",
-    "brand": "ULTRADENT",
-    "details": "Embalagem c/ 1 Seringa de 2,5g.",
-    "price": "R$ 183,75",
-    "href": "https://www.dentalspeed.com/familia/resina-vit-l-escence-ultradent",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vit-l-escence-ultradent.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 111,
-    "title": "Resina Vittra APS Unique",
+    "id": 33,
+    "title": "Resina Ortodôntica Ortho Bite",
     "brand": "FGM",
-    "details": "Embalagem com 1 seringa de resina Vittra APS Unique 4g.",
-    "price": "R$ 112,79",
-    "href": "https://www.dentalspeed.com/familia/resina-vittra-aps-unique-fgm",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vittra-aps-unique-4g-fgm19787a-1.png",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 75,99",
+    "href": "https://www.dentalspeed.com/familia/resina-ortodontica-ortho-bite-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ortodontica-ortho-bite-uv-trace-fgm-10532.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 112,
+    "id": 34,
+    "title": "Resina Vittra APS 2g",
+    "brand": "FGM",
+    "details": "Embalagem c/ 1 Seringa de 2g.",
+    "price": "R$ 40,82",
+    "href": "https://www.dentalspeed.com/familia/resina-vittra-aps-2g-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vittra-aps-trans-op-refil-2g-fgm-12263-01.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 35,
+    "title": "Kit Resina Spectra Basic 7 Seringas + Display de Acrílico",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Kit c/ 7 seringas de 4g. (Cores: A1, A2, A3, A3,5, A4, B1 e C2) + 1 Exclusivo Display de Acrílico grátis.",
+    "price": "R$ 203,36",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-spectra-basic-7-seringas-display-de-acrilico-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-spectra-basic-dentsply-11529.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 36,
+    "title": "Resina Filtek Bulk Fill Flow",
+    "brand": "3M",
+    "details": "Embalagem c/ 1 seringa de 2g, e 10 pontas aplicadoras.",
+    "price": "R$ 180,00",
+    "href": "https://www.dentalspeed.com/familia/filtek-bulk-fill-flow-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-bulk-fill-flow-u-9305.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 37,
+    "title": "Resina Filtek One Bulk Fill",
+    "brand": "3M",
+    "details": "Embalagem c/ 1 seringa 4g.",
+    "price": "R$ 230,00",
+    "href": "https://www.dentalspeed.com/familia/resina-filtek-one-bulk-fill-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-one-bulk-fill-a1-3m-13856a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 38,
+    "title": "Resina Filtek One Bulk Fill - Cápsula",
+    "brand": "3M",
+    "details": "Embalagem c/ 20 Cápsulas de 0,2g.",
+    "price": "R$ 230,00",
+    "href": "https://www.dentalspeed.com/familia/resina-filtek-one-bulk-fill-capsula-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-one-bulk-fill-capsula-a2-3m-13857.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 39,
+    "title": "Resina Filtek Universal Cápsula",
+    "brand": "3M",
+    "details": "Embalagem c/ 10 cápsulas de Filtek™ Universal cor PO (Pink Opaquer).",
+    "price": "R$ 230,00",
+    "href": "https://www.dentalspeed.com/familia/resina-filtek-universal-capsula-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-universal-capsula-po-mmm18089j.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 40,
+    "title": "Resina Filtek Universal Seringa 4g",
+    "brand": "3M",
+    "details": "Embalagem c/ Filtek™ Universal 4g cor PO (Pink Opaquer).",
+    "price": "R$ 230,00",
+    "href": "https://www.dentalspeed.com/familia/resina-filtek-universal-seringa-4g-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-universal-seringa-po-mmm18090j-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 41,
+    "title": "Resina Filtek Z250 XT",
+    "brand": "3M",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 95,00",
+    "href": "https://www.dentalspeed.com/familia/filtek-z250-xt-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-filtek-z250-xt-a1-3m-espe-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 42,
+    "title": "Resina Filtek Z350 XT",
+    "brand": "3M",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 230,00",
+    "href": "https://www.dentalspeed.com/familia/resina-filtek-z350-xt-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/filtek-z350-xt-4372-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 43,
+    "title": "Resina Filtek Z350 XT Flow",
+    "brand": "3M",
+    "details": "Embalagem c/ 1 seringa de 2g.",
+    "price": "R$ 210,00",
+    "href": "https://www.dentalspeed.com/familia/filtek-z350-xt-flow-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/filtek-z350-xt-flow-3m-espe.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 44,
+    "title": "Resina Z100",
+    "brand": "3M",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 45,00",
+    "href": "https://www.dentalspeed.com/familia/z100-3m",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-z100-4g-3m-espe-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 45,
     "title": "Venc. 01/05/2021 - Kit Resina Vittra Aps Vm + Whiteness Perfect 16%*",
     "brand": "FGM",
     "details": "Kit c/ 1 seringa de 2g + 1 seringa de Whiteness Perfect 16%.\r\n\r\n\r\n",
@@ -2024,17 +818,17 @@
     "href": "https://www.dentalspeed.com/familia/venc-01052021-kit-resina-vittra-aps-vm-whiteness-perfect-16-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-vittra-aps-whiteness-perfect-16-fgm-15266.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 113,
+    "id": 46,
     "title": "Venc. 04/02/2021 - Kit Resina Dia a Dia Clínico - Dr. Thiago Ottoboni*",
     "brand": "TOKUYAMA DENTAL",
     "details": "Embalagem c/ 1 Palfique A1, 1 Palfique A2, 1 Palfique OPA2, 1 pincel Tokuyama, 1 Potenza Attaco 35%, 1 Specchi Diamente e 1 Potenza Idrata.",
@@ -2042,17 +836,17 @@
     "href": "https://www.dentalspeed.com/familia/venc-04022021-kit-resina-dia-a-dia-clinico-dr-thiago-ottoboni-tokuyama-dental",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-dia-a-dia-clinico-dr-thiago-ottoboni-tokuyama-dental-18105.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 114,
+    "id": 47,
     "title": "Venc. 07/03/2021 - Resina Constic A3,5*",
     "brand": "DMG",
     "details": "Embalagem c/ 2 Seringas c/ 2g + 20 Escovas + 1 Porta-Escova + 20 Pontas.",
@@ -2060,17 +854,17 @@
     "href": "https://www.dentalspeed.com/familia/venc-07032021-resina-constic-a35-dmg",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-constic-dmg-12013.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 115,
+    "id": 48,
     "title": "Venc. 10/05/2021 - Resina Sonicfill 2 - A3*",
     "brand": "KERR",
     "details": "Embalagem c/ 20 pontas unidose de 0,3 g cada.",
@@ -2078,17 +872,17 @@
     "href": "https://www.dentalspeed.com/familia/venc-10052021-resina-sonicfill-2-a3-kerr",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-sonicfill-2-008-01.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 116,
+    "id": 49,
     "title": "Venc. 12/03/2021 - Resina Sonicfill 2 - A1*",
     "brand": "KERR",
     "details": "Embalagem c/ 20 pontas unidose de 0,3 g cada.",
@@ -2096,17 +890,17 @@
     "href": "https://www.dentalspeed.com/familia/venc-12032021-resina-sonicfill-2-a1-kerr",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-sonicfill-2-008-01.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 117,
+    "id": 50,
     "title": "Venc. 16/04/2021 - Resina Empress Direct - EB3*",
     "brand": "IVOCLAR VIVADENT",
     "details": "Embalagem com 1 unidade.",
@@ -2114,17 +908,17 @@
     "href": "https://www.dentalspeed.com/familia/venc-16042021-resina-empress-direct-eb3-ivoclar-vivadent",
     "img": "https://cdn.dentalspeed.com/produtos/150/produto-empress-direct-a2-3g-dentina-ivoclar-vivadent.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 118,
+    "id": 51,
     "title": "Venc. 22/05/2021 - Resina Sonicfill 2 - A2*",
     "brand": "KERR",
     "details": "Embalagem c/ 20 pontas unidose de 0,3 g cada.",
@@ -2132,35 +926,17 @@
     "href": "https://www.dentalspeed.com/familia/venc-22052021-resina-sonicfill-2-a2-kerr",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-sonicfill-2-008-01.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 119,
-    "title": "Venc. 28/04/2021 - Filtek Z350 Xt Flow Cor A3*",
-    "brand": "3M",
-    "details": "Embalagem c/ 1seringa c/2g, cor A3, 20 pontas aplicadoras",
-    "price": "R$ 145,30",
-    "href": "https://www.dentalspeed.com/familia/venc-28042021-filtek-z350-xt-flow-cor-a3-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/produto-filtek-z350-xt-flow-a3-3m-espe.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 120,
+    "id": 52,
     "title": "Venc. 30/03/2021 - Resina Ecusphere Shape - A3,5*",
     "brand": "DMG",
     "details": "Embalagem c/ 1 seringa c/ 4,5g de resina p/ dentes anteriores e posteriores.",
@@ -2168,35 +944,17 @@
     "href": "https://www.dentalspeed.com/familia/venc-30032021-resina-ecusphere-shape-a35-dmg",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-ecusphere-shape-dmg-13907.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 121,
-    "title": "Venc. 30/03/2021 - Resina Filtek One Bulk Fill - Cápsula A2*",
-    "brand": "3M",
-    "details": "Embalagem c/ 20 Cápsulas de 0,2g na cor A2.",
-    "price": "R$ 179,47",
-    "href": "https://www.dentalspeed.com/familia/venc-30032021-resina-filtek-one-bulk-fill-capsula-a2-3m",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-one-bulk-fill-capsula-a2-3m-13857.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 122,
+    "id": 53,
     "title": "Venc. 30/04/2021 - Resina Luxacrown - C2*",
     "brand": "DMG",
     "details": "Embalagem c/ 1 cartucho de 50ml c/ 15 pontas misturadoras.",
@@ -2204,35 +962,17 @@
     "href": "https://www.dentalspeed.com/familia/venc-30042021-resina-luxacrown-c2-dmg",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-luxacrown-c2-dmg-13911.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 123,
-    "title": "Venc. 30/05/2021 - Resina Ecusphere Shape - B1*",
-    "brand": "DMG",
-    "details": "Embalagem c/ 1 seringa c/ 4,5g de resina p/ dentes anteriores e posteriores.",
-    "price": "R$ 19,90",
-    "href": "https://www.dentalspeed.com/familia/venc-30052021-resina-ecusphere-shape-b1-dmg",
-    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ecusphere-shape-dmg-13907.png",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 124,
+    "id": 54,
     "title": "Venc. 31/01/2021 - Resina Brilliant EverGlow - OA3*",
     "brand": "COLTENE",
     "details": "Embalagem c/ 1 seringa de 4g.\r\n",
@@ -2240,53 +980,1187 @@
     "href": "https://www.dentalspeed.com/familia/venc-31012021-resina-brilliant-everglow-oa3-coltene",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-brilliant-everglow-coltene-15452.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 125,
-    "title": "Venc. 31/05/2021 - Resina Bisacrílica Visalys Temp - A2*",
+    "id": 55,
+    "title": "Resina Fill Magic",
+    "brand": "COLTENE",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 21,71",
+    "href": "https://www.dentalspeed.com/familia/fill-magic-coltene",
+    "img": "https://cdn.dentalspeed.com/produtos/150/fill-magic-coltene-18.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 56,
+    "title": "Resina TPH Spectrum",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 25,90",
+    "href": "https://www.dentalspeed.com/familia/tph-spectrum-dentsply",
+    "img": "https://cdn.dentalspeed.com/produtos/150/tph-spectrum-dentsply.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 57,
+    "title": "Kit Resina 2 Yprov Bisacryl (A2 + B1) 2 Cartuchos + 6 Ponteiras",
+    "brand": "YLLER",
+    "details": "Kit c/ 2 cartuchos 50ml + 6 ponteiras automisturadoras azuis Scan Automix.",
+    "price": "R$ 399,90",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-2-yprov-bisacryl-a2-b1-2-cartuchos-6-ponteiras-yller",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-2-yprov-bisacryl-a2-b1-yle12254b-new.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 58,
+    "title": "Resina Bulk Fill SDR Plus Refil",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 2 seringas de 1g cada e 15 pontas aplicadoras.",
+    "price": "R$ 156,31",
+    "href": "https://www.dentalspeed.com/familia/resina-bulk-fill-sdr-plus-refil-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-bulk-fill-sdr-plus-refil-universal-den17926a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 59,
+    "title": "Resina NT Premium",
+    "brand": "COLTENE",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 34,77",
+    "href": "https://www.dentalspeed.com/familia/nt-premium-coltene",
+    "img": "https://cdn.dentalspeed.com/produtos/150/nt-premium-esmalte-6588-18-001.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 60,
+    "title": "Resina Opallis Odontopediatria",
+    "brand": "FGM",
+    "details": "Embalagem c/ 1 seringa de 2g.",
+    "price": "R$ 30,53",
+    "href": "https://www.dentalspeed.com/familia/opallis-odontopediatria-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-opallis-odontopediatria-a05-3350.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 61,
+    "title": "Resina Sigma Flow",
+    "brand": "DFL",
+    "details": "Embalagem com 1 seringa de 2,4g.",
+    "price": "R$ 34,00",
+    "href": "https://www.dentalspeed.com/familia/resina-sigma-flow-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-sigma-flow-a1-ndf18285a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 62,
+    "title": "Resina Sirius Z",
+    "brand": "DFL",
+    "details": "Embalagem com 1 seringa de 4g.",
+    "price": "R$ 36,54",
+    "href": "https://www.dentalspeed.com/familia/resina-sirius-z-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-sirius-z-ea1-ndf18286c.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 63,
+    "title": "Resina Spectra Basic",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 32,29",
+    "href": "https://www.dentalspeed.com/familia/resina-spectra-basic-dentsply",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-spectra-basic-4g-dentsply-11560-01.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 64,
+    "title": "Resina Spectra Smart",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 57,13",
+    "href": "https://www.dentalspeed.com/familia/resina-spectra-smart-dentsply",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-spectra-smart-a1-4g-dentsply-11559.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 65,
+    "title": "Resina Yflow",
+    "brand": "YLLER",
+    "details": "Embalagem c/ 1 seringa de 2,5g, 5 pontas aplicadoras + instruções de uso.",
+    "price": "R$ 21,90",
+    "href": "https://www.dentalspeed.com/familia/resina-yflow-yller",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-yflow-a3new.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 66,
+    "title": "Resina Yprov Bisacryl",
+    "brand": "YLLER",
+    "details": "Embalagem c/ 1 cartucho 50ml e 6 ponteiras automisturadoras amarelas Scan Automix.",
+    "price": "R$ 299,00",
+    "href": "https://www.dentalspeed.com/familia/resina-yprov-bisacryl-yller",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-yprov-bisacryl-yle12051a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 67,
+    "title": "Resina Yflow SA",
+    "brand": "YLLER",
+    "details": "Embalagem c/ 1 seringa de 2,5g, 5 pontas aplicadoras + instruções de uso.",
+    "price": "R$ 40,90",
+    "href": "https://www.dentalspeed.com/familia/resina-yflow-sa-yller",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-yflow-sa-yller-13772.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 68,
+    "title": "Kit Resina Forma 5 Seringas",
     "brand": "ULTRADENT",
-    "details": "Embalagem c/ 1 Resina Visalys Temp A2 Normal Pack 1x50ml e 15 pontas misturadoras.",
-    "price": "R$ 409,43",
-    "href": "https://www.dentalspeed.com/familia/venc-31052021-resina-bisacrilica-visalys-temp-a2-ultradent",
+    "details": "Kit c/ 5 seringas de 4g cada. A1B, 2 A2B, 1 A3B e 1 A3,5B.",
+    "price": "R$ 369,00",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-forma-5-seringas-ultradent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-forma-5-seringas-ultradent-13942-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 69,
+    "title": "Resina Applic",
+    "brand": "MAQUIRA",
+    "details": "Embalagem c/ 01 seringa de 4g.",
+    "price": "R$ 24,90",
+    "href": "https://www.dentalspeed.com/familia/resina-applic-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-applic-incisal-maquira-13985.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 70,
+    "title": "Resina Zirconfill",
+    "brand": "MAQUIRA",
+    "details": "Embalagem c/ Seringa de 4g.",
+    "price": "R$ 53,00",
+    "href": "https://www.dentalspeed.com/familia/resina-zirconfill-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-zirconfill-ea2-18170.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 71,
+    "title": "Kit Resina Opallis Clinical",
+    "brand": "FGM",
+    "details": "Embalagem c/ 8 seringas 4g (EA1, EA2, EA3, EB2, DA1, DA2, DA3, DB2) + 5 seringas 2g (D-Bleach, T-Blue, T-Neutral, E-Bleach H, Opaque Pearl) e 01 âmbar de 4 mL.",
+    "price": "R$ 569,87",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-opallis-clinical-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-opallis-kit-clinical-4081-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 72,
+    "title": "Kit Resina Llis 5 Cores + Ambar 4ml",
+    "brand": "FGM",
+    "details": "Kit c/ 5 Llis de 4g cada e 1 Ambar 4ml. Resinas nas cores EA2/EA3/EA3,5/EB2 e DA3.",
+    "price": "R$ 173,52",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-llis-5-cores-ambar-4ml-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resinas-llis-5-cores-ambar-4ml-3343-3.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 73,
+    "title": "Resina Primma Art 75g",
+    "brand": "FGM",
+    "details": "Embalagem c/ 1 cartucho de 75g de resina + 10 ponteiras de automistura.",
+    "price": "R$ 381,10",
+    "href": "https://www.dentalspeed.com/familia/resina-primma-art-75g-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-primma-art-75g-a1-fgm17779a-4.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 74,
+    "title": "Resina Primma Art 7g",
+    "brand": "FGM",
+    "details": "Embalagem c/ 1 seringa de corpo duplo com 7g (5ml) + 5 ponteiras de automistura.",
+    "price": "R$ 97,64",
+    "href": "https://www.dentalspeed.com/familia/resina-primma-art-7g-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-primma-art-75g-a1-fgm17779a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 75,
+    "title": "Resina Palfique LX5",
+    "brand": "TOKUYAMA DENTAL",
+    "details": "Embalagem c/ 1 seringa 3,8g + Manual de Instruções.",
+    "price": "R$ 262,26",
+    "href": "https://www.dentalspeed.com/familia/resina-palfique-lx5-tokuyama-dental",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-palfique-lx5-tokuyama-dental-13748-01.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 76,
+    "title": "Resina Estelite Omega",
+    "brand": "TOKUYAMA DENTAL",
+    "details": "Embalagem c/ 1 seringa 4g + Manual de Instruções.",
+    "price": "R$ 399,00",
+    "href": "https://www.dentalspeed.com/familia/resina-estelite-omega-tokuyama-dental",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-estelite-omega-tokuyama-dental-13745.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 77,
+    "title": "Resina Estelite Posterior",
+    "brand": "TOKUYAMA DENTAL",
+    "details": "Embalagem c/ 1 seringa 4g + Manual de Instruções.",
+    "price": "R$ 328,90",
+    "href": "https://www.dentalspeed.com/familia/resina-estelite-posterior-tokuyama-dental",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-estelite-posterior-tokuyama-dental-13747.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 78,
+    "title": "Resina Natural Z",
+    "brand": "DFL",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 42,00",
+    "href": "https://www.dentalspeed.com/familia/resina-natural-z-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-natural-z-esmalte-a2-nova-dfl-11607.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 79,
+    "title": "Resina Herculite Classic",
+    "brand": "KERR",
+    "details": "Embalagem c/ 1 seringa de 5g.",
+    "price": "R$ 55,00",
+    "href": "https://www.dentalspeed.com/familia/herculite-classic-kerr",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-herculite-classic-dentina-a1-kerr-02.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 80,
+    "title": "Resina Point 4",
+    "brand": "KERR",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 41,00",
+    "href": "https://www.dentalspeed.com/familia/point-4-kerr",
+    "img": "https://cdn.dentalspeed.com/produtos/150/point-4-kerr.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 81,
+    "title": "Resina Forma",
+    "brand": "ULTRADENT",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 95,00",
+    "href": "https://www.dentalspeed.com/familia/resina-forma-ultradent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-forma-refill-ultradent-12189.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 82,
+    "title": "Resina LuxaCrown",
+    "brand": "DMG",
+    "details": "Embalagem c/ 1 cartucho de 50ml c/ 15 pontas misturadoras.",
+    "price": "R$ 724,90",
+    "href": "https://www.dentalspeed.com/familia/resina-luxacrown-dmg",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-luxacrown-d2-dmg-13911.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 83,
+    "title": "Resina Empress Direct",
+    "brand": "IVOCLAR VIVADENT",
+    "details": "Embalagem c/ 1 seringa de 3g.",
+    "price": "R$ 279,90",
+    "href": "https://www.dentalspeed.com/familia/resina-empress-direct-ivoclar-vivadent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-empress-direct-a2-3g-dentina-ivoclar-vivadent.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 84,
+    "title": "Resina Master Flow",
+    "brand": "BIODINÂMICA",
+    "details": "Embalagem c/ 1 seringa de 2g.",
+    "price": "R$ 20,54",
+    "href": "https://www.dentalspeed.com/familia/master-flow-biodinamica",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-master-flow-a35-bio3614c.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 85,
+    "title": "Resina IPS Empress Direct Effect",
+    "brand": "IVOCLAR VIVADENT",
+    "details": "Embalagem c/ 1 seringa de 1,8g.",
+    "price": "R$ 189,90",
+    "href": "https://www.dentalspeed.com/familia/resina-ips-empress-direct-effect-ivoclar-vivadent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ips-empress-direct-effect-opal.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 86,
+    "title": "Resina Ultrafill",
+    "brand": "BIODINÂMICA",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 14,66",
+    "href": "https://www.dentalspeed.com/familia/resina-ultrafill-biodinamica",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ultrafill-biodinamica-11829-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 87,
+    "title": "Kit Resina Estelite Omega 11 Seringas",
+    "brand": "TOKUYAMA DENTAL",
+    "details": "Kit c/ 11 seringas de 4g nas cores: Dentina DA1; DA2; DA3; Esmalte EA1; EA2; EA3; EB1; Efeitos TRANS; MW; Bleach BL1; BL2. Incluso material de apoio, com um DVD e CD com casos e guias clínicos desenvolvidos pelo Dr. Newton Fahl Jr., Escala de Cores customizável e estratificável e pincel artístico.",
+    "price": "R$ 5.058,34",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-estelite-omega-11-seringas-tokuyama-dental",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-estelite-omega-deluxe-tokuyama-dental-13744.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 88,
+    "title": "Kit Resina Rebilda DC Intro Set",
+    "brand": "VOCO",
+    "details": "Kit c/ 1 cartucho de 50g de dentina, 1 dispensador tipo 3, 1 cj. Futurabond DC 2 x 4ml (Líquido 1 e 2), 10 pontas tipo 11, 10 pontas tipo 03, 2 paletes de mistura, 50 micro Tim, 1 cabo p/ pincel, 3 unidades de Endo Tim, 3 Pontas tipo 19, 3 unidades de Rebilda Form Small, 3 unidades de Rebilda Form Medium e 3 unidades de Rebilda Form Large.",
+    "price": "R$ 1.218,36",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-rebilda-dc-intro-set-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-rebilda-dc-intro-set-voco-10263.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 89,
+    "title": "Resina Endo Dam",
+    "brand": "ANGELUS",
+    "details": "Embalagem c/ 1 seringa de 2g.",
+    "price": "R$ 35,00",
+    "href": "https://www.dentalspeed.com/familia/resina-endo-dam-angelus",
+    "img": "https://cdn.dentalspeed.com/produtos/150/endo-dam-angelus-10710.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 90,
+    "title": "Resina Rebilda DC Cartucho 50g",
+    "brand": "VOCO",
+    "details": "Embalagem c/ 1 cartucho de 50g .",
+    "price": "R$ 745,46",
+    "href": "https://www.dentalspeed.com/familia/resina-rebilda-dc-cartucho-50g-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-rebilda-dc-50g-voco-10264-01.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 91,
+    "title": "Resina Rebilda DC Seringa 10g",
+    "brand": "VOCO",
+    "details": "Embalagem c/ 1 seringa de 10g.",
+    "price": "R$ 339,50",
+    "href": "https://www.dentalspeed.com/familia/resina-rebilda-dc-seringa-10g-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-rebilda-dc-voco.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 92,
+    "title": "Resina Resilab Dentina",
+    "brand": "WILCOS",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 57,82",
+    "href": "https://www.dentalspeed.com/familia/resina-resilab-dentina-wilcos",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-resilab-dentina-a1-4g-wilcos.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 93,
+    "title": "Resina X-Tra Fil Caps",
+    "brand": "VOCO",
+    "details": "Embalagem c/ 20 unidades de cápsulas de 0,25g cada (total de 5g).",
+    "price": "R$ 193,58",
+    "href": "https://www.dentalspeed.com/familia/resina-x-tra-fil-caps-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-x-tra-fil-caps-20x025g-voco.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 94,
+    "title": "Resina Constic",
+    "brand": "DMG",
+    "details": "Embalagem c/ 2 Seringas c/ 2g + 20 Escovas + 1 Porta-Escova + 20 Pontas.",
+    "price": "R$ 518,00",
+    "href": "https://www.dentalspeed.com/familia/resina-constic-dmg",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-constic-dmg-12013.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 95,
+    "title": "Resina Empress Direct Color",
+    "brand": "IVOCLAR VIVADENT",
+    "details": "Embalagem c/ 1 seringa de 1g.",
+    "price": "R$ 124,90",
+    "href": "https://www.dentalspeed.com/familia/resina-empress-direct-color-ivoclar-vivadent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-empress-direct-coloropaque-assortment-ivoclar-vivadent-12214.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 96,
+    "title": "Resina Tetric N-Ceram",
+    "brand": "IVOCLAR VIVADENT",
+    "details": "Embalagem c/ 1 seringa de 3,5g.",
+    "price": "R$ 114,90",
+    "href": "https://www.dentalspeed.com/familia/tetric-n-ceram-ivoclar-vivadent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/tetric-n-ceram-ivoclar-vivadent.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 97,
+    "title": "Resina Luna",
+    "brand": "SDI",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 51,50",
+    "href": "https://www.dentalspeed.com/familia/luna-sdi",
+    "img": "https://cdn.dentalspeed.com/produtos/150/luna-sdi.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 98,
+    "title": "Resina Tetric N-Flow",
+    "brand": "IVOCLAR VIVADENT",
+    "details": "Embalagem c/ 1 seringa de 2g.",
+    "price": "R$ 79,90",
+    "href": "https://www.dentalspeed.com/familia/tetric-n-flow-ivoclar-vivadent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/tetric-n-flow-ivoclar-vivadent.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 99,
+    "title": "Resina Opak",
+    "brand": "ANGELUS",
+    "details": "Embalagem c/ 1 seringa de 1,5g.",
+    "price": "R$ 115,00",
+    "href": "https://www.dentalspeed.com/familia/opak-angelus",
+    "img": "https://cdn.dentalspeed.com/produtos/150/opak-angelus.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 100,
+    "title": "Resina Wave",
+    "brand": "SDI",
+    "details": "Embalagem c/ 1 seringa de 1g e 5 pontas aplicadoras.",
+    "price": "R$ 41,70",
+    "href": "https://www.dentalspeed.com/familia/wave-sdi",
+    "img": "https://cdn.dentalspeed.com/produtos/150/wave-sdi.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 101,
+    "title": "Resina GrandioSO",
+    "brand": "VOCO",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 263,17",
+    "href": "https://www.dentalspeed.com/familia/grandioso-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-grandioso-a325-7181.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 102,
+    "title": "Resina GrandioSO Heavy Flow",
+    "brand": "VOCO",
+    "details": "Embalagem c/ 2 seringas de 2g cada.",
+    "price": "R$ 263,17",
+    "href": "https://www.dentalspeed.com/familia/resina-grandioso-heavy-flow-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/grandioso-heavy-flow-7181.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 103,
+    "title": "Resina X-Tra Base",
+    "brand": "VOCO",
+    "details": "Embalagem c/ 2 seringas de 2g cada.",
+    "price": "R$ 272,93",
+    "href": "https://www.dentalspeed.com/familia/resina-x-tra-base-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-x-tra-base-bulk-fill-a2-voco-9983.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 104,
+    "title": "Resina Aura",
+    "brand": "SDI",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 120,40",
+    "href": "https://www.dentalspeed.com/familia/aura-sdi",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-aura-bulk-fill-9327.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 105,
+    "title": "Resina Empress Direct Opaque",
+    "brand": "IVOCLAR VIVADENT",
+    "details": "Embalagem c/ 1 seringa de 1,8g.",
+    "price": "R$ 199,90",
+    "href": "https://www.dentalspeed.com/familia/resina-empress-direct-opaque-ivoclar-vivadent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-empress-direct-opaque-ivoclar-vivadent-10395.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 106,
+    "title": "Resina Tetric N-Ceram Bulk Fill",
+    "brand": "IVOCLAR VIVADENT",
+    "details": "Embalagem c/ 1 seringa de 3,5g.",
+    "price": "R$ 114,90",
+    "href": "https://www.dentalspeed.com/familia/resina-tetric-n-ceram-bulk-fill-ivoclar-vivadent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-tetric-n-ceram-bulk-fill-ivw-ivoclar-vivadent-10477.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 107,
+    "title": "Resina Bisacrílica Tempsmart",
+    "brand": "GC",
+    "details": "Embalagem c/ 1 cartucho com 48ml + 16 pontas misturadoras.",
+    "price": "R$ 665,00",
+    "href": "https://www.dentalspeed.com/familia/resina-bisacrilica-tempsmart-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-bisacrilica-tempsmart-a1-gc-12753.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 108,
+    "title": "Resina Bisacrílica Visalys Temp",
+    "brand": "ULTRADENT",
+    "details": "Embalagem c/ 1 Resina Visalys Temp A1 Normal Pack 1x50ml e 15 pontas misturadoras.",
+    "price": "R$ 495,00",
+    "href": "https://www.dentalspeed.com/familia/resina-bisacrilica-visalys-temp-ultradent",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-bisacrilica-visalys-temp-ult-17282-a.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 126,
-    "title": "Venc. 31/12/2020 - Kit Resina Última Camada - Dr. Tiago Veras*",
-    "brand": "TOKUYAMA DENTAL",
-    "details": "Embalagem c/ 1 Palfique WE, 1 Palfique A1, 1 Palfique A3, 1 Palfique CE, 1 Palfique Posterior PA1, 1 Potenza Attaco e 1 Potenza Idrata.",
-    "price": "R$ 968,75",
-    "href": "https://www.dentalspeed.com/familia/venc-31122020-kit-resina-ultima-camada-dr-tiago-veras-tokuyama-dental",
-    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-ultima-camada-dr-tiago-veras-tokuyama-dental-18106.png",
+    "id": 109,
+    "title": "Resina Ecosite Bulk Fill",
+    "brand": "DMG",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 219,00",
+    "href": "https://www.dentalspeed.com/familia/resina-ecosite-bulk-fill-dmg",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-ecosite-bulk-fill-dmg-18329.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 127,
+    "id": 110,
+    "title": "Resina em Pasta Resinlay Pattern Photo",
+    "brand": "TDV",
+    "details": "Embalagem com 1 Resinlay Pattern Photo - Seringa 3g de pasta + 3 ponteiras.",
+    "price": "R$ 77,11",
+    "href": "https://www.dentalspeed.com/familia/resina-em-pasta-resinlay-pattern-photo-tdv",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-em-pasta-resinlay-pattern-photo-3g-tdv18939a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 111,
+    "title": "Resina Harmonize",
+    "brand": "KERR",
+    "details": "Embalagem c/ 1 seringa de 4g.",
+    "price": "R$ 165,00",
+    "href": "https://www.dentalspeed.com/familia/resina-harmonize-kerr",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-harmonize-esmalte-kerr-15125.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 112,
+    "title": "Resina Orion",
+    "brand": "DFL",
+    "details": "Embalagem com 1 seringa de 4g.",
+    "price": "R$ 20,00",
+    "href": "https://www.dentalspeed.com/familia/resina-orion-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-orion-da3-ndf18284c.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 113,
+    "title": "Resina Palfique LX5 - Mini",
+    "brand": "TOKUYAMA DENTAL",
+    "details": "Embalagem c/ 1 seringa 1g + Manual de Instruções.",
+    "price": "R$ 63,81",
+    "href": "https://www.dentalspeed.com/familia/resina-palfique-mini-lx5-tokuyama-dental",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-palfique-mini-lx5-a2-tokuyama-dental.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 114,
+    "title": "Resina Resinlay Pattern Photo",
+    "brand": "TDV",
+    "details": "Embalagem c/ 1 unidade de 3g de gel.",
+    "price": "R$ 72,58",
+    "href": "https://www.dentalspeed.com/familia/resina-resinlay-pattern-photo-tdv",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-resinlay-pattern-photo-tdv-13866.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 115,
+    "title": "Resina Tetric N-Flow Bulk Fill",
+    "brand": "IVOCLAR VIVADENT",
+    "details": "Embalagem c/ 1 seringa de 2g.",
+    "price": "R$ 79,90",
+    "href": "https://www.dentalspeed.com/familia/resina-tetric-n-flow-bulk-fill-ivoclar-vivadent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-tetric-n-flow-bulk-fill-iva-ivoclar-vivadent-13227.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 116,
+    "title": "Resina Vega Ortho UV",
+    "brand": "DFL",
+    "details": "Embalagem com 1 seringa com Vega Ortho UV de 4g, Alpha Etch 3g e pontas aplicadoras.",
+    "price": "R$ 59,40",
+    "href": "https://www.dentalspeed.com/familia/resina-vega-ortho-uv-nova-dfl",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vega-ortho-uv-18287.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 117,
+    "title": "Resina Vit-L-Escence",
+    "brand": "ULTRADENT",
+    "details": "Embalagem c/ 1 Seringa de 2,5g.",
+    "price": "R$ 183,75",
+    "href": "https://www.dentalspeed.com/familia/resina-vit-l-escence-ultradent",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vit-l-escence-ultradent.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 118,
+    "title": "Resina Vittra APS Unique",
+    "brand": "FGM",
+    "details": "Embalagem com 1 seringa de resina Vittra APS Unique 4g.",
+    "price": "R$ 112,79",
+    "href": "https://www.dentalspeed.com/familia/resina-vittra-aps-unique-fgm",
+    "img": "https://cdn.dentalspeed.com/produtos/150/resina-vittra-aps-unique-4g-fgm19787a-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 119,
+    "title": "Kit Resina Shine",
+    "brand": "KULZER",
+    "details": "Embalagem c/ 2 Charisma Classic (A1 e A2) e 1 Durafill VS (I). Leve 1 lata colecionavél.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-shine-kulzer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-shine-kzr18056a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 120,
     "title": "Resina Fill Magic Flow",
     "brand": "COLTENE",
     "details": "Embalagem c/ 1 seringa de 1,2g.",
@@ -2294,17 +2168,35 @@
     "href": "https://www.dentalspeed.com/familia/fill-magic-flow-coltene",
     "img": "https://cdn.dentalspeed.com/produtos/150/produto-fill-magic-flow-a35-12g-coltene-01.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 128,
+    "id": 121,
+    "title": "Kit Resina Luna + Adesivo Stae",
+    "brand": "SDI",
+    "details": "Embalagem c/ 3 seringas de luna c/ 4g e 1 adesivo stae c/ 5ml - A2, A3 e A3,5",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-luna-adesivo-stae-sdi",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-lunaadesivo-stae-sdi18223a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 122,
     "title": "Kit Resina Vittra APS Bleach",
     "brand": "FGM",
     "details": "Kit com 5 seringas com 4g + 1 seringa com 2g (DA0, DA1, VH, E-Bleach e Trans OPL) + Ambar APS com 6ml + Condac 37% + Diamond Excel 2g.",
@@ -2312,17 +2204,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-vittra-aps-bleach-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-vittra-aps-bleach-fgm-12432.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 129,
+    "id": 123,
     "title": "Kit Resina AllPrime Basics",
     "brand": "ALLPRIME",
     "details": "Kit c/ 3 seringas de 4g (Cores A2, A3 e A3,5) e 1 adesivo de 4ml.",
@@ -2330,17 +2222,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-allprime-basics-allprime",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-allprime-basics-allprime-10912.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 130,
+    "id": 124,
     "title": "Resina Estelite Flow Quick",
     "brand": "TOKUYAMA DENTAL",
     "details": "Embalagem c/ 1 seringa 1,8g + Manual de Instruções.",
@@ -2348,17 +2240,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-estelite-flow-quick-tokuyama-dental",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-estelite-flow-quick-tokuyama-dental-13746.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 131,
+    "id": 125,
     "title": "Resina Estelite Flow Quick High Flow",
     "brand": "TOKUYAMA DENTAL",
     "details": "Embalagem c/ 1 seringa 1,8g + Manual de Instruções.",
@@ -2366,17 +2258,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-estelite-flow-quick-high-flow-tokuyama-dental",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-flow-quick-high-flow-13746-tokuyama-a2-a3-opa2.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 132,
+    "id": 126,
     "title": "Resina Natural Flow",
     "brand": "DFL",
     "details": "Embalagem c/ 1 seringa 1,2g e 5 pontas aplicadoras.",
@@ -2384,17 +2276,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-natural-flow-nova-dfl",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-natural-flow-seringa-a35-24g-nova-dfl-3815-01.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 133,
+    "id": 127,
     "title": "Kit Resina Charisma Classic 3 Seringas",
     "brand": "KULZER",
     "details": "Kit c/ 3 seringas de 4g cada, nas cores (A1, A2 e A3).",
@@ -2402,17 +2294,35 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-charisma-classic-3-seringas-kulzer",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-charisma-classic-3-seringas-kulzer-10938-2.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 134,
+    "id": 128,
+    "title": "Kit Resina Alta GrandioSO Heavy Flow",
+    "brand": "VOCO",
+    "details": "Kit c/ 5 seringas de 2g nas (A2, A3, A3.5, GA5 e WO), escala de cores e acessórios.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/kit-resina-alta-grandioso-heavy-flow-voco",
+    "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-grandioso-heavy-flow-voco-10318.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 129,
     "title": "Kit Resina Charisma Diamond Introdutório",
     "brand": "KULZER",
     "details": "Kit c/ 3 seringas de 4g cada (cores: A2, A3 E OM) - Brinde 1 escala de cores charisma diamond.",
@@ -2420,17 +2330,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-charisma-diamond-introdutorio-kulzer",
     "img": "https://cdn.dentalspeed.com/produtos/150/produto-charisma-diamond-kit-intro-heraeus-kulzer.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 135,
+    "id": 130,
     "title": "Kit Resina Estética",
     "brand": "COLTENE",
     "details": "Kit c/ 1 Resina NT Dentina A2 + 1 Resina NT Esmalte A2 + 1 Magic Bond DE + 1 Technobrush.",
@@ -2438,17 +2348,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-estetica-coltene",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-estetica-coltene-12695-1.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 136,
+    "id": 131,
     "title": "Kit Resina Rebilda DC",
     "brand": "VOCO",
     "details": "Kit c/ 1 seringa QuickMix de 10g dentina, Futurabond DC líquido 1 e líquido 2 de 4ml cada, pontas misturadoras tipo 11, pontas intra-orais tipo 4 e acessórios.",
@@ -2456,17 +2366,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-rebilda-dc-voco",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-rebilda-dc-voco-10262.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 137,
+    "id": 132,
     "title": "Resina Aura Easy",
     "brand": "SDI",
     "details": "Embalagem c/ 1 seringa de 4g.",
@@ -2474,17 +2384,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-aura-easy-sdi",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-aura-easy-sdi-13992.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 138,
+    "id": 133,
     "title": "Resina SonicFill",
     "brand": "KERR",
     "details": "Embalagem c/ 20 pontas unidose de 0,3 g cada.",
@@ -2492,17 +2402,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-sonicfill-kerr",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-sonicfill-a1-kerr-10478-01.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 139,
+    "id": 134,
     "title": "Resina Luxatemp Star Smartmix",
     "brand": "DMG",
     "details": "Embalagem c/ 1 cartucho de 15g e 10 pontas misturadoras.",
@@ -2510,17 +2420,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-luxatemp-star-smartmix-dmg",
     "img": "https://cdn.dentalspeed.com/produtos/150/luxatemp-star-smartmix-a2-dmg-13783.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 140,
+    "id": 135,
     "title": "Kit Resina Opus Bulk Fill Flow 2 Seringas + Copo",
     "brand": "FGM",
     "details": "Kit c/ 1 unidade de Resina Opus Bulk Fill Flow A1 2g + 1 unidade de Resina Opallis DA2 4G + Copo colecionável FGM.",
@@ -2528,17 +2438,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-opus-bulk-fill-flow-2-seringas-copo-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-opus-bulk-fill-flow-a1-opallis-da2-copo-fgm-12008.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 141,
+    "id": 136,
     "title": "Resina Opus Bulk Fill Flow",
     "brand": "FGM",
     "details": "Embalagem c/ 1 seringa de 2g e 10 pontas aplicadoras.",
@@ -2546,17 +2456,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-opus-bulk-fill-flow-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-opus-bulk-fill-flow-a3-fgm-11226-01.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 142,
+    "id": 137,
     "title": "Resina Opallis Lab",
     "brand": "FGM",
     "details": "Embalagem c/ 1 seringa de 4g.",
@@ -2564,17 +2474,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-opallis-lab-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-opallis-lab-eb2-fgm-11002-01.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 143,
+    "id": 138,
     "title": "Resina Estelite",
     "brand": "TOKUYAMA DENTAL",
     "details": "Embalagem c/ 1 seringa de 2ml/3,8g.",
@@ -2582,17 +2492,17 @@
     "href": "https://www.dentalspeed.com/familia/estelite-tokuyama-dental",
     "img": "https://cdn.dentalspeed.com/produtos/150/estelite-sigma-quick-esmalte-a1-8289-1.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 144,
+    "id": 139,
     "title": "Resina Charisma Opal",
     "brand": "KULZER",
     "details": "Embalagem c/ 1 seringa de 4g",
@@ -2600,17 +2510,17 @@
     "href": "https://www.dentalspeed.com/familia/charisma-opal-heraeus-kulzer",
     "img": "https://cdn.dentalspeed.com/produtos/150/charisma-opal-heraeus-kulzer.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 145,
+    "id": 140,
     "title": "Resina Filtek Bulk Fill",
     "brand": "3M",
     "details": "Embalagem c/ 1 seringa de 1,2g.",
@@ -2618,17 +2528,17 @@
     "href": "https://www.dentalspeed.com/familia/resina-filtek-bulk-fill-3m",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-filtek-bulk-fill-b1-3m-espe-10250.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 146,
+    "id": 141,
     "title": "Kit Resina Amaris Gingiva",
     "brand": "VOCO",
     "details": "Kit c/ 3 Opacificadores c/ 1,2g cada (white, light e dark) e 1 seringa c/ 4g na cor base ''nature'' e acessórios.",
@@ -2636,17 +2546,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-amaris-gingiva-voco",
     "img": "https://cdn.dentalspeed.com/produtos/150/produto-kit-amaris-gingiva-voco.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 147,
+    "id": 142,
     "title": "Resina Rok",
     "brand": "SDI",
     "details": "Embalagem c/ 1 seringa de 4g.",
@@ -2654,17 +2564,17 @@
     "href": "https://www.dentalspeed.com/familia/rok-sdi",
     "img": "https://cdn.dentalspeed.com/produtos/150/rok-sdi.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 148,
+    "id": 143,
     "title": "Resina Tetric Color",
     "brand": "IVOCLAR VIVADENT",
     "details": "Embalagem c/ 1 seringa de 4g.",
@@ -2672,17 +2582,17 @@
     "href": "https://www.dentalspeed.com/familia/tetric-color-ivoclar-vivadent",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-tetric-color-refil-1g-cinza-azulado-8375.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 149,
+    "id": 144,
     "title": "Resina Prisma APH",
     "brand": "DENTSPLY SIRONA",
     "details": "Embalagem c/ 1 seringa de 4g.",
@@ -2690,17 +2600,17 @@
     "href": "https://www.dentalspeed.com/familia/prisma-aph-dentsply",
     "img": "https://cdn.dentalspeed.com/produtos/150/prisma-aph-dentsply.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 150,
+    "id": 145,
     "title": "Combo 1 - Sonicfill + CompoRoller",
     "brand": "KERR",
     "details": "Kit c/ 1 Peça de Mão Sonifill, 20 unidoses de Resina Sonicfill de 0,3g cada e 1 Kit CompoRoller c/ 1 Intrumento + 49 pontas c/ 7 unid. de cada modelo: Cilíndrica 4mm, Cônica, Cilíndrica 3mm, Disco, Ponta, Oval e Espátula.",
@@ -2708,17 +2618,17 @@
     "href": "https://www.dentalspeed.com/familia/combo-1-sonicfill-comporoller-kerr",
     "img": "https://cdn.dentalspeed.com/produtos/150/combo-1-sonicfill-a3-comporoller-kerr-10747.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 151,
+    "id": 146,
     "title": "Combo 2 - Sonicfill + CompoRoller + Acoplamento Multiflex",
     "brand": "KERR",
     "details": "Kit c/ 1 Peça de Mão Sonifill, 20 unidoses de Resina Sonicfill de 0,3g cada, 1 Kit CompoRoller c/ 1 Intrumento + 49 pontas c/ 7 unid. de cada modelo: Cilíndrica 4mm, Cônica, Cilíndrica 3mm, Disco, Ponta, Oval e Espátula e 1 acoplamento Multiflex",
@@ -2726,17 +2636,17 @@
     "href": "https://www.dentalspeed.com/familia/combo-2-sonicfill-comporoller-acoplamento-multiflex-kerr",
     "img": "https://cdn.dentalspeed.com/produtos/150/combo-2-sonicfill-a3-comporoller-acoplamento-multiflex-kerr-10748.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 152,
+    "id": 147,
     "title": "Kit Resina Aura p/ Odontopediatria",
     "brand": "SDI",
     "details": "Embalagem c/ 1 seringa Aura Bulk Fill de 4g e 1 seringa de 4g cor DB.",
@@ -2744,17 +2654,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-aura-p-odontopediatria-sdi",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-aura-p-odontopediatria-bulk-fill-e-db-sdi18225b.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 153,
+    "id": 148,
     "title": "Kit Resina Black Edition Aesthetic System - Dr. Arbex Filho",
     "brand": "TOKUYAMA DENTAL",
     "details": "Kit com 3 seringas de resina Omega nas cores (BL2, Mw e EB1), 4 seringas de resina Palfique nas cores (B1, Bw, WE e OPA2), 1 seringa de condicionador ácido fosfórico e 1 pincel Tokuyama.",
@@ -2762,17 +2672,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-black-edition-aesthetic-system-dr-arbex-filho-tokuyama-dental",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-black-edition-aesthetic-system-dr-arbex-filho-tokuyama-dental-18100.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 154,
+    "id": 149,
     "title": "Kit Resina Black Edition Aesthetic System Dr. Felipe Bezerra",
     "brand": "TOKUYAMA DENTAL",
     "details": "Kit com 3 seringas de resina Omega nas cores (Mw, Trans e Bl2), 4 seringas de resina Palfique nas cores (A1, A2, OA1 e OPA2), 1 seringa de condicionador ácido fósfórico e 1 pincel Tokuyama.",
@@ -2780,17 +2690,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-black-edition-aesthetic-system-dr-felipe-bezerra-tokuyama-dental",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-black-edition-aesthetic-system-dr-felipe-bezerra-tokuyama-dental-18101.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 155,
+    "id": 150,
     "title": "Kit Resina Black Edition Dia a Dia Clínico - Dr. Thiago Ottoboni",
     "brand": "TOKUYAMA DENTAL",
     "details": "Kit com 3 seringas de resina Palfique nas cores (A1, A2 e OPA2), 1 pincel Tokuyama, 1 seringa de condicionador ácido fosfórico Potenza Attaco 35%, 1 seringa de pasta de polimento Potenza Specchi AL e 1 frasco de hidratante labial Potenza Idrata.",
@@ -2798,17 +2708,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-dia-a-dia-clinico-dr-thiago-ottoboni-tokuyama-dental",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-dia-a-dia-clinico-dr-thiago-ottoboni-tokuyama-dental-18105.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 156,
+    "id": 151,
     "title": "Kit Resina Black Edition Última Camada - Dr. Tiago Veras",
     "brand": "TOKUYAMA DENTAL",
     "details": "Kit com 4 seringias de resina Palfique nas cores (WE, A1, A3 e CE), 1 seringa de resina Palfique Posterior PA1, 1 seringa de condicionador ácido fosfórico Potenza Attaco 35%, 1 frasco de hidratante labial Potenza Idrata.",
@@ -2816,17 +2726,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-ultima-camada-dr-tiago-veras-tokuyama-dental",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-ultima-camada-dr-tiago-veras-tokuyama-dental-18106.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 157,
+    "id": 152,
     "title": "Kit Resina Ortodôntica Ortho Bite + Top Comfort",
     "brand": "FGM",
     "details": "Kit c/ 1 seringa de 4g + Top Comfort 2g.",
@@ -2834,17 +2744,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-ortodontica-ortho-bite-top-comfort-fgm",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-ortodontica-ortho-bite-top-comfort-fgm-15265.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 158,
+    "id": 153,
     "title": "Kit Resina SeT PP A2 + Aura Bulk Fill",
     "brand": "SDI",
     "details": "Embalagem c/ 1 um seT PP na cor A2 e 1 seringa de Aura Bulk Fill Cor Universal.",
@@ -2852,17 +2762,17 @@
     "href": "https://www.dentalspeed.com/familia/kit-resina-set-pp-a2-aura-bulk-fill-sdi",
     "img": "https://cdn.dentalspeed.com/produtos/150/kit-resina-set-pp-a2aura-bulk-fill-sdi18226a.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 159,
+    "id": 154,
     "title": "Resina Enamel Plus HRI",
     "brand": "MICERIUM",
     "details": "Embalagem c/ 1 unidade de 4g.",
@@ -2870,13 +2780,13 @@
     "href": "https://www.dentalspeed.com/familia/resina-enamel-plus-hri-micerium",
     "img": "https://cdn.dentalspeed.com/produtos/150/resina-enamel-plus-hri-dentina-micerium-15996-1.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:25:43.931Z\"",
-      "mins": 25,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T17:10:05.021Z\"",
+      "mins": 10,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   }
 ]

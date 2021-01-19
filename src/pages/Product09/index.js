@@ -5,11 +5,14 @@ import { FaEye } from 'react-icons/fa';
 import SearchBar from '../../components/Searchbar'
 import CategoryMenu from '../../components/CategoryMenu'
 import sort from '../../utils/sort'
+import sortSurya from '../../utils/sortSurya'
+import sortOnly from '../../utils/sortOnly'
 import SubDivision from '../../components/SubDivision';
 import cremerData from '../../items/itemsCremer/cr-braquete-reposicao.json'
 import speedData from '../../items/itemsSpeed/sp-braquete-reposicao.json'
 import onlyData from '../../items/itemsOnly/on-braquete.json'
 import ciaData from '../../items/itemsCia/ci-braquete-reposicao.json'
+import suryaData from '../../items/itemsSurya/su-braquete-reposicao.json'
 // -----------------------------------------------------------------------------
 export default function Dashboard(props) {
   // filter by EdgeWise, MBT, Roth
@@ -26,6 +29,10 @@ export default function Dashboard(props) {
     return titleDetail.toLowerCase().includes(props.match.path.slice(7, ))
   })
   const filteredDefaultCia = ciaData.filter(s => {
+    let titleDetail = s.title + s.details
+    return titleDetail.toLowerCase().includes(props.match.path.slice(7, ))
+  })
+  const filteredDefaultSurya = suryaData.filter(s => {
     let titleDetail = s.title + s.details
     return titleDetail.toLowerCase().includes(props.match.path.slice(7, ))
   })
@@ -47,12 +54,17 @@ export default function Dashboard(props) {
     let titleDetail = s.title + s.details
     return !titleDetail.toLowerCase().includes('reposição')
   })
+  let multiUnitFilteredSurya = filteredDefaultSurya.filter(s => {
+    let titleDetail = s.title + s.details
+    return (titleDetail.toLowerCase().includes('kit') || titleDetail.toLowerCase().includes('cartela'))
+  })
 
   // order by price
   multiUnitFilteredCremer = sort(multiUnitFilteredCremer);
   multiUnitFilteredSpeed = sort(multiUnitFilteredSpeed);
-  multiUnitFilteredOnly = sort(multiUnitFilteredOnly);
+  multiUnitFilteredOnly = sortOnly(multiUnitFilteredOnly);
   multiUnitFilteredCia = sort(multiUnitFilteredCia);
+  multiUnitFilteredSurya = sortSurya(multiUnitFilteredSurya);
 
   const [input, setInput] = useState('');
   const [ cremer, setCremer ] = useState(multiUnitFilteredCremer);
@@ -63,6 +75,8 @@ export default function Dashboard(props) {
   const [ onlyListDefault ] = useState(multiUnitFilteredOnly);
   const [ cia, setCia ] = useState(multiUnitFilteredCia);
   const [ ciaListDefault ] = useState(multiUnitFilteredCia);
+  const [ surya, setSurya ] = useState(multiUnitFilteredSurya);
+  const [ suryaListDefault ] = useState(multiUnitFilteredSurya);
   const [ showDropdown, setShowDropDown ] = useState(false);
 
   useEffect(() => {
@@ -70,6 +84,7 @@ export default function Dashboard(props) {
     setSpeed(multiUnitFilteredSpeed);
     setOnly(multiUnitFilteredOnly);
     setCia(multiUnitFilteredCia);
+    setSurya(multiUnitFilteredSurya);
   }, [props.match.path])
 
 
@@ -91,11 +106,16 @@ export default function Dashboard(props) {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
     })
+    const filteredSurya = suryaListDefault.filter(s => {
+      let titleDetail = s.title + s.brand + s.details
+      return titleDetail.toLowerCase().includes(input.toLowerCase())
+    })
     setInput(input);
     setCremer(filteredCremer);
     setSpeed(filteredSpeed);
     setOnly(filteredOnly);
     setCia(filteredCia);
+    setSurya(filteredSurya);
   }
 
   function convertedDate(date) {
@@ -122,16 +142,19 @@ export default function Dashboard(props) {
 
       <div className="videos">
         <SubDivision arrayName={cremer} convertedDate={convertedDate} 
-          title={'Dental Cremer'} titlePageLink={'http://www.dentalcremer.com.br/'}
+          title={'dentalcremer.com.br'} titlePageLink={'http://www.dentalcremer.com.br/'}
         />
         <SubDivision arrayName={speed} convertedDate={convertedDate} 
-          title={'Dental Speed'} titlePageLink={'http://www.dentalspeed.com/'}
+          title={'dentalspeed.com'} titlePageLink={'http://www.dentalspeed.com/'}
         />
-        <SubDivision arrayName={only} convertedDate={convertedDate} 
-          title={'Only Dental'} titlePageLink={'http://www.onlydental.com.br/'}
+        <SubDivision arrayName={surya} convertedDate={convertedDate} 
+          title={'suryadental.com.br'} titlePageLink={'http://www.suryadental.com.br/'}
         />
+        {/* <SubDivision arrayName={only} convertedDate={convertedDate} 
+          title={'onlydental.com.br'} titlePageLink={'http://www.onlydental.com.br/'}
+        /> */}
         <SubDivision arrayName={cia} convertedDate={convertedDate} 
-          title={'Dental & Cia'} titlePageLink={'http://www.dentalecia.com.br/'}
+          title={'dentalecia.com.br'} titlePageLink={'http://www.dentalecia.com.br/'}
         />
       </div>    
     </div>

@@ -1,0 +1,104 @@
+[
+ {
+  "id": 0,
+  "title": "Cimento de Zinco LS Líquido - Coltene",
+  "details": "Embalagem com 10ml.",
+  "price": "R$18,65",
+  "href": "https://www.dentalcremer.com.br/cimento-de-zinco-ls-liquido-coltene-368413.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/368413.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2021-01-19T16:59:02.446Z\"",
+   "mins": 59,
+   "hours": 13,
+   "theDate": 19,
+   "theMonth": 1,
+   "theYear": 2021,
+   "theDay": 2
+  }
+ },
+ {
+  "id": 1,
+  "title": "Cimento de Zinco Líquido - Maquira",
+  "details": "Embalagem com 10ml.",
+  "price": "R$13,90",
+  "href": "https://www.dentalcremer.com.br/cimento-de-zinco-liquido-maquira-607819.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/607819_2.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2021-01-19T16:59:02.446Z\"",
+   "mins": 59,
+   "hours": 13,
+   "theDate": 19,
+   "theMonth": 1,
+   "theYear": 2021,
+   "theDay": 2
+  }
+ },
+ {
+  "id": 2,
+  "title": "Cimento de Zinco Líquido - SS White",
+  "details": "Embalagem com 10ml.",
+  "price": "R$18,70",
+  "href": "https://www.dentalcremer.com.br/cimento-de-zinco-liquido-ss-white-219418.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/219418.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2021-01-19T16:59:02.446Z\"",
+   "mins": 59,
+   "hours": 13,
+   "theDate": 19,
+   "theMonth": 1,
+   "theYear": 2021,
+   "theDay": 2
+  }
+ },
+ {
+  "id": 3,
+  "title": "Cimento de Zinco LS Pó - Coltene",
+  "details": "Embalagem com 28g.",
+  "price": "R$18,65",
+  "href": "https://www.dentalcremer.com.br/cimento-de-zinco-ls-po-coltene-368406.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/368406.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2021-01-19T16:59:02.446Z\"",
+   "mins": 59,
+   "hours": 13,
+   "theDate": 19,
+   "theMonth": 1,
+   "theYear": 2021,
+   "theDay": 2
+  }
+ },
+ {
+  "id": 4,
+  "title": "Cimento de Zinco Pó - Maquira",
+  "details": "Embalagem com 28g.",
+  "price": "R$13,90",
+  "href": "https://www.dentalcremer.com.br/po-cod-607802-607802.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/607819.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2021-01-19T16:59:02.446Z\"",
+   "mins": 59,
+   "hours": 13,
+   "theDate": 19,
+   "theMonth": 1,
+   "theYear": 2021,
+   "theDay": 2
+  }
+ },
+ {
+  "id": 5,
+  "title": "Cimento de Zinco Pó - SS White",
+  "details": "Embalagem com 28g.",
+  "price": "R$18,70",
+  "href": "https://www.dentalcremer.com.br/cimento-de-zinco-po-ss-white-219371.html",
+  "img": "https://cdn.dentalcremer.com.br/produtos/210/219371.jpg",
+  "time": {
+   "stringifiedTimeData": "\"2021-01-19T16:59:02.446Z\"",
+   "mins": 59,
+   "hours": 13,
+   "theDate": 19,
+   "theMonth": 1,
+   "theYear": 2021,
+   "theDay": 2
+  }
+ }
+]

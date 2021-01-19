@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "title": "\n                            Alginato Algi-Gel 454g - Maquira\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 19,49\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/alginato-algi-gel-454g-maquira/928212",
+    "img": "https://static.dentalecia.com.br/produto/20190422222014_1842998158_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:50:48.263Z\"",
+      "mins": 50,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "\n                            Alginato Ezact Kromm 410G - Coltene\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 19,90\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/alginato-ezact-kromm-410g-coltene/4547723",
+    "img": "https://static.dentalecia.com.br/produto/20201022162632_880999120_H.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:50:48.263Z\"",
+      "mins": 50,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  }
+]

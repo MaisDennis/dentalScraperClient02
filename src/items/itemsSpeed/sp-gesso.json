@@ -1,0 +1,408 @@
+[
+  {
+    "id": 0,
+    "title": "Gesso Pedra Tipo III",
+    "details": "\n                Gesso Pedra Tipo III\n                ASFER\n                Embalagem c/ 1Kg.\n            ",
+    "price": "R$ 7,78",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-tipo-iii-asfer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-gesso-pedra-branco-tipo-iii-1kg-asfer.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "Gesso Pedra Especial Durone Tipo IV",
+    "details": "\n                Gesso Pedra Especial Durone Tipo IV\n                DENTSPLY SIRONA\n                Embalagem c/ 1Kg.\n            ",
+    "price": "R$ 29,90",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-especial-durone-tipo-iv-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-pedra-especial-durone-tipo-iv-3493-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
+    "title": "Gesso Comum Tipo II",
+    "details": "\n                Gesso Comum Tipo II\n                ASFER\n                Embalagem c/ 1 Kg.\n            ",
+    "price": "R$ 5,50",
+    "href": "https://www.dentalspeed.com/familia/gesso-comum-tipo-ii-asfer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-gesso-comum-tipo-ii-1kg-asfer.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Gesso Pedra Herodent Tipo III Amarelo",
+    "details": "\n                Gesso Pedra Herodent Tipo III Amarelo\n                COLTENE\n                Embalagem c/ 1Kg.\n            ",
+    "price": "R$ 14,26",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-herodent-tipo-iii-amarelo-coltene",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-gesso-herodent-tipo-iii-amarelo-coltene-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
+    "title": "Gesso Comum Kdent Tipo II",
+    "details": "\n                Gesso Comum Kdent Tipo II\n                QUIMIDROL\n                Embalagem c/ 1Kg.\n            ",
+    "price": "R$ 3,97",
+    "href": "https://www.dentalspeed.com/familia/gesso-comum-kdent-tipo-ii-quimidrol",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-comum-tipo-ii-kdent-1kg-8300.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 5,
+    "title": "Gesso Pedra Herostone Tipo IV",
+    "details": "\n                Gesso Pedra Herostone Tipo IV\n                COLTENE\n                Embalagem c/ 1kg.\n            ",
+    "price": "R$ 28,39",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-herostone-tipo-iv-coltene",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-herostone-tipo-iv-verde-coltene-4305-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 6,
+    "title": "Gesso Pedra Especial Durone Tipo V",
+    "details": "\n                Gesso Pedra Especial Durone Tipo V\n                DENTSPLY SIRONA\n                Embalagem c/ 1kg.\n            ",
+    "price": "R$ 32,03",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-especial-durone-tipo-v-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-especial-durone-azul-dentsply-6184.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 7,
+    "title": "Gesso Pedra Tipo III Kdent",
+    "details": "\n                Gesso Pedra Tipo III Kdent\n                QUIMIDROL\n                Embalagem c/ 1Kg.\n            ",
+    "price": "R$ 7,21",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-tipo-iii-kdent-quimidrol",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-pedra-tipo-iii-kdent-1kg-branco-8301-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 8,
+    "title": "Gesso Ortodôntico",
+    "details": "\n                Gesso Ortodôntico\n                ASFER\n                Embalagem c/ 2kg.\n            ",
+    "price": "R$ 16,72",
+    "href": "https://www.dentalspeed.com/familia/gesso-ortodontico-asfer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-ortodontico-9854.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 9,
+    "title": "Gesso Pedra Especial Durone Tipo IV 5Kg",
+    "details": "\n                Gesso Pedra Especial Durone Tipo IV 5Kg\n                DENTSPLY SIRONA\n                Embalagem c/ 5kg.\n            ",
+    "price": "R$ 153,82",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-especial-durone-tipo-iv-5kg-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-pedra-especial-durone-salmon-5kg-3493-192.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 10,
+    "title": "Gesso Comum Tipo II G2",
+    "details": "\n                Gesso Comum Tipo II G2\n                DURASTONE\n                Embalagem c/ 1Kg.\n            ",
+    "price": "R$ 6,69",
+    "href": "https://www.dentalspeed.com/familia/gesso-comum-tipo-ii-g2-durastone",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-comum-tipo-ii-g2-durastone-11808.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 11,
+    "title": "Gesso Pedra GC Fujirock",
+    "details": "\n                Gesso Pedra GC Fujirock\n                GC\n                Embalagem c/ 4Kg.\n            ",
+    "price": "R$ 315,00",
+    "href": "https://www.dentalspeed.com/familia/gc-fujirock-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gc-fujirock-gc.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 12,
+    "title": "Gesso Pedra Tipo III G3",
+    "details": "\n                Gesso Pedra Tipo III G3\n                DURASTONE\n                Embalagem com 25kg.\n            ",
+    "price": "R$ 199,90",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-tipo-iii-g3-durastone-durastone",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-pedra-tipo-iii-g3-durastone-18900.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 13,
+    "title": "Espátula p/ Alginato e Gesso",
+    "details": "\n                Espátula p/ Alginato e Gesso\n                MAQUIRA\n                Embalagem c/ 1 unidade.\n            ",
+    "price": "R$ 2,99",
+    "href": "https://www.dentalspeed.com/familia/espatula-p-alginato-e-gesso-maquira",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-espatula-p-alginato-e-gesso-maquira.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 14,
+    "title": "Vibrador de Gesso Vibramaxx c/ Potenciômetro - 110/220V",
+    "details": "\n                Vibrador de Gesso Vibramaxx c/ Potenciômetro - 110/220V\n                ESSENCE DENTAL VH\n                Embalagem c/ 1 unidade.\n            ",
+    "price": "R$ 285,00",
+    "href": "https://www.dentalspeed.com/familia/vibrador-de-gesso-vibramaxx-c-potenciometro-110220v-essence-dental-vh",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-vibrador-de-gesso-vibramaxx-c-potenciometro-110220v-essence-dental-vh.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 15,
+    "title": "Espátula p/ Gesso - Cabo Plástico",
+    "details": "\n                Espátula p/ Gesso - Cabo Plástico\n                NOVA OGP\n                Embalagem c/ 1 unidade.\n            ",
+    "price": "R$ 8,60",
+    "href": "https://www.dentalspeed.com/familia/espatula-p-gesso-cabo-plastico-nova-ogp",
+    "img": "https://cdn.dentalspeed.com/produtos/150/espatula-p-gesso-plastica-nova-ogp-16189.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 16,
+    "title": "Espátula p/ Gesso e Alginato",
+    "details": "\n                Espátula p/ Gesso e Alginato\n                ANGELUS\n                Embalagem c/ 1 unidade.\n            ",
+    "price": "R$ 5,08",
+    "href": "https://www.dentalspeed.com/familia/espatula-p-gesso-e-alginato-angelus",
+    "img": "https://cdn.dentalspeed.com/produtos/150/espatula-p-gesso-e-alginato-angelus-13767-01.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 17,
+    "title": "Vibrador de Gesso Master - Bivolt Manual",
+    "details": "\n                Vibrador de Gesso Master - Bivolt Manual\n                BIOTRON\n                Embalagem c/ 1 unidade.\n            ",
+    "price": "R$ 328,93",
+    "href": "https://www.dentalspeed.com/familia/vibrador-de-gesso-master-bivolt-manual-biotron",
+    "img": "https://cdn.dentalspeed.com/produtos/150/vibrador-de-gesso-master-biotron-10087-2.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 18,
+    "title": "Espátula p/ Gesso - Madeira",
+    "details": "\n                Espátula p/ Gesso - Madeira\n                GOLGRAN\n                Embalagem c/ 1 unidade.\n            ",
+    "price": "R$ 21,03",
+    "href": "https://www.dentalspeed.com/familia/espatula-p-gesso-madeira-golgran",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-espatula-p-gesso-madeira-golgran.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 19,
+    "title": "Estilete Profissional",
+    "details": "\n                Estilete Profissional\n                TRAMONTINA\n                Embalagem c/ 1 unidade.\n            ",
+    "price": "R$ 21,80",
+    "href": "https://www.dentalspeed.com/familia/estilete-profissional-tramontina",
+    "img": "https://cdn.dentalspeed.com/produtos/150/estilete-profissional-8146.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 20,
+    "title": "Faca Inox p/ Gesso",
+    "details": "\n                Faca Inox p/ Gesso\n                GOLGRAN\n                Embalagem c/ 1 unidade.\n            ",
+    "price": "R$ 20,05",
+    "href": "https://www.dentalspeed.com/familia/faca-inox-p-gesso-golgran",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-faca-para-gesso-golgran.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 21,
+    "title": "Broca Carbide Tungstênio Pêra p/ Gesso e Resinas  Corte Cruzado Extra Grosso",
+    "details": "\n                Broca Carbide Tungstênio Pêra p/ Gesso e Resinas  Corte Cruzado Extra Grosso\n                AMERICAN BURRS\n                Embalagem c/ 1 unidade.\n            ",
+    "price": "R$ 79,80",
+    "href": "https://www.dentalspeed.com/familia/broca-carbide-tungstenio-pera-p-gesso-e-resinas-corte-cruzado-extra-grosso-american-burrs",
+    "img": "https://cdn.dentalspeed.com/produtos/150/broca-tungstenio-preta-pera-p-gesso-e-resinas-corte-cruzado-extra-grosso-007.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 22,
+    "title": "Gesso Pedra GC Fujirock - Marrom",
+    "details": "\n                Gesso Pedra GC Fujirock - Marrom\n                GC\n                Embalagem c/ 5Kg.\n            ",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-gc-fujirock-marrom-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-gc-fujirock-marrom-gc.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 23,
+    "title": "Gesso Pedra Tipo III G3 - Amarelo",
+    "details": "\n                Gesso Pedra Tipo III G3 - Amarelo\n                DURASTONE\n                Embalagem c/ 1Kg.\n            ",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-tipo-iii-g3-amarelo-durastone",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-pedra-tipo-iii-g3-amarelo-durastone-11806.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:13:10.269Z\"",
+      "mins": 13,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  }
+]

@@ -5,12 +5,15 @@ import { FaEye } from 'react-icons/fa';
 import SearchBar from '../../components/Searchbar'
 import CategoryMenu from '../../components/CategoryMenu'
 import sort from '../../utils/sort'
+import sortSurya from '../../utils/sortSurya'
+import sortOnly from '../../utils/sortOnly'
 import SubDivision from '../../components/SubDivision';
 
 import cremerData from '../../items/itemsCremer/cr-braquete-reposicao.json'
 import speedData from '../../items/itemsSpeed/sp-braquete-reposicao.json'
 import onlyData from '../../items/itemsOnly/on-braquete.json'
 import ciaData from '../../items/itemsCia/ci-braquete-reposicao.json'
+import suryaData from '../../items/itemsSurya/su-braquete-reposicao.json'
 
 // -----------------------------------------------------------------------------
 export default function Dashboard(props) {
@@ -31,6 +34,11 @@ export default function Dashboard(props) {
     let titleDetail = s.title + s.details
     return titleDetail.toLowerCase().includes(props.match.path.slice(10, ))
   })
+  const filteredDefaultSurya = suryaData.filter(s => {
+    let titleDetail = s.title + s.details
+    return titleDetail.toLowerCase().includes(props.match.path.slice(10, ))
+  })
+  // console.log(filteredDefaultCia)
   
   // Filter by unit
   let unitFilteredCremer = filteredDefaultCremer.filter(c => {
@@ -45,10 +53,13 @@ export default function Dashboard(props) {
     let titleDetail = s.title + s.details
     return titleDetail.toLowerCase().includes(`reposição`)
   })
-  console.log(unitFilteredOnly)
   let unitFilteredCia = filteredDefaultCia.filter(s => {
     let titleDetail = s.title + s.details
-    return titleDetail.toLowerCase().includes('')
+    return !titleDetail.toLowerCase().includes('kit')
+  })
+  let unitFilteredSurya = filteredDefaultSurya.filter(s => {
+    let titleDetail = s.title + s.details
+    return (!titleDetail.toLowerCase().includes('kit') && !titleDetail.toLowerCase().includes('cartela'))
   })
 
   // order by price
@@ -56,6 +67,7 @@ export default function Dashboard(props) {
   unitFilteredSpeed = sort(unitFilteredSpeed);
   unitFilteredOnly = sort(unitFilteredOnly);
   unitFilteredCia = sort(unitFilteredCia);
+  unitFilteredSurya = sortSurya(unitFilteredSurya);
 
   const [input, setInput] = useState('');
   const [ cremer, setCremer ] = useState(unitFilteredCremer);
@@ -66,6 +78,8 @@ export default function Dashboard(props) {
   const [ onlyListDefault ] = useState(unitFilteredOnly);
   const [ cia, setCia ] = useState(unitFilteredCia);
   const [ ciaListDefault ] = useState(unitFilteredCia);
+  const [ surya, setSurya ] = useState(unitFilteredSurya);
+  const [ suryaListDefault ] = useState(unitFilteredSurya);
 
   const [ showDropdown, setShowDropDown ] = useState(false);
 
@@ -74,6 +88,7 @@ export default function Dashboard(props) {
     setSpeed(unitFilteredSpeed);
     setOnly(unitFilteredOnly);
     setCia(unitFilteredCia);
+    setSurya(unitFilteredSurya);
     console.log(props.match.path)
   }, [props.match.path])
 
@@ -95,11 +110,16 @@ export default function Dashboard(props) {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
     })
+    const filteredSurya = suryaListDefault.filter(s => {
+      let titleDetail = s.title + s.brand + s.details
+      return titleDetail.toLowerCase().includes(input.toLowerCase())
+    })
     setInput(input);
     setCremer(filteredCremer);
     setSpeed(filteredSpeed);
     setOnly(filteredOnly);
     setCia(filteredCia);
+    setSurya(filteredSurya);
   }
 
   function convertedDate(date) {
@@ -126,16 +146,19 @@ export default function Dashboard(props) {
   
       <div className="videos">
         <SubDivision arrayName={cremer} convertedDate={convertedDate} 
-          title={'Dental Cremer'} titlePageLink={'http://www.dentalcremer.com.br/'}
+          title={'dentalcremer.com.br'} titlePageLink={'http://www.dentalcremer.com.br/'}
         />
         <SubDivision arrayName={speed} convertedDate={convertedDate} 
-          title={'Dental Speed'} titlePageLink={'http://www.dentalspeed.com/'}
+          title={'dentalspeed.com'} titlePageLink={'http://www.dentalspeed.com/'}
         />
-        <SubDivision arrayName={only} convertedDate={convertedDate} 
-          title={'Only Dental'} titlePageLink={'http://www.onlydental.com.br/'}
+        <SubDivision arrayName={surya} convertedDate={convertedDate} 
+          title={'suryadental.com.br'} titlePageLink={'http://www.suryadental.com.br/'}
         />
+        {/* <SubDivision arrayName={only} convertedDate={convertedDate} 
+          title={'onlydental.com.br'} titlePageLink={'http://www.onlydental.com.br/'}
+        /> */}
         <SubDivision arrayName={cia} convertedDate={convertedDate} 
-          title={'Dental & Cia'} titlePageLink={'http://www.dentalecia.com.br/'}
+          title={'dentalecia.com.br'} titlePageLink={'http://www.dentalecia.com.br/'}
         />
       </div>
     </div>

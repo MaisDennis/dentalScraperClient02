@@ -6,61 +6,45 @@
     "href": "https://www.dentalecia.com.br/produto/agulha-gengival-septoject-xl-septodont/732682-1629060",
     "img": "https://static.dentalecia.com.br/produto/20190612144618_1294998706_H.jpg",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:18:11.678Z\"",
-      "mins": 18,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T16:49:47.808Z\"",
+      "mins": 49,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
     "id": 1,
-    "title": "\n                            Agulha Hipodermica de Uso Único - Injex\n                        ",
-    "price": "\n                                \n                                    \n                                \n                                R$ 9,90\n                            ",
-    "href": "https://www.dentalecia.com.br/produto/agulha-hipodermica-de-uso-unico-injex/732794-1629102",
-    "img": "https://static.dentalecia.com.br/produto/20190618145128_6471993529_H.jpg",
-    "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:18:11.678Z\"",
-      "mins": 18,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
-    }
-  },
-  {
-    "id": 2,
     "title": "\n                            Seringa Descartável Hipodérmica 10ml - Injex\n                        ",
     "price": "\n                                \n                                    \n                                \n                                R$ 0,52\n                            ",
     "href": "https://www.dentalecia.com.br/produto/seringa-descartavel-hipodermica-10ml-injex/1626407",
     "img": "https://static.dentalecia.com.br/produto/20190610130634_9598990402_H.jpg",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:18:11.678Z\"",
-      "mins": 18,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T16:49:47.808Z\"",
+      "mins": 49,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   },
   {
-    "id": 3,
+    "id": 2,
     "title": "\n                            Seringa Endo Embolo 5ml - Ultradent\n                        ",
     "price": "\n                                \n                                    \n                                \n                                R$ 76,90\n                            ",
     "href": "https://www.dentalecia.com.br/produto/seringa-endo-embolo-5ml-ultradent/1715482",
     "img": "https://static.dentalecia.com.br/produto/20191126115134_3186996814_H.png",
     "time": {
-      "stringifiedTimeData": "\"2020-12-23T03:18:11.678Z\"",
-      "mins": 18,
-      "hours": 0,
-      "theDate": 23,
-      "theMonth": 12,
-      "theYear": 2020,
-      "theDay": 3
+      "stringifiedTimeData": "\"2021-01-19T16:49:47.808Z\"",
+      "mins": 49,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
     }
   }
 ]

@@ -5,13 +5,19 @@ import { FaEye } from 'react-icons/fa';
 import SearchBar from '../../components/Searchbar'
 import CategoryMenu from '../../components/CategoryMenu'
 import sort from '../../utils/sort'
+import sortSurya from '../../utils/sortSurya';
+import sortOnly from '../../utils/sortOnly'
+import filters from '../../utils/filters';
+import nonFilters from '../../utils/nonFilters';
+import filtersSurya from '../../utils/filtersSurya';
+import nonFiltersSurya from '../../utils/nonFiltersSurya';
 import SubDivision from '../../components/SubDivision';
 
 import cremerData from '../../items/itemsCremer/cr-acido.html.json'
 import speedData from '../../items/itemsSpeed/sp-acidos+fosforicos.json'
 import onlyData from '../../items/itemsOnly/on-condicionadores-acidos.json'
 import ciaData from '../../items/itemsCia/ci-acido.json'
-
+import suryaData from '../../items/itemsSurya/su-acidos.html.json'
 // -----------------------------------------------------------------------------
 export default function Dashboard() {
 
@@ -19,6 +25,7 @@ export default function Dashboard() {
   let sortedSpeedData = sort(speedData)
   let sortedOnlyData = sort(onlyData)
   let sortedCiaData = sort(ciaData)
+  let sortedSuryaData = sortSurya(suryaData)
 
   const [input, setInput] = useState('');
   const [ cremer, setCremer ] = useState(sortedCremerData);
@@ -29,6 +36,8 @@ export default function Dashboard() {
   const [ onlyListDefault ] = useState(sortedOnlyData);
   const [ cia, setCia ] = useState(sortedCiaData);
   const [ ciaListDefault ] = useState(sortedCiaData);
+  const [ surya, setSurya ] = useState(sortedSuryaData);
+  const [ suryaListDefault ] = useState(sortedSuryaData);
 
   const updateInput = async (input) => {
     const filteredCremer = cremerListDefault.filter(c => {
@@ -48,11 +57,16 @@ export default function Dashboard() {
       let titleDetail = s.title + s.brand + s.details
       return titleDetail.toLowerCase().includes(input.toLowerCase())
     })
+    const filteredSurya = suryaListDefault.filter(s => {
+      let titleDetail = s.title + s.brand + s.details
+      return titleDetail.toLowerCase().includes(input.toLowerCase())
+    })
     setInput(input);
     setCremer(filteredCremer);
     setSpeed(filteredSpeed);
     setOnly(filteredOnly);
     setCia(filteredCia);
+    setSurya(filteredSurya);
   }
 
   function convertedDate(date) {
@@ -75,16 +89,19 @@ export default function Dashboard() {
 
       <div className="videos">
         <SubDivision arrayName={cremer} convertedDate={convertedDate} 
-          title={'Dental Cremer'} titlePageLink={'http://www.dentalcremer.com.br/'}
+          title={'dentalcremer.com.br'} titlePageLink={'http://www.dentalcremer.com.br/'}
         />
         <SubDivision arrayName={speed} convertedDate={convertedDate} 
-          title={'Dental Speed'} titlePageLink={'http://www.dentalspeed.com/'}
+          title={'dentalspeed.com'} titlePageLink={'http://www.dentalspeed.com/'}
         />
-        <SubDivision arrayName={only} convertedDate={convertedDate} 
-          title={'Only Dental'} titlePageLink={'http://www.onlydental.com.br/'}
+        <SubDivision arrayName={surya} convertedDate={convertedDate} 
+          title={'suryadental.com.br'} titlePageLink={'http://www.suryadental.com.br/'}
         />
+        {/* <SubDivision arrayName={only} convertedDate={convertedDate} 
+          title={'onlydental.com.br'} titlePageLink={'http://www.onlydental.com.br/'}
+        /> */}
         <SubDivision arrayName={cia} convertedDate={convertedDate} 
-          title={'Dental & Cia'} titlePageLink={'http://www.dentalecia.com.br/'}
+          title={'dentalecia.com.br'} titlePageLink={'http://www.dentalecia.com.br/'}
         />
       </div>
       

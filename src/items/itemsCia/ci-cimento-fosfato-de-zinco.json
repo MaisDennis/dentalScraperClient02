@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "title": "\n                            Cimento de Zinco Líquido - SS White\n                        ",
+    "price": "R$ 17,00",
+    "href": "https://www.dentalecia.com.br/produto/cimento-de-zinco-liquido-ss-white/927347",
+    "img": "https://static.dentalecia.com.br/produto/20190510032909_1067998933_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:51:10.485Z\"",
+      "mins": 51,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "\n                            Cimento de Zinco Líquido 10ml - Maquira\n                        ",
+    "price": "R$ 16,90",
+    "href": "https://www.dentalecia.com.br/produto/cimento-de-zinco-liquido-10ml-maquira/927742",
+    "img": "https://static.dentalecia.com.br/produto/20190312161320_6605993395_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:51:10.485Z\"",
+      "mins": 51,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
+    "title": "\n                            Cimento de Zinco LS 10ml Líquido - Coltene\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 16,70\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/cimento-de-zinco-ls-10ml-liquido-coltene/1504570",
+    "img": "https://static.dentalecia.com.br/produto/20190510030516_3977996023_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:51:10.485Z\"",
+      "mins": 51,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "\n                            Cimento de Zinco LS 28g Pó - Coltene\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 16,70\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/cimento-de-zinco-ls-28g-po-coltene/927348",
+    "img": "https://static.dentalecia.com.br/produto/20190510030346_6534993466_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:51:10.485Z\"",
+      "mins": 51,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
+    "title": "\n                            Cimento de Zinco Pó - SS White\n                        ",
+    "price": "R$ 17,00",
+    "href": "https://www.dentalecia.com.br/produto/cimento-de-zinco-po-ss-white/927743",
+    "img": "https://static.dentalecia.com.br/produto/20190510032702_5373994627_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:51:10.485Z\"",
+      "mins": 51,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 5,
+    "title": "\n                            Cimento de Zinco Pó 28g - Maquira\n                        ",
+    "price": "R$ 14,80",
+    "href": "https://www.dentalecia.com.br/produto/cimento-de-zinco-po-28g-maquira/927271",
+    "img": "https://static.dentalecia.com.br/produto/20190312163310_5520994480_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:51:10.485Z\"",
+      "mins": 51,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  }
+]

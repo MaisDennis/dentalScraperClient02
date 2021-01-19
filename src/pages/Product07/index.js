@@ -4,7 +4,10 @@ import { FaEye } from 'react-icons/fa';
 // -----------------------------------------------------------------------------
 import CategoryMenu from '../../components/CategoryMenu';
 import sort from '../../utils/sort';
+import sortSurya from '../../utils/sortSurya';
+import sortOnly from '../../utils/sortOnly'
 import filters from '../../utils/filters';
+import filtersSurya from '../../utils/filtersSurya'
 import nonFilters from '../../utils/nonFilters';
 import SubDivision from '../../components/SubDivision';
 
@@ -28,6 +31,17 @@ import crresina from '../../items/itemsCremer/cr-resina-composta.json'
 import crrestaurador from '../../items/itemsCremer/cr-restaurador-provisorio.html.json'
 import crsugador from '../../items/itemsCremer/cr-sugador-descartavel.html.json'
 import crtira from '../../items/itemsCremer/cr-tira-de-lixa.html.json'
+import crresinaacrilica from '../../items/itemsCremer/cr-resina-acrilica.html.json'
+import cralginato from '../../items/itemsCremer/cr-alginato.html.json'
+import crgesso from '../../items/itemsCremer/cr-gesso.html.json'
+import crcera from '../../items/itemsCremer/cr-cera.html.json'
+import crsiliconedeadicao from '../../items/itemsCremer/cr-silicone-de-adicao.html.json'
+import crsiliconedecondensacao from '../../items/itemsCremer/cr-silicone-de-condensacao.html.json'
+import crpinodefibra from '../../items/itemsCremer/cr-pino-de-fibra.html.json'
+import crpinometalico from '../../items/itemsCremer/cr-pino-metalico.html.json'
+import crcimentoresinoso from '../../items/itemsCremer/cr-cimento-resinoso.html.json'
+import crcimentoprovisorio from '../../items/itemsCremer/cr-cimento-provisorio.html.json'
+import crcimentodezinco from '../../items/itemsCremer/cr-cimento-fosfato-de-zinco.html.json'
 
 import spacido from '../../items/itemsSpeed/sp-acidos+fosforicos.json'
 import spagua from '../../items/itemsSpeed/sp-agua-p-autoclave.json'
@@ -47,6 +61,14 @@ import spresina from '../../items/itemsSpeed/sp-resina-dental.json'
 import sprestaurador from '../../items/itemsSpeed/sp-restaurador-provisorio.json'
 import spsugador from '../../items/itemsSpeed/sp-sugadores.json'
 import sptira from '../../items/itemsSpeed/sp-tiras+de+lixa.json'
+import spresinaacrilica from '../../items/itemsSpeed/sp-resina-acrilica-protese.json'
+import spalginato from '../../items/itemsSpeed/sp-alginatos.json'
+import spgesso from '../../items/itemsSpeed/sp-gesso-protese.json'
+import spcera from '../../items/itemsSpeed/sp-cera.json'
+import spsiliconedeadicao from '../../items/itemsSpeed/sp-silicone-de-adicao.json'
+import spsiliconedecondensacao from '../../items/itemsSpeed/sp-silicone-de-condensacao.json'
+import sppino from '../../items/itemsSpeed/sp-pino-e-nucleo.json' // separar
+import spcimentos from '../../items/itemsSpeed/sp-cimento.json' // separar
 
 import onacido from '../../items/itemsOnly/on-condicionadores-acidos.json' // filtrar fosforico
 import onagua from '../../items/itemsOnly/on-agua-p-47-autoclave.json'
@@ -86,18 +108,62 @@ import ciresina from '../../items/itemsCia/ci-resina-composta.json'
 import cirestaurador from '../../items/itemsCia/_empty.json' // rever
 import cisugador from '../../items/itemsCia/ci-sugador-descartavel.json'
 import citira from '../../items/itemsCia/ci-tira-de-lixa.json'
+import ciresinaacrilica from '../../items/itemsCia/ci-resina-acrilica.json'
+import cialginato from '../../items/itemsCia/ci-alginato-moldagem.json'
+import cigesso from '../../items/itemsCia/ci-gesso.json'
+import cicera from '../../items/itemsCia/ci-ceras.json'
+import cisiliconedeadicao from '../../items/itemsCia/ci-silicone-de-adicao.json'
+import cisiliconedecondensacao from '../../items/itemsCia/ci-silicone-de-condensacao.json'
+import cipinodefibra from '../../items/itemsCia/ci-pino-fibra-de-vidro.json'
+import cipinometalico from '../../items/itemsCia/ci-pino-metalico.json'
+import cicimentoresinoso from '../../items/itemsCia/ci-cimento-resinoso.json'
+import cicimentoprovisorio from '../../items/itemsCia/ci-cimento-provisorio.json'
+import cicimentodezinco from '../../items/itemsCia/ci-cimento-fosfato-de-zinco.json'
+
+
+import suacido from '../../items/itemsSurya/su-acidos.html.json'
+import suagua from '../../items/itemsSurya/su-esterilizacao.html.json'
+import suagulha from '../../items/itemsSurya/su-agulhas-gengivais.html.json'
+import sualgodao from '../../items/itemsSurya/su-algodoes.html.json'
+import suaplicador from '../../items/itemsSurya/su-pinceis-microaplicadores.html.json'
+import suanestesico from '../../items/itemsSurya/su-anestesicos.html.json'
+import sucompressa from '../../items/itemsSurya/su-gazes.html.json'
+import sucunha from '../../items/itemsSurya/su-cunha.html.json'
+import suembalagem from '../../items/itemsSurya/_empty.json'
+import sufio from '../../items/itemsSurya/su-fio-de-sutura.json'
+import suionomero from '../../items/itemsSurya/su-ionomeros.json'
+import sulencol from '../../items/itemsSurya/su-lencol-de-borracha.html.json'
+import suluvacirurgica from '../../items/itemsSurya/su-luvas-cirurgicas-estereis.html.json'
+import suluvadeprocedimento from '../../items/itemsSurya/su-luva-de-procedimento.json'
+import sumatriz from '../../items/itemsSurya/su-matriz.json'
+import suresina from '../../items/itemsSurya/su-resinas.json'
+import surestaurador from '../../items/itemsSurya/su-obturadores-restauradores.html.json'
+import susugador from '../../items/itemsSurya/su-sugadores-cirurgicos-plasticos.html.json'
+import sutira from '../../items/itemsSurya/su-tiras-de-poliester.html.json'
+import suresinaacrilica from '../../items/itemsSurya/su-resina-acrilica.json'
+import sualginatosilicones from '../../items/itemsSurya/su-alginato-silicones.json' // separar
+import sugesso from '../../items/itemsSurya/su-gesso.json'
+import sucera from '../../items/itemsSurya/su-cera.json'
+import supinodefibra from '../../items/itemsSurya/su-pino-de-fibra.json'
+import supinometalico from '../../items/itemsSurya/_empty.json'
+import sucimentoresinoso from '../../items/itemsSurya/su-cimentos-resinosos.html.json'
+import sucimentoprovisorio from '../../items/itemsSurya/_empty.json'
+import sucimentodezinco from '../../items/itemsSurya/_empty.json'
+
+
 // -----------------------------------------------------------------------------
 export default function Dashboard(props) {
-  let crKey = []; let spKey = []; let onKey = []; let ciKey = [];
-
+  let crKey = []; let spKey = []; let onKey = []; let ciKey = []; let suKey = [];
+  
   // Filters
   const filteredOnAcido = filters(onacido, 'fosfórico')
   const filteredCiAcido = filters(ciacido, 'fosfórico')
-  
+  const filteredSuAcido = filtersSurya(suacido, 'fosforico')
+
   const filteredOnLuvaDeProcedimento = filters(onluvas, 'procedimento')
   const filteredSpLuvadeProcedimento = filters(spluvas, 'procedimento')
   const nonFilteredCrLuvadeProcedimento = nonFilters(crluvadeprocedimento, 'sobre')
-  
+
   const filteredOnLuvaCirurgica = filters(onluvas, 'cirúrgica')
   const filteredSpLuvaCirurgica = filters(spluvas, 'cirúrgica')
 
@@ -110,55 +176,92 @@ export default function Dashboard(props) {
 
   const nonFilteredSpAgulha = nonFilters(spagulha, 'irrigação')
 
+  const filteredSuAgua = filtersSurya(suagua, 'agua')
+
+  const filteredSuAlgodao = filtersSurya(sualgodao, 'rolete')
+
+  const filteredSpPinoDeFibra = filters(sppino, 'fibra')
+  const filteredSpPinoMetalico = filters(sppino, 'metálico')
+
+  const filteredSpCimentoResinoso = filters(spcimentos, 'resinoso')
+  const filteredSpCimentoProvisorio = filters(spcimentos, 'provisório')
+  const filteredSpCimentoDeZinco = filters(spcimentos, 'zinco')
+
+  const filteredSuAlginato =  filtersSurya(sualginatosilicones, 'alginato')
+  const filteredSuSiliconeDeAdicao = filtersSurya(sualginatosilicones, 'adicao')
+  const filteredSuSiliconeDeCondensacao = filtersSurya(sualginatosilicones, 'condensacao')
+  
   const query = () => {
     const matchURL = props.match.url || '/lencol';
     switch (matchURL) {
-      case ('/acido+fosforico'): crKey = cracido; spKey = spacido; onKey = filteredOnAcido; ciKey = filteredCiAcido; break;
-      case ('/agua-destilada'): crKey = cragua; spKey = spagua;  onKey = onagua; ciKey = ciagua; break;
-      case ('/agulha'): crKey = cragulha; spKey = nonFilteredSpAgulha;  onKey = onagulha; ciKey = ciagulha; break;
-      case ('/algodao-rolete'): crKey = cralgodao; spKey = spalgodao;  onKey = onalgodao; ciKey = cialgodao; break;
-      case ('/anestesico'): crKey = cranestesico; spKey = spanestesico;  onKey = onanestesico; ciKey = cianestesico; break;
-      case ('/cunha'): crKey = crcunha; spKey = spcunha;  onKey = oncunha; ciKey = cicunha; break;
-      case ('/embalagem-para-autoclave'): crKey = crembalagem; spKey = spembalagem;  onKey = onembalagem; ciKey = ciembalagem; break;
-      case ('/fio-de-sutura'): crKey = crfio; spKey = spfio;  onKey = onfio; ciKey = cifio; break; 
-      case ('/gaze'): crKey = crcompressa; spKey = spcompressa;  onKey = oncompressa; ciKey = cicompressa; break;
-      case ('/ionomero-de-vidro'): crKey = crionomero; spKey = spionomero;  onKey = onionomero; ciKey = ciionomero; break;
-      case ('/lencol-de-borracha'): crKey = crlencol; spKey = splencol;  onKey = onlencol; ciKey = cilencol; break;
-      case ('/luva-cirurgica'): crKey = crluvacirurgica; spKey = filteredSpLuvaCirurgica;  onKey = filteredOnLuvaCirurgica; ciKey = ciluvacirurgica; break;
-      case ('/luva-de-procedimento'): crKey = nonFilteredCrLuvadeProcedimento; spKey = filteredSpLuvadeProcedimento;  onKey = filteredOnLuvaDeProcedimento; ciKey = ciluvadeprocedimento; break;
-      case ('/matriz'): crKey = nonFilteredCrMatriz; spKey = spmatriz;  onKey = onmatriz; ciKey = cimatriz; break;
-      case ('/microbrush'): crKey = nonNonFilteredCrAplicador; spKey = filteredSpAplicador;  onKey = nonFilteredOnAplicador; ciKey = ciaplicador; break;
-      case ('/resina-dental'): crKey = crresina; spKey = spresina;  onKey = onresina; ciKey = ciresina; break;
-      case ('/restaurador-provisorio'): crKey = crrestaurador; spKey = sprestaurador;  onKey = onrestaurador; ciKey = cirestaurador; break;
-      case ('/sugador'): crKey = crsugador; spKey = spsugador;  onKey = onsugador; ciKey = cisugador; break;
-      case ('/tira'): crKey = crtira; spKey = sptira;  onKey = ontira; ciKey = citira; break;
-      default: crKey = cracido; spKey = spacido;  onKey = onacido; ciKey = ciacido;
+      case ('/acido+fosforico'): crKey = cracido; spKey = spacido; onKey = filteredOnAcido; ciKey = filteredCiAcido; suKey = filteredSuAcido; break;
+      case ('/agua-destilada'): crKey = cragua; spKey = spagua; onKey = onagua; ciKey = ciagua; suKey = filteredSuAgua; break;
+      case ('/agulha'): crKey = cragulha; spKey = nonFilteredSpAgulha; onKey = onagulha; ciKey = ciagulha; suKey = suagulha; break;
+      case ('/algodao-rolete'): crKey = cralgodao; spKey = spalgodao; onKey = onalgodao; ciKey = cialgodao; suKey = filteredSuAlgodao; break;
+      case ('/anestesico'): crKey = cranestesico; spKey = spanestesico; onKey = onanestesico; ciKey = cianestesico; suKey = suanestesico; break;
+      case ('/cunha'): crKey = crcunha; spKey = spcunha; onKey = oncunha; ciKey = cicunha; suKey = sucunha; break;
+      case ('/embalagem-para-autoclave'): crKey = crembalagem; spKey = spembalagem; onKey = onembalagem; ciKey = ciembalagem; suKey = suembalagem; break;
+      case ('/fio-de-sutura'): crKey = crfio; spKey = spfio; onKey = onfio; ciKey = cifio; suKey = sufio; break;
+      case ('/gaze'): crKey = crcompressa; spKey = spcompressa; onKey = oncompressa; ciKey = cicompressa; suKey = sucompressa; break;
+      case ('/ionomero-de-vidro'): crKey = crionomero; spKey = spionomero; onKey = onionomero; ciKey = ciionomero; suKey = suionomero; break;
+      case ('/lencol-de-borracha'): crKey = crlencol; spKey = splencol; onKey = onlencol; ciKey = cilencol; suKey = sulencol; break;
+      case ('/luva-cirurgica'): crKey = crluvacirurgica; spKey = filteredSpLuvaCirurgica; onKey = filteredOnLuvaCirurgica; ciKey = ciluvacirurgica; suKey = suluvacirurgica; break;
+      case ('/luva-de-procedimento'): crKey = nonFilteredCrLuvadeProcedimento; spKey = filteredSpLuvadeProcedimento; onKey = filteredOnLuvaDeProcedimento; ciKey = ciluvadeprocedimento; suKey = suluvadeprocedimento; break;
+      case ('/matriz'): crKey = nonFilteredCrMatriz; spKey = spmatriz; onKey = onmatriz; ciKey = cimatriz; suKey = sumatriz; break;
+      case ('/microbrush'): crKey = nonNonFilteredCrAplicador; spKey = filteredSpAplicador; onKey = nonFilteredOnAplicador; ciKey = ciaplicador; suKey = suaplicador; break;
+      case ('/resina-dental'): crKey = crresina; spKey = spresina; onKey = onresina; ciKey = ciresina; suKey = suresina; break;
+      case ('/restaurador-provisorio'): crKey = crrestaurador; spKey = sprestaurador; onKey = onrestaurador; ciKey = cirestaurador; suKey = surestaurador; break;
+      case ('/sugador'): crKey = crsugador; spKey = spsugador; onKey = onsugador; ciKey = cisugador; suKey = susugador; break;
+      
+      case ('/resina-acrilica'): crKey = crresinaacrilica; spKey = spresinaacrilica; onKey = ontira; ciKey = ciresinaacrilica; suKey = suresinaacrilica; break;
 
+      case ('/gesso'): crKey = crgesso; spKey = spgesso; onKey = ontira; ciKey = cigesso; suKey = sugesso; break;
+      case ('/cera'): crKey = crcera; spKey = spcera; onKey = ontira; ciKey = cicera; suKey = sucera; break;
+      case ('/alginato'): crKey = cralginato; spKey = spalginato; onKey = onsugador; ciKey = cialginato; suKey = filteredSuAlginato; break;
+      case ('/silicone-de-adicao'): crKey = cisiliconedeadicao; spKey = cisiliconedeadicao; onKey = onsugador; ciKey = cisiliconedeadicao; suKey = filteredSuSiliconeDeAdicao; break;
+      case ('/silicone-de-condensacao'): crKey = crsiliconedecondensacao; spKey = spsiliconedecondensacao; onKey = onsugador; ciKey = cisiliconedecondensacao; suKey = filteredSuSiliconeDeCondensacao; break;
+      case ('/alginato'): crKey = cralginato; spKey = spalginato; onKey = onsugador; ciKey = cialginato; suKey = filteredSuAlginato; break;
+
+      case ('/pino-de-fibra'): crKey = crpinodefibra; spKey = filteredSpPinoDeFibra; onKey = ontira; ciKey = cipinodefibra; suKey = supinodefibra; break;
+      case ('/pino-metalico'): crKey = crpinometalico; spKey = filteredSpPinoMetalico; onKey = ontira; ciKey = cipinometalico; suKey = supinometalico; break;
+      case ('/cimento-resinoso'): crKey = crcimentoresinoso; spKey = filteredSpCimentoResinoso; onKey = ontira; ciKey = cicimentoresinoso; suKey = sucimentoresinoso; break;
+      case ('/cimento-provisorio'): crKey = crcimentoprovisorio; spKey = filteredSpCimentoProvisorio; onKey = ontira; ciKey = cicimentoprovisorio; suKey = sucimentoprovisorio; break;
+      case ('/cimento-de-zinco'): crKey = crcimentodezinco; spKey = filteredSpCimentoDeZinco; onKey = ontira; ciKey = cicimentodezinco; suKey = sucimentodezinco; break;
+      default: crKey = cracido; spKey = spacido; onKey = onacido; ciKey = ciacido; suKey = suacido;
     }
   }
-
+  
   query();
+  console.log(cialginato)
+  console.log(cralginato)
+  console.log(spalginato)
 
-  crKey = sort(crKey); 
+
+  crKey = sort(crKey);
   spKey = sort(spKey);
   onKey = sort(onKey);
-  ciKey = sort(ciKey); 
-
+  ciKey = sort(ciKey);
+  suKey = sortSurya(suKey);
+  
+  
   const [input, setInput] = useState('');
   const [cremer, setCremer] = useState(crKey);
   const [cremerListDefault] = useState(crKey);
   const [speed, setSpeed] = useState(spKey);
   const [speedListDefault] = useState(spKey);
-  const [only, setOnly] = useState(onKey);
+  // const [only, setOnly] = useState(onKey);
   const [onlyListDefault] = useState(onKey);
   const [cia, setCia] = useState(ciKey);
   const [ciaListDefault] = useState(ciKey);
+  const [surya, setSurya] = useState(suKey);
+  const [suryaListDefault] = useState(suKey);
 
   useEffect(() => {
     setCremer(crKey);
     setSpeed(spKey);
-    setOnly(onKey);
+    // setOnly(onKey);
     setCia(ciKey);
+    setSurya(suKey);
   }, [props.match.path])
 
   const updateInput = async (input) => {
@@ -179,11 +282,16 @@ export default function Dashboard(props) {
       let titleDetail = s.title
       return titleDetail.toLowerCase().includes(input.toLowerCase())
     })
+    const filteredSurya = suryaListDefault.filter(s => {
+      let titleDetail = s.title
+      return titleDetail.toLowerCase().includes(input.toLowerCase())
+    })
     setInput(input);
     setCremer(filteredCremer);
     setSpeed(filteredSpeed);
-    setOnly(filteredOnly);
+    // setOnly(filteredOnly);
     setCia(filteredCia);
+    setSurya(filteredSurya);
   }
 
   function convertedDate(date) {
@@ -202,22 +310,26 @@ export default function Dashboard(props) {
         <div className="search-bar-div">
           <SearchBar input={input} onChange={updateInput} />
         </div>
-        <h1 className="logo"><FaEye/>Cyclops Dental</h1>
+        <h1 className="logo"><FaEye />Cyclops</h1>
       </header>
 
       <div className="videos">
-        <SubDivision arrayName={cremer} convertedDate={convertedDate} 
-          title={'Dental Cremer'} titlePageLink={'http://www.dentalcremer.com.br/'}
+        <SubDivision arrayName={cremer} convertedDate={convertedDate}
+          title={'dentalcremer.com.br'} titlePageLink={'http://www.dentalcremer.com.br/'}
         />
-        <SubDivision arrayName={speed} convertedDate={convertedDate} 
-          title={'Dental Speed'} titlePageLink={'http://www.dentalspeed.com/'}
+        <SubDivision arrayName={speed} convertedDate={convertedDate}
+          title={'dentalspeed.com'} titlePageLink={'http://www.dentalspeed.com/'}
         />
-        <SubDivision arrayName={only} convertedDate={convertedDate} 
-          title={'Only Dental'} titlePageLink={'http://www.onlydental.com.br/'}
+        <SubDivision arrayName={surya} convertedDate={convertedDate}
+          title={'suryadental.com.br'} titlePageLink={'http://www.suryadental.com.br/'}
         />
-        <SubDivision arrayName={cia} convertedDate={convertedDate} 
-          title={'Dental & Cia'} titlePageLink={'http://www.dentalecia.com.br/'}
+        {/* <SubDivision arrayName={only} convertedDate={convertedDate}
+          title={'onlydental.com.br'} titlePageLink={'http://www.onlydental.com.br/'}
+        /> */}
+        <SubDivision arrayName={cia} convertedDate={convertedDate}
+          title={'dentalecia.com.br'} titlePageLink={'http://www.dentalecia.com.br/'}
         />
+
       </div>
     </div>
   );

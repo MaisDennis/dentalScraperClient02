@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "title": "\n                            Gesso Pedra Durone IV - Dentsply\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 29,90\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/gesso-pedra-durone-iv-dentsply/658697-928540",
+    "img": "https://static.dentalecia.com.br/produto/20190416165642_8858991142_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:50:52.167Z\"",
+      "mins": 50,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "\n                            Gesso Pedra Herodent Tipo III - Coltene\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 11,60\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/gesso-pedra-herodent-tipo-iii-coltene/1631019",
+    "img": "https://static.dentalecia.com.br/produto/20190613204611_5237994763_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:50:52.167Z\"",
+      "mins": 50,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
+    "title": "\n                            Gesso Snow Rock Premium Marfim - OdontoMega\n                        ",
+    "price": "\n                                \n                                    \n                                \n                                R$ 68,90\n                            ",
+    "href": "https://www.dentalecia.com.br/produto/gesso-snow-rock-premium-marfim-odontomega/3333054",
+    "img": "https://static.dentalecia.com.br/produto/20200722173157_9774990226_H.jpg",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T16:50:52.167Z\"",
+      "mins": 50,
+      "hours": 13,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  }
+]

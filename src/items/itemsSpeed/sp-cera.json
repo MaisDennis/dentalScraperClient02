@@ -1,0 +1,416 @@
+[
+  {
+    "id": 0,
+    "title": "Cera Acrílica Branca",
+    "brand": "KOTA",
+    "details": "Embalagem c/ 1 lata de 50g.",
+    "price": "R$ 19,33",
+    "href": "https://www.dentalspeed.com/familia/cera-acrilica-branca-kota",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-cera-acrilica-branca-kota.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "Cera p/ Escultura Macia",
+    "brand": "KOTA",
+    "details": "Embalagem c/ 1 lata de 50g.",
+    "price": "R$ 19,45",
+    "href": "https://www.dentalspeed.com/familia/cera-p-escultura-macia-kota",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-cera-p-escultura-macia-50g-verde-kota.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 2,
+    "title": "Cera p/ Escultura Regular",
+    "brand": "KOTA",
+    "details": "Embalagem c/ 1 lata de 50g.",
+    "price": "R$ 20,00",
+    "href": "https://www.dentalspeed.com/familia/cera-p-escultura-regular-kota",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-cera-p-escultura-regular-50g-azul-kota.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 3,
+    "title": "Cera Wilson Utilidade",
+    "brand": "POLIDENTAL",
+    "details": "Embalagem c/ 5 lâminas, de 225g.",
+    "price": "R$ 21,78",
+    "href": "https://www.dentalspeed.com/familia/cera-wilson-utilidade-polidental",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-wilson-utilidade-polidental.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 4,
+    "title": "Cera p/ Escultura Macro",
+    "brand": "CLÁSSICO",
+    "details": "Embalagem c/ 12 blocos.",
+    "price": "R$ 22,59",
+    "href": "https://www.dentalspeed.com/familia/cera-p-escultura-macro-classico",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-p-escultura-macro-classico.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 5,
+    "title": "Cera p/ Osso",
+    "brand": "J&J ETHICON",
+    "details": "Embalagem c/ 1 unidade de 2,5g.",
+    "price": "R$ 27,20",
+    "href": "https://www.dentalspeed.com/familia/cera-p-osso-jj-ethicon",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-p-osso-jj-ethicon.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 6,
+    "title": "Cera 4 cores",
+    "brand": "KOTA",
+    "details": "Embalagem c/ 5 latas de 9g cada c/ 4 cores + cera pegajosa.",
+    "price": "R$ 44,97",
+    "href": "https://www.dentalspeed.com/familia/cera-4-cores-kota",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-4-cores-kota.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 7,
+    "title": "Cera Lata 4 Cores",
+    "brand": "LYSANDA",
+    "details": "Embalagem com 5 latas (9g cada) nas cores: azul, verde, rosa, amarela e cera pegajosa.",
+    "price": "R$ 37,80",
+    "href": "https://www.dentalspeed.com/familia/cera-lata-4-cores-lysanda",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-lata-4-cores-18699.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 8,
+    "title": "Cera p/ Escultura",
+    "brand": "ORAIS",
+    "details": "Embalagem c/ 10 unidades.",
+    "price": "R$ 16,00",
+    "href": "https://www.dentalspeed.com/familia/cera-p-escultura-orais",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-p-escultura-13-x-13-marfim-ors17177b.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 9,
+    "title": "Cera p/ Escultura Macro Marfim",
+    "brand": "LYSANDA",
+    "details": "Embalagem c/ 12 blocos de cera.",
+    "price": "R$ 29,00",
+    "href": "https://www.dentalspeed.com/familia/cera-p-escultura-macro-marfim-lysanda",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-p-escultura-macro-marfim-macia-lysanda-13355.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 10,
+    "title": "Cera p/ Escultura Micro Marfim",
+    "brand": "LYSANDA",
+    "details": "Embalagem c/ 10 blocos de cera.",
+    "price": "R$ 24,00",
+    "href": "https://www.dentalspeed.com/familia/cera-p-escultura-micro-marfim-lysanda",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-p-escultura-micro-marfim-regular-lysanda-13354.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 11,
+    "title": "Cêra Pegajosa Bastão",
+    "brand": "ASFER",
+    "details": "Embalagem c/ 20 bastões.",
+    "price": "R$ 15,84",
+    "href": "https://www.dentalspeed.com/familia/cera-pegajosa-bastao-asfer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-pegajosa-asf16212a.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 12,
+    "title": "Cera Periférica",
+    "brand": "ASFER",
+    "details": "Embalagem c/ 40 unidades.",
+    "price": "R$ 25,60",
+    "href": "https://www.dentalspeed.com/familia/cera-periferica-asfer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-periferica-n-6-branco-asfer-11364.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 13,
+    "title": "Cera Utilidade",
+    "brand": "LYSANDA",
+    "details": "Embalagem c/ 5 unidades.",
+    "price": "R$ 25,00",
+    "href": "https://www.dentalspeed.com/familia/cera-utilidade-lysanda",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-utilidade-lysanda-11923.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 14,
+    "title": "Cera Articulação Amarela",
+    "brand": "CLÁSSICO",
+    "details": "Embalagem c/ 05 lâminas de 220g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/cera-articulacao-amarela-classico",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-cera-articulacao-amarela-classico.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 15,
+    "title": "Cera Periférica nº Branca",
+    "brand": "LYSANDA",
+    "details": "Embalagem c/ 40 Bastões.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/cera-periferica-n-branca-lysanda",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-periferica-n-6-branca-lysanda-13136.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 16,
+    "title": "Cera Rosa 7",
+    "brand": "LYSANDA",
+    "details": "Embalgem c/ 18 lâminas.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/cera-rosa-7-lysanda",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-cera-rosa-7-lysanda-01.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 17,
+    "title": "Cera Rosa 7 - 220g",
+    "brand": "CLÁSSICO",
+    "details": "Embalagem c/ 18 lâminas, de 220g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/cera-rosa-7-220g-classico",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-cera-rosa-7-classico.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 18,
+    "title": "Cera Rosa 9",
+    "brand": "CLÁSSICO",
+    "details": "Embalagem c/ 18 lâminas, de 220g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/cera-rosa-9-classico",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-cera-rosa-9-classico.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 19,
+    "title": "Cera Utilidade 5 Lâminas - 220g",
+    "brand": "CLÁSSICO",
+    "details": "Embalagem c/ 5 lâminas, de 220g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/cera-utilidade-5-laminas-220g-classico",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-cera-utilidade-18-laminas-220g-classico.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 20,
+    "title": "Cera Wilson Rosa 7",
+    "brand": "POLIDENTAL",
+    "details": "Embalagem c/ 18 lâminas, de 225g.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/cera-wilson-rosa-7-polidental",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-wilson-rosa-7-polidental.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 21,
+    "title": "Plano de Cera 7",
+    "brand": "CLÁSSICO",
+    "details": "Embalagem c/ 10 unidades.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/plano-de-cera-7-classico",
+    "img": "https://cdn.dentalspeed.com/produtos/150/produto-plano-de-cera-7-classico.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 22,
+    "title": "Cera Utilidade",
+    "brand": "ASFER",
+    "details": "Embalagem c/ 5 lâminas.",
+    "price": "ESGOTADO",
+    "href": "https://www.dentalspeed.com/familia/cera-utilidade-asfer",
+    "img": "https://cdn.dentalspeed.com/produtos/150/cera-utilidade-9853.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:08.097Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  }
+]

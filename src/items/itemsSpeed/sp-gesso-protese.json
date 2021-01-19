@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "title": "Gesso Pedra Especial Durone Tipo IV",
+    "brand": "DENTSPLY SIRONA",
+    "details": "Embalagem c/ 1Kg.",
+    "price": "R$ 29,90",
+    "href": "https://www.dentalspeed.com/familia/gesso-pedra-especial-durone-tipo-iv-dentsply-sirona",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gesso-pedra-especial-durone-tipo-iv-3493-1.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:03.339Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  },
+  {
+    "id": 1,
+    "title": "Gesso Pedra GC Fujirock",
+    "brand": "GC",
+    "details": "Embalagem c/ 4Kg.",
+    "price": "R$ 315,00",
+    "href": "https://www.dentalspeed.com/familia/gc-fujirock-gc",
+    "img": "https://cdn.dentalspeed.com/produtos/150/gc-fujirock-gc.png",
+    "time": {
+      "stringifiedTimeData": "\"2021-01-19T17:11:03.339Z\"",
+      "mins": 11,
+      "hours": 14,
+      "theDate": 19,
+      "theMonth": 1,
+      "theYear": 2021,
+      "theDay": 2
+    }
+  }
+]
