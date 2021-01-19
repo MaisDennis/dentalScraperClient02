@@ -6,9 +6,9 @@
 
 Clone this repository and run the following commands inside the project directory:
 
-1. Instalar bibliotecas: `yarn`
+1. Install dependencies: `yarn`
 
-2. Script para iniciar o server: `yarn start`
+2. Script to start server: `yarn start`
 
 # 2. Contributing
 
