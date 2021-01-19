@@ -18,4 +18,4 @@ Clone this repository and run the following commands inside the project director
 
 # 3. License
 
-This project is licensed under the MIT License - see the <a href="https://github.com/MaisDennis/dentalScraperClient/blob/master/LICENSE.md">LICENSE.md</a> file for more information.
+This project is licensed under the MIT License - see the <a href="https://github.com/MaisDennis/dentalScraperClient02/blob/master/LICENSE.md">LICENSE.md</a> file for more information.
